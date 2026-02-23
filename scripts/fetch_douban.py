@@ -4,7 +4,7 @@ import datetime
 import re
 from pathlib import Path
 
-# 更换了更稳定的 RSSHub 公共镜像源 (rsshub.rssforever.com)
+# 使用稳定的镜像源
 RSS_URLS = [
     "https://rsshub.rssforever.com/douban/movie/playing/7.5",
     "https://rsshub.rssforever.com/douban/movie/weekly",
@@ -18,17 +18,13 @@ seen_guids = set()
 
 for url in RSS_URLS:
     print(f"⏳ 正在尝试抓取: {url}")
-    # 添加 headers 伪装成正常浏览器，降低被拦截的概率
-    feed = feedparser.parse(url, agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
+    feed = feedparser.parse(url, agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
     
-    # 检查是否抓到数据
     if not feed.entries:
-        print(f"⚠️ {url} 未抓取到数据，可能被限流或节点网络不通。")
-        if hasattr(feed, 'status'):
-            print(f"   HTTP 状态码: {feed.status}")
+        print(f"⚠️ {url} 未抓取到数据。")
         continue
 
-    print(f"✅ 成功连接源！获取到 {len(feed.entries)} 条数据。")
+    print(f"✅ 成功获取到 {len(feed.entries)} 条数据。")
 
     for entry in feed.entries:
         guid = entry.get('guid', entry.link)
@@ -37,17 +33,20 @@ for url in RSS_URLS:
         seen_guids.add(guid)
         
         title = entry.title
+        # 🌟 修复点：在这里先处理好双引号转义，避免在 f-string 内部使用反斜杠
+        safe_title = title.replace('"', '\\"')
+        
         slug = re.sub(r'[^a-zA-Z0-9\u4e00-\u9fa5]+', '-', title).strip('-').lower()
         date = datetime.datetime(*entry.published_parsed[:6]) if 'published_parsed' in entry else datetime.datetime.now()
         date_str = date.strftime("%Y-%m-%d")
         
         search_keyword = title.replace(' ', '%20')
         watch_link = f"https://tv.srfwq.top/search/{search_keyword}"
-        
         description = entry.get('description', '')
         
+        # 🌟 修复点：这里直接引用 safe_title 变量
         front_matter = f"""---
-title: "{title.replace('"', '\\"')}"
+title: "{safe_title}"
 date: {date_str}
 draft: false
 description: "豆瓣高分推荐：{title}"
