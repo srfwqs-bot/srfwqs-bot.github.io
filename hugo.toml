@@ -40,4 +40,4 @@ languageCode = "zh-cn"
 
 [sitemap]
   changefreq = "daily"
-  filename = "sitemap.xml"
+  filename = "sitemap.xml"# Trigger Deploy
