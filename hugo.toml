@@ -23,3 +23,8 @@ languageCode = "zh-cn"
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
