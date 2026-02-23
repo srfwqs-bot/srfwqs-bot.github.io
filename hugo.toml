@@ -23,7 +23,7 @@ languageCode = "zh-cn"
   # 3. 首页欢迎语
   [params.homeInfoParams]
     Title = "欢迎来到我的站点"
-    Content = "自动更新豆瓣热门视频介绍，从 Hexo 迁移到 Hugo，速度更快！"
+    Content = "自动更新豆瓣热门视频介绍！"
 
   # 4. 资源处理
   [params.assets]
