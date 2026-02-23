@@ -41,7 +41,7 @@ for url in RSS_URLS:
         date_str = date.strftime("%Y-%m-%d")
         
         search_keyword = title.replace(' ', '%20')
-        watch_link = f"https://tv.srfwq.top/search/{search_keyword}"
+        watch_link = f"https://tv.srfwq.top/?q={search_keyword}"
         description = entry.get('description', '')
         
         # 🌟 修复点：这里直接引用 safe_title 变量
