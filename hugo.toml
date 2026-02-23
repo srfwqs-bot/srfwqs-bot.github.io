@@ -1,0 +1,25 @@
+baseURL = "https://srfwqs-bot.github.io"
+title = "你的站点标题"
+theme = "PaperMod"
+languageCode = "zh-cn"
+
+# 🌟 新增：全局作者信息（解决 RSS 报错的核心）
+[author]
+  name = "luxingzhen"
+
+[params]
+  author = "luxingzhen" # PaperMod 主题也会从这里读取作者
+  description = "你的站点描述"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = "欢迎来到我的站点"
+  Content = "从 Hexo 迁移到 Hugo，速度更快！"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
