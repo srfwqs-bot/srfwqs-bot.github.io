@@ -1,21 +1,39 @@
 baseURL = "https://srfwqs-bot-github-io.pages.dev/"
-title = "你的站点标题"
+title = "SR 极速影院 - 豆瓣新片速览"
 theme = "PaperMod"
 languageCode = "zh-cn"
 
-# 🌟 新增：全局作者信息（解决 RSS 报错的核心）
+# 全局作者信息
 [author]
   name = "luxingzhen"
 
 [params]
-  author = "luxingzhen" # PaperMod 主题也会从这里读取作者
-  description = "你的站点描述"
+  author = "luxingzhen"
+  description = "最新豆瓣高分电影/剧集介绍，一键跳转观看平台"
+  env = "production"
+  
+  # 1. 解决图片防盗链的核心
+  header_custom = ['<meta name="referrer" content="no-referrer">']
+  
+  # 2. 界面功能设置
   ShowReadingTime = true
   ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  
+  # 3. 首页欢迎语
+  [params.homeInfoParams]
+    Title = "欢迎来到我的站点"
+    Content = "自动更新豆瓣热门视频介绍，从 Hexo 迁移到 Hugo，速度更快！"
 
-[params.homeInfoParams]
-  Title = "欢迎来到我的站点"
-  Content = "从 Hexo 迁移到 Hugo，速度更快！"
+  # 4. 资源处理
+  [params.assets]
+    disableHLJS = false
+
+# 5. 渲染设置：允许 HTML 嵌入（非常重要）
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [outputs]
   home = ["HTML", "RSS"]
@@ -23,8 +41,3 @@ languageCode = "zh-cn"
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
