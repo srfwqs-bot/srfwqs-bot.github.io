@@ -41,6 +41,12 @@ jobs:
         run: python scripts/fetch_douban.py | tee fetch.log
 
       - name: Build publish queue state
+        env:
+          PUBLISH_GATEWAY_BASE_URL: ${{ secrets.PUBLISH_GATEWAY_BASE_URL }}
+          BAIJIAHAO_PUBLISH_ENDPOINT: ${{ secrets.BAIJIAHAO_PUBLISH_ENDPOINT }}
+          BAIJIAHAO_PUBLISH_TOKEN: ${{ secrets.BAIJIAHAO_PUBLISH_TOKEN }}
+          TOUTIAO_PUBLISH_ENDPOINT: ${{ secrets.TOUTIAO_PUBLISH_ENDPOINT }}
+          TOUTIAO_PUBLISH_TOKEN: ${{ secrets.TOUTIAO_PUBLISH_TOKEN }}
         run: python scripts/publish_dispatch.py | tee -a fetch.log
 
       - name: Check for changes
