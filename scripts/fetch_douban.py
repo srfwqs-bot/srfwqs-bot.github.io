@@ -16,6 +16,9 @@ RSS_SOURCES = [
     ("高分推荐", "https://rsshub.rssforever.com/douban/movie/weekly"),
 ]
 
+SITE_BASE_URL = "https://wztj.893810.xyz"
+BAIDU_PUSH_API = "http://data.zz.baidu.com/urls?site=https://wztj.893810.xyz&token=jFhkTJy8IB7LvvjX"
+
 OUTPUT_DIR = Path("content/posts")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 POSTER_DIR = Path("static/posters")
@@ -423,6 +426,37 @@ def load_existing_indexes():
 
     return existing_titles, existing_links
 
+
+def submit_urls_to_baidu(urls):
+    if not urls:
+        return
+
+    payload = "\n".join(urls).encode("utf-8")
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Content-Type": "text/plain",
+    }
+
+    try:
+        req = Request(BAIDU_PUSH_API, data=payload, headers=headers, method="POST")
+        with urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+            body = resp.read().decode("utf-8", errors="ignore")
+            try:
+                result = json.loads(body)
+            except json.JSONDecodeError:
+                print(f"⚠️ Baidu push returned non-JSON: {body[:200]}")
+                return
+
+            success = int(result.get("success", 0) or 0)
+            remain = result.get("remain")
+            not_same_site = int(result.get("not_same_site", 0) or 0)
+            not_valid = int(result.get("not_valid", 0) or 0)
+            print(
+                f"📮 Baidu push: success={success}/{len(urls)} remain={remain} not_same_site={not_same_site} not_valid={not_valid}"
+            )
+    except Exception as exc:
+        print(f"⚠️ Baidu push failed: {exc}")
+
 def main():
     seen_guids = set()
     existing_titles, existing_links = load_existing_indexes()
@@ -431,6 +465,7 @@ def main():
     detail_partial = 0
     detail_missing = 0
     failed_feeds = 0
+    new_post_urls = []
 
     for source_name, url in RSS_SOURCES:
         print(f"⏳ 正在尝试抓取 [{source_name}]: {url}")
@@ -515,6 +550,9 @@ tags: ["影视推荐", "在线观看", "{source_name}"]
             path = OUTPUT_DIR / filename
             path.write_text(content, encoding='utf-8')
             total_new_posts += 1
+            post_stem = Path(filename).stem
+            post_url = f"{SITE_BASE_URL}/posts/{quote(post_stem, safe='-._~')}/"
+            new_post_urls.append(post_url)
             existing_titles.add(title)
             if source_link:
                 existing_links.add(source_link)
@@ -524,6 +562,11 @@ tags: ["影视推荐", "在线观看", "{source_name}"]
     print(
         f"📊 统计：新增={total_new_posts} 完整详情={detail_complete} 部分详情={detail_partial} 缺失详情={detail_missing} 失败源={failed_feeds}/{len(RSS_SOURCES)}"
     )
+
+    if new_post_urls:
+        dedup_urls = list(dict.fromkeys(new_post_urls))
+        submit_urls_to_baidu(dedup_urls)
+
     if failed_feeds == len(RSS_SOURCES):
         raise RuntimeError("All RSS sources failed")
 
