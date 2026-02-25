@@ -23,6 +23,9 @@ OUTPUT_DIR = Path("content/posts")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 POSTER_DIR = Path("static/posters")
 POSTER_DIR.mkdir(parents=True, exist_ok=True)
+AUTOMATION_DIR = Path("automation")
+AUTOMATION_DIR.mkdir(parents=True, exist_ok=True)
+PUBLISH_QUEUE_PATH = AUTOMATION_DIR / "publish_queue.json"
 
 HTTP_TIMEOUT = 8
 REQUEST_RETRIES = 3
@@ -427,6 +430,49 @@ def load_existing_indexes():
     return existing_titles, existing_links
 
 
+def load_publish_queue():
+    if not PUBLISH_QUEUE_PATH.exists():
+        return []
+    try:
+        data = json.loads(PUBLISH_QUEUE_PATH.read_text(encoding="utf-8"))
+        if isinstance(data, list):
+            return data
+    except (ValueError, OSError):
+        pass
+    return []
+
+
+def update_publish_queue(new_items):
+    if not new_items:
+        return
+
+    current = load_publish_queue()
+    by_url = {}
+
+    for item in current:
+        url = str(item.get("url", "")).strip()
+        if url:
+            by_url[url] = item
+
+    for item in new_items:
+        url = str(item.get("url", "")).strip()
+        if not url:
+            continue
+        by_url[url] = {
+            "title": str(item.get("title", "")).strip(),
+            "url": url,
+            "source": str(item.get("source", "")).strip(),
+            "date": str(item.get("date", "")).strip(),
+            "file": str(item.get("file", "")).strip(),
+            "state": "pending",
+            "queued_at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
+        }
+
+    queue = sorted(by_url.values(), key=lambda x: (x.get("date", ""), x.get("url", "")), reverse=True)
+    PUBLISH_QUEUE_PATH.write_text(json.dumps(queue, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"📦 Publish queue updated: {len(queue)} total, +{len(new_items)} new")
+
+
 def submit_urls_to_baidu(urls):
     if not urls:
         return
@@ -466,6 +512,7 @@ def main():
     detail_missing = 0
     failed_feeds = 0
     new_post_urls = []
+    new_publish_items = []
 
     for source_name, url in RSS_SOURCES:
         print(f"⏳ 正在尝试抓取 [{source_name}]: {url}")
@@ -553,6 +600,13 @@ tags: ["影视推荐", "在线观看", "{source_name}"]
             post_stem = Path(filename).stem
             post_url = f"{SITE_BASE_URL}/posts/{quote(post_stem, safe='-._~')}/"
             new_post_urls.append(post_url)
+            new_publish_items.append({
+                "title": title,
+                "url": post_url,
+                "source": source_name,
+                "date": date_str,
+                "file": filename,
+            })
             existing_titles.add(title)
             if source_link:
                 existing_links.add(source_link)
@@ -566,6 +620,7 @@ tags: ["影视推荐", "在线观看", "{source_name}"]
     if new_post_urls:
         dedup_urls = list(dict.fromkeys(new_post_urls))
         submit_urls_to_baidu(dedup_urls)
+        update_publish_queue(new_publish_items)
 
     if failed_feeds == len(RSS_SOURCES):
         raise RuntimeError("All RSS sources failed")

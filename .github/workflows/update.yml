@@ -33,15 +33,20 @@ jobs:
           pip install feedparser
 
       - name: Validate script syntax
-        run: python3 -m py_compile scripts/fetch_douban.py
+        run: |
+          python3 -m py_compile scripts/fetch_douban.py
+          python3 -m py_compile scripts/publish_dispatch.py
 
       - name: Run Fetch Script
         run: python scripts/fetch_douban.py | tee fetch.log
 
+      - name: Build publish queue state
+        run: python scripts/publish_dispatch.py | tee -a fetch.log
+
       - name: Check for changes
         id: changes
         run: |
-          git add -A content/posts/ static/posters/
+          git add -A content/posts/ static/posters/ automation/
           if git diff --cached --quiet; then
             echo "has_changes=false" >> "$GITHUB_OUTPUT"
             echo "No content changes detected"
