@@ -1,7 +1,9 @@
 import feedparser
 import datetime
 import hashlib
+import json
 import re
+import time
 from html import unescape
 from urllib.parse import quote
 from urllib.request import Request, urlopen
@@ -20,6 +22,7 @@ POSTER_DIR = Path("static/posters")
 POSTER_DIR.mkdir(parents=True, exist_ok=True)
 
 HTTP_TIMEOUT = 8
+REQUEST_RETRIES = 3
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
 
 
@@ -70,19 +73,176 @@ def replacement_candidates(url):
     return unique
 
 
-def fetch_text(url):
+def fetch_text(url, referer="https://www.bing.com/"):
     headers = {
         "User-Agent": USER_AGENT,
-        "Referer": "https://www.bing.com/",
+        "Referer": referer,
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
     }
-    try:
-        req = Request(url, headers=headers)
-        with urlopen(req, timeout=HTTP_TIMEOUT) as resp:
-            raw = resp.read()
-            return raw.decode("utf-8", errors="ignore")
-    except (HTTPError, URLError, ValueError):
+    last_error = ""
+    for attempt in range(REQUEST_RETRIES):
+        try:
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+                raw = resp.read()
+                return raw.decode("utf-8", errors="ignore")
+        except (HTTPError, URLError, ValueError) as exc:
+            last_error = str(exc)
+            if attempt < REQUEST_RETRIES - 1:
+                time.sleep(1 + attempt)
+    print(f"⚠️ fetch_text failed after {REQUEST_RETRIES} retries: {url} ({last_error})")
+    return ""
+
+
+def fetch_json(url, referer="https://movie.douban.com/"):
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Referer": referer,
+        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+    }
+    last_error = ""
+    for attempt in range(REQUEST_RETRIES):
+        try:
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=HTTP_TIMEOUT) as resp:
+                raw = resp.read().decode("utf-8", errors="ignore")
+                return json.loads(raw)
+        except (HTTPError, URLError, ValueError, json.JSONDecodeError) as exc:
+            last_error = str(exc)
+            if attempt < REQUEST_RETRIES - 1:
+                time.sleep(1 + attempt)
+    print(f"⚠️ fetch_json failed after {REQUEST_RETRIES} retries: {url} ({last_error})")
+    return {}
+
+
+def html_to_text(fragment):
+    if not fragment:
         return ""
+    text = re.sub(r"<br\s*/?>", "\n", fragment, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", "", text)
+    text = unescape(text)
+    lines = [re.sub(r"\s+", " ", line).strip() for line in text.splitlines()]
+    lines = [line for line in lines if line]
+    return "\n".join(lines)
+
+
+def dedupe_detail_headings(content):
+    def keep_first_heading_block(text, heading):
+        pattern = re.compile(
+            rf'\s*<h2>\s*{heading}\s*</h2>\s*<p>.*?</p>\s*',
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+        matches = list(pattern.finditer(text))
+        if len(matches) <= 1:
+            return text
+        first = matches[0]
+        output = []
+        cursor = 0
+        for idx, match in enumerate(matches):
+            output.append(text[cursor:match.start()])
+            if idx == 0:
+                output.append(match.group(0))
+            cursor = match.end()
+        output.append(text[cursor:])
+        return "".join(output)
+
+    content = keep_first_heading_block(content, "演员表")
+    content = keep_first_heading_block(content, "剧情简介")
+    return content
+
+
+def extract_douban_cast(page_html):
+    if not page_html:
+        return ""
+
+    patterns = [
+        r'<span[^>]*>\s*主演\s*</span>\s*[:：]\s*<span class="attrs">(.*?)</span>',
+        r'<span class="pl">\s*主演\s*</span>\s*[:：]\s*(.*?)<br\s*/?>',
+    ]
+
+    for pattern in patterns:
+        m = re.search(pattern, page_html, flags=re.IGNORECASE | re.DOTALL)
+        if not m:
+            continue
+        raw = m.group(1)
+        names = [
+            html_to_text(name)
+            for name in re.findall(r">([^<]+)</a>", raw, flags=re.IGNORECASE | re.DOTALL)
+        ]
+        names = [name for name in names if name]
+        if names:
+            return " / ".join(names)
+        text = html_to_text(raw)
+        if text:
+            return text
+
+    return ""
+
+
+def extract_douban_summary(page_html):
+    if not page_html:
+        return ""
+
+    patterns = [
+        r'<span[^>]*property=["\']v:summary["\'][^>]*>(.*?)</span>',
+        r'<span id="link-report-intra"[^>]*>(.*?)</span>\s*</span>',
+    ]
+
+    for pattern in patterns:
+        m = re.search(pattern, page_html, flags=re.IGNORECASE | re.DOTALL)
+        if not m:
+            continue
+        summary = html_to_text(m.group(1))
+        if summary:
+            return summary
+
+    return ""
+
+
+def fetch_douban_details(source_link):
+    if not source_link:
+        return "", ""
+
+    sid_match = re.search(r"/subject/(\d+)", source_link)
+    sid = sid_match.group(1) if sid_match else ""
+
+    cast_text = ""
+    summary_text = ""
+
+    if sid:
+        referer = f"https://m.douban.com/movie/subject/{sid}/"
+        detail_api = f"https://m.douban.com/rexxar/api/v2/movie/{sid}?for_mobile=1"
+        detail_obj = fetch_json(detail_api, referer=referer)
+
+        cast_names = [
+            str(item.get("name", "")).strip()
+            for item in detail_obj.get("actors", [])
+            if isinstance(item, dict) and item.get("name")
+        ]
+        cast_text = " / ".join([name for name in cast_names if name])
+        summary_text = re.sub(r"\s+", " ", str(detail_obj.get("intro", "") or "")).strip()
+
+        if not (cast_text and summary_text):
+            abstract_api = f"https://movie.douban.com/j/subject_abstract?subject_id={sid}"
+            abstract_obj = fetch_json(abstract_api, referer="https://movie.douban.com/")
+            subject_obj = abstract_obj.get("subject", {}) if isinstance(abstract_obj, dict) else {}
+            if not cast_text:
+                cast_text = " / ".join([str(x).strip() for x in subject_obj.get("actors", []) if str(x).strip()])
+            if not summary_text:
+                summary_text = re.sub(r"\s+", " ", str(subject_obj.get("short_intro", "") or "")).strip()
+
+        if cast_text and summary_text:
+            return cast_text, summary_text
+
+    page = fetch_text(source_link)
+    if not page:
+        return cast_text, summary_text
+
+    if not cast_text:
+        cast_text = extract_douban_cast(page)
+    if not summary_text:
+        summary_text = extract_douban_summary(page)
+    return cast_text, summary_text
 
 
 def candidates_from_source_page(source_link):
@@ -247,6 +407,11 @@ def load_existing_indexes():
 def main():
     seen_guids = set()
     existing_titles, existing_links = load_existing_indexes()
+    total_new_posts = 0
+    detail_complete = 0
+    detail_partial = 0
+    detail_missing = 0
+    failed_feeds = 0
 
     for source_name, url in RSS_SOURCES:
         print(f"⏳ 正在尝试抓取 [{source_name}]: {url}")
@@ -254,6 +419,7 @@ def main():
 
         if not feed.entries:
             print(f"⚠️ {url} 未抓取到数据。")
+            failed_feeds += 1
             continue
 
         print(f"✅ [{source_name}] 成功获取到 {len(feed.entries)} 条数据。")
@@ -277,6 +443,15 @@ def main():
             search_keyword = quote(title, safe='')
             watch_link = f"https://tv.srfwq.top/?q={search_keyword}"
             description = str(entry.get('description', '') or '')
+            cast_text, summary_text = fetch_douban_details(source_link)
+            if cast_text and summary_text:
+                detail_complete += 1
+            elif cast_text or summary_text:
+                detail_partial += 1
+                print(f"⚠️ [{title}] details partial: cast={bool(cast_text)} summary={bool(summary_text)}")
+            else:
+                detail_missing += 1
+                print(f"⚠️ [{title}] details missing entirely: {source_link}")
 
             front_matter = f"""---
 title: "{safe_title}"
@@ -297,19 +472,40 @@ tags: ["影视推荐", "在线观看", "{source_name}"]
 
             description = fix_first_image_src(description, title=title, source_link=source_link)
             description = re.sub(r"<img(?![^>]*referrerpolicy=)", '<img referrerpolicy="no-referrer" loading="lazy"', description, count=1)
-            content = f"{front_matter}\n\n{description}\n\n{cta_button}\n\n*[去豆瓣查看原网页]({entry.link})*"
+
+            detail_blocks = []
+            has_cast_in_description = bool(re.search(r"(主演|演员)\s*[:：]", description))
+            has_summary_in_description = bool(re.search(r"<h2[^>]*>\s*剧情简介\s*</h2>", description, flags=re.IGNORECASE))
+
+            if cast_text and not has_cast_in_description:
+                detail_blocks.append(f"<h2>演员表</h2><p>{cast_text}</p>")
+            if summary_text and not has_summary_in_description:
+                detail_blocks.append(f"<h2>剧情简介</h2><p>{summary_text.replace(chr(10), '<br>')}</p>")
+            details_html = "\n\n".join(detail_blocks)
+
+            if details_html:
+                content = f"{front_matter}\n\n{description}\n\n{details_html}\n\n{cta_button}\n\n*[去豆瓣查看原网页]({entry.link})*"
+            else:
+                content = f"{front_matter}\n\n{description}\n\n{cta_button}\n\n*[去豆瓣查看原网页]({entry.link})*"
+            content = dedupe_detail_headings(content)
 
             filename = f"{date_str}-{slug}.md"
             if (OUTPUT_DIR / filename).exists():
                 filename = f"{date_str}-{slug}-{source_name}.md"
             path = OUTPUT_DIR / filename
             path.write_text(content, encoding='utf-8')
+            total_new_posts += 1
             existing_titles.add(title)
             if source_link:
                 existing_links.add(source_link)
             print(f"  -> [{source_name}] 新增文章: {filename}")
 
     print("🎉 抓取任务执行完毕！")
+    print(
+        f"📊 统计：新增={total_new_posts} 完整详情={detail_complete} 部分详情={detail_partial} 缺失详情={detail_missing} 失败源={failed_feeds}/{len(RSS_SOURCES)}"
+    )
+    if failed_feeds == len(RSS_SOURCES):
+        raise RuntimeError("All RSS sources failed")
 
 
 if __name__ == "__main__":

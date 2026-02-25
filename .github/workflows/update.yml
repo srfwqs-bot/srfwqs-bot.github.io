@@ -1,5 +1,12 @@
 name: Auto Fetch Douban RSS
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 */6 * * *'  # 每 6 小时执行一次
@@ -8,26 +15,56 @@ on:
 jobs:
   update-content:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
         
       - name: Setup Python
         uses: actions/setup-python@v5
-        with: 
+        with:
           python-version: '3.10'
           
       - name: Install dependencies
-        run: pip install feedparser
-        
-      - name: Run Fetch Script
-        run: python scripts/fetch_douban.py
-        
-      - name: Commit and Push changes
         run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
-          git add content/posts/
-          # 如果有新内容就提交，没有就不提交
-          git commit -m "Auto add new movies from Douban RSS" || echo "No new movies found"
-          git push
+          python -m pip install --upgrade pip
+          pip install feedparser
+
+      - name: Validate script syntax
+        run: python3 -m py_compile scripts/fetch_douban.py
+
+      - name: Run Fetch Script
+        run: python scripts/fetch_douban.py | tee fetch.log
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add -A content/posts/ static/posters/
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "No content changes detected"
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            echo "Content changes detected"
+          fi
+
+      - name: Commit and Push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name 'GitHub Action Bot'
+          git config user.email 'action@github.com'
+          git commit -m "Auto add new movies from Douban RSS"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Workflow summary
+        if: always()
+        run: |
+          echo "## Douban Fetch Summary" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f fetch.log ]; then
+            tail -n 20 fetch.log >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No fetch.log generated" >> "$GITHUB_STEP_SUMMARY"
+          fi
