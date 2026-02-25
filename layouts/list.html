@@ -1,5 +1,5 @@
 {{ define "main" }}
-    {{- $homepageTagTerms := slice "热映" "即将上映" "高分推荐" -}}
+    {{- $homepageTagTerms := slice "热映" "即将上映" "高分推荐" "影视推荐" "在线观看" -}}
     {{- $useHomeStyle := and (eq .Kind "term") (eq .Data.Plural "tags") (in $homepageTagTerms .Title) -}}
 
     {{- if $useHomeStyle -}}

@@ -1,7 +1,40 @@
 <meta name="referrer" content="no-referrer">
+<script>
+  (function () {
+    var key = "MtimePaletteIndex";
+    var saved = localStorage.getItem(key);
+    var idx = saved === "0" ? "0" : "1";
+    document.documentElement.setAttribute("data-palette", idx);
+  })();
+</script>
 <link rel="stylesheet" href="/css/mtime.css">
 <script>
   (function () {
+    var paletteKey = "MtimePaletteIndex";
+
+    function setPalette(idx) {
+      var next = idx === "1" ? "1" : "0";
+      localStorage.setItem(paletteKey, next);
+      document.documentElement.setAttribute("data-palette", next);
+      var btn = document.getElementById("palette-toggle");
+      if (btn) {
+        btn.textContent = "配色 " + next;
+      }
+    }
+
+    function ensurePaletteToggle() {
+      if (document.getElementById("palette-toggle")) return;
+      var btn = document.createElement("button");
+      btn.id = "palette-toggle";
+      btn.type = "button";
+      btn.textContent = "配色 " + (document.documentElement.getAttribute("data-palette") || "0");
+      btn.addEventListener("click", function () {
+        var cur = document.documentElement.getAttribute("data-palette") || "0";
+        setPalette(cur === "0" ? "1" : "0");
+      });
+      document.body.appendChild(btn);
+    }
+
     function candidates(src) {
       var list = [];
       if (/\.webp(\?.*)?$/i.test(src)) {
@@ -31,6 +64,8 @@
     }
 
     document.addEventListener("DOMContentLoaded", function () {
+      setPalette(document.documentElement.getAttribute("data-palette") || "0");
+      ensurePaletteToggle();
       document.querySelectorAll("img").forEach(bind);
     });
   })();

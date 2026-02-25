@@ -385,6 +385,25 @@ def fix_first_image_src(content_html, title="", source_link=""):
     return f"{img}\n{content_html}"
 
 
+def repair_missing_local_poster_ref(content_html, title="", source_link=""):
+    m = re.search(r'src=["\'](/posters/[^"\']+)["\']', content_html, flags=re.IGNORECASE)
+    if not m:
+        return content_html
+
+    current_src = m.group(1)
+    current_name = current_src.rsplit('/', 1)[-1]
+    if (POSTER_DIR / current_name).exists():
+        return content_html
+
+    replacement_src = ensure_local_poster(title, source_link, "")
+    if replacement_src:
+        print(f"⚠️ poster file missing, replaced: {current_src} -> {replacement_src}")
+        return content_html.replace(current_src, replacement_src, 1)
+
+    print(f"⚠️ poster file missing and no replacement found: {current_src}")
+    return content_html
+
+
 def load_existing_indexes():
     existing_titles = set()
     existing_links = set()
@@ -471,6 +490,7 @@ tags: ["影视推荐", "在线观看", "{source_name}"]
 """
 
             description = fix_first_image_src(description, title=title, source_link=source_link)
+            description = repair_missing_local_poster_ref(description, title=title, source_link=source_link)
             description = re.sub(r"<img(?![^>]*referrerpolicy=)", '<img referrerpolicy="no-referrer" loading="lazy"', description, count=1)
 
             detail_blocks = []
