@@ -23,3 +23,17 @@ If `PUBLISH_GATEWAY_BASE_URL` is set, dispatcher auto-uses:
 
 - `${PUBLISH_GATEWAY_BASE_URL}/publish/baijiahao`
 - `${PUBLISH_GATEWAY_BASE_URL}/publish/toutiao`
+
+## Semi-automatic publish helper
+
+Generate local helper page for manual finalize publish:
+
+```bash
+python3 scripts/publish_assist.py --open
+```
+
+This opens a local HTML page with:
+
+- open platform publish page button
+- copy title/body/url buttons
+- pending task cards for `baijiahao` and `toutiao`
