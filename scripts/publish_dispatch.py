@@ -113,6 +113,7 @@ def main():
     queue = load_json(QUEUE_PATH, [])
     status = load_json(STATUS_PATH, {"items": {}, "updated_at": ""})
     items = status.get("items", {}) if isinstance(status, dict) else {}
+    prev_updated_at = status.get("updated_at", "") if isinstance(status, dict) else ""
 
     touched = 0
     now = now_iso()
@@ -167,13 +168,17 @@ def main():
             slot["http_code"] = result["http_code"]
             touched += 1
 
+    if touched == 0:
+        print(f"📣 Publish dispatcher: queue={len(queue)} tracked={len(items)} no state changes")
+        return
+
     output = {
         "items": items,
-        "updated_at": now_iso(),
+        "updated_at": now_iso() if touched > 0 else prev_updated_at,
     }
     STATUS_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(f"📣 Publish dispatcher: queue={len(queue)} tracked={len(items)} new_platform_slots={touched}")
+    print(f"📣 Publish dispatcher: queue={len(queue)} tracked={len(items)} changed={touched}")
 
 
 if __name__ == "__main__":
