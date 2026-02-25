@@ -1,0 +1,37 @@
+<meta name="referrer" content="no-referrer">
+<link rel="stylesheet" href="/css/mtime.css">
+<script>
+  (function () {
+    function candidates(src) {
+      var list = [];
+      if (/\.webp(\?.*)?$/i.test(src)) {
+        list.push(src.replace(/\.webp(\?.*)?$/i, ".jpg$1"));
+        list.push(src.replace(/\.webp(\?.*)?$/i, ".jpeg$1"));
+        list.push(src.replace(/\.webp(\?.*)?$/i, ".png$1"));
+      }
+      var m = src.match(/^(https:\/\/img)(\d)(\.doubanio\.com\/.*)$/i);
+      if (m) {
+        for (var i = 1; i <= 9; i++) {
+          list.push(m[1] + i + m[3]);
+        }
+      }
+      return list.filter(function (v, i, a) { return v && a.indexOf(v) === i; });
+    }
+
+    function bind(img) {
+      img.setAttribute("referrerpolicy", "no-referrer");
+      img.onerror = function () {
+        var idx = Number(img.dataset.fallbackIdx || "0");
+        var list = img._fallbackList || candidates(img.currentSrc || img.src);
+        img._fallbackList = list;
+        if (idx >= list.length) return;
+        img.dataset.fallbackIdx = String(idx + 1);
+        img.src = list[idx];
+      };
+    }
+
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll("img").forEach(bind);
+    });
+  })();
+</script>

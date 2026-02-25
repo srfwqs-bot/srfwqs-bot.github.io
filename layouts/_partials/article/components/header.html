@@ -1,0 +1,23 @@
+{{- $IsList := .IsList -}}
+{{- $Page := .Page -}}
+{{- $image := partial "helper/image" (dict "Image" $Page.Params.image "Resources" $Page.Resources) -}}
+{{- $imgMatches := findRE `(?is)<img[^>]+src=["'][^"']+["'][^>]*>` $Page.Content 1 -}}
+{{- $fallbackSrc := "" -}}
+{{- if gt (len $imgMatches) 0 -}}
+    {{- $fallbackSrc = replaceRE `(?is).*src=["']([^"']+)["'].*` "$1" (index $imgMatches 0) -}}
+{{- end -}}
+<header class="article-header">
+    {{ if or $image $fallbackSrc }}
+    <div class="article-image">
+        <a href="{{ $Page.RelPermalink }}">
+            {{ if $image }}
+            <img src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy" referrerpolicy="no-referrer" onerror="if(!this.dataset.fallback){this.dataset.fallback='1';this.src=this.src.replace(/\.webp$/i,'.jpg');}" alt="Featured image of post {{ $Page.Title }}" />
+            {{ else }}
+            <img src="{{ $fallbackSrc }}" loading="lazy" referrerpolicy="no-referrer" onerror="if(!this.dataset.fallback){this.dataset.fallback='1';this.src=this.src.replace(/\.webp$/i,'.jpg');}" alt="Featured image of post {{ $Page.Title }}" />
+            {{ end }}
+        </a>
+    </div>
+    {{ end }}
+
+    {{ partial "article/components/details" (dict "Page" $Page "IsList" $IsList) }}
+</header>

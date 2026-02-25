@@ -1,6 +1,6 @@
 baseURL = "https://srfwqs-bot-github-io.pages.dev/"
 title = "SR 极速影院 - 豆瓣新片速览"
-theme = "PaperMod"
+theme = "hugo-theme-stack"
 languageCode = "zh-cn"
 
 # 全局作者信息
@@ -8,6 +8,8 @@ languageCode = "zh-cn"
   name = "luxingzhen"
 
 [params]
+  EnableAlgolia = false
+  mainSections = ["posts"]
   author = "luxingzhen"
   description = "最新豆瓣高分电影/剧集介绍，一键跳转观看平台"
   env = "production"
@@ -41,3 +43,21 @@ languageCode = "zh-cn"
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"# Trigger Deploy
+
+[[menu.main]]
+  identifier = "now-playing"
+  name = "热映"
+  url = "/tags/热映/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "coming-soon"
+  name = "即将上映"
+  url = "/tags/即将上映/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "high-score"
+  name = "高分推荐"
+  url = "/tags/高分推荐/"
+  weight = 30
