@@ -183,7 +183,30 @@
         }
       },
       "created_at": "2026-02-27T14:12:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-02-28-%E5%A4%A7%E5%94%90%E5%A6%96%E6%8E%A2/": {
+      "title": "大唐妖探",
+      "source": "即将上映",
+      "date": "2026-02-28",
+      "file": "2026-02-28-大唐妖探.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-02-28T18:59:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"94d8bbfe-7b32-42d0-9366-872f8bb0f922\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-02-28T18:59:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2c35eff3-0410-486f-81fc-e557d0ccbc7e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-02-28T18:59:57Z"
     }
   },
-  "updated_at": "2026-02-27T14:12:32Z"
+  "updated_at": "2026-02-28T18:59:59Z"
 }
