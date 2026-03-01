@@ -206,7 +206,99 @@
         }
       },
       "created_at": "2026-02-28T18:59:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-01-%E9%A3%93%E9%A3%8E/": {
+      "title": "飓风",
+      "source": "热映",
+      "date": "2026-03-01",
+      "file": "2026-03-01-飓风.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0b9e0bbe-520e-425d-af55-1d51ee2eb73f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9da23911-2184-4dfe-9240-9d41c7b0e2ce\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-01T13:52:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-01-%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C/": {
+      "title": "长安三万里",
+      "source": "热映",
+      "date": "2026-03-01",
+      "file": "2026-03-01-长安三万里.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5d4cdfaf-4e43-40a6-ae93-c091a419a188\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7ec47bba-be0f-40b5-be32-5425af36c330\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-01T13:52:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-01-%E7%99%BD%E8%9B%872-%E9%9D%92%E8%9B%87%E5%8A%AB%E8%B5%B7/": {
+      "title": "白蛇2：青蛇劫起",
+      "source": "热映",
+      "date": "2026-03-01",
+      "file": "2026-03-01-白蛇2-青蛇劫起.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cddce605-1e54-4dfa-9d53-3013ab363107\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5b6a2cbb-46a0-473c-b611-ecbdc81431bb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-01T13:52:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-01-%E6%96%B0%E7%A5%9E%E6%A6%9C-%E6%9D%A8%E6%88%AC/": {
+      "title": "新神榜：杨戬",
+      "source": "热映",
+      "date": "2026-03-01",
+      "file": "2026-03-01-新神榜-杨戬.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0df5d1c4-334b-4088-874d-9770343bd622\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-01T13:52:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"92a8bc60-4dea-4a63-bb53-ba79bdeafd2c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-01T13:52:35Z"
     }
   },
-  "updated_at": "2026-02-28T18:59:59Z"
+  "updated_at": "2026-03-01T13:52:40Z"
 }
