@@ -1,5 +1,14 @@
 [
   {
+    "title": "遥远的普若岗日",
+    "url": "https://wztj.893810.xyz/posts/2026-03-02-%E9%81%A5%E8%BF%9C%E7%9A%84%E6%99%AE%E8%8B%A5%E5%B2%97%E6%97%A5/",
+    "source": "热映",
+    "date": "2026-03-02",
+    "file": "2026-03-02-遥远的普若岗日.md",
+    "state": "pending",
+    "queued_at": "2026-03-02T14:32:36Z"
+  },
+  {
     "title": "超级马力欧银河大电影",
     "url": "https://wztj.893810.xyz/posts/2026-03-02-%E8%B6%85%E7%BA%A7%E9%A9%AC%E5%8A%9B%E6%AC%A7%E9%93%B6%E6%B2%B3%E5%A4%A7%E7%94%B5%E5%BD%B1/",
     "source": "即将上映",
@@ -7,6 +16,15 @@
     "file": "2026-03-02-超级马力欧银河大电影.md",
     "state": "pending",
     "queued_at": "2026-03-02T05:08:50Z"
+  },
+  {
+    "title": "熊猫奇遇记",
+    "url": "https://wztj.893810.xyz/posts/2026-03-02-%E7%86%8A%E7%8C%AB%E5%A5%87%E9%81%87%E8%AE%B0/",
+    "source": "热映",
+    "date": "2026-03-02",
+    "file": "2026-03-02-熊猫奇遇记.md",
+    "state": "pending",
+    "queued_at": "2026-03-02T14:32:36Z"
   },
   {
     "title": "你好，爱美丽",
