@@ -482,7 +482,145 @@
         }
       },
       "created_at": "2026-03-05T07:57:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E9%9B%84%E7%8B%AE%E5%B0%91%E5%B9%B4/": {
+      "title": "雄狮少年",
+      "source": "热映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-雄狮少年.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a2201ce9-9517-48d8-818b-a6c0e4860705\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3e2b5217-b718-428c-b4fe-11122ad12f72\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T14:36:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E9%98%BF%E5%87%A1%E8%BE%BE/": {
+      "title": "阿凡达",
+      "source": "热映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-阿凡达.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a23f88c0-cafa-4e49-8214-cbbb3a8e5fce\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b6316189-4b41-4ec3-bfe3-bf8acbd03211\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T14:36:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%AE%89%E5%BE%B7%E7%83%88/": {
+      "title": "我的朋友安德烈",
+      "source": "热映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-我的朋友安德烈.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"54bd095b-88ab-4c1a-bf65-02bf479121ef\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"471fa70d-b903-4554-bd48-72bc3aa9ad7f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T14:36:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E6%83%8A%E5%A4%A9%E9%AD%94%E7%9B%97%E5%9B%A23/": {
+      "title": "惊天魔盗团3",
+      "source": "热映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-惊天魔盗团3.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a5703fe0-a06d-4f87-8095-1c9cd18cafe1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b8a99a4d-7e2b-415f-8bb6-72c9f1f5e50b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T14:36:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E5%9D%A0%E8%90%BD%E7%9A%84%E5%AE%A1%E5%88%A4/": {
+      "title": "坠落的审判",
+      "source": "热映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-坠落的审判.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c1032922-05bb-4ef6-bb2f-ac446979dab7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0301f684-bf59-48fa-b78b-f7935e11deaa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T14:36:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E5%85%AB%E5%BA%9C%E5%B7%A1%E6%8C%89/": {
+      "title": "八府巡按",
+      "source": "热映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-八府巡按.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d68637e5-3617-401f-950d-7241c78004ee\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T14:36:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1e56f665-40f3-4b0b-8282-c1d23726cb04\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T14:36:23Z"
     }
   },
-  "updated_at": "2026-03-05T07:57:18Z"
+  "updated_at": "2026-03-05T14:36:33Z"
 }
