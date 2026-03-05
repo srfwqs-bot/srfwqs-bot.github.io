@@ -459,7 +459,30 @@
         }
       },
       "created_at": "2026-03-03T07:58:18Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-05-%E6%88%91%E7%9A%84%E5%A6%88%E8%80%B6/": {
+      "title": "我的妈耶",
+      "source": "即将上映",
+      "date": "2026-03-05",
+      "file": "2026-03-05-我的妈耶.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T07:57:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"56c5b15f-cf9c-4468-add7-1d694e98607d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-05T07:57:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"54859c68-a39f-44aa-9eca-129c1458c843\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-05T07:57:16Z"
     }
   },
-  "updated_at": "2026-03-03T07:58:20Z"
+  "updated_at": "2026-03-05T07:57:18Z"
 }
