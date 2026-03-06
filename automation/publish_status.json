@@ -620,7 +620,168 @@
         }
       },
       "created_at": "2026-03-05T14:36:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E9%81%87%E8%A7%81%E4%B8%96%E7%95%8C/": {
+      "title": "遇见世界",
+      "source": "高分推荐",
+      "date": "2026-03-06",
+      "file": "2026-03-06-遇见世界.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"027fe191-7415-4c2f-87b7-19bc783f7197\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"623d0170-5005-46b3-9b65-7a6ca666f97d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E8%8D%89%E8%8E%93%E6%9C%88%E4%BA%AE/": {
+      "title": "草莓月亮",
+      "source": "高分推荐",
+      "date": "2026-03-06",
+      "file": "2026-03-06-草莓月亮.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"72b3b673-eb90-460a-bc72-2abb3b320f45\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"57dfea87-bb36-4a2f-9796-1d1bdafadd0c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E7%88%B1%E7%9A%84%E8%AF%81%E6%98%8E/": {
+      "title": "爱的证明",
+      "source": "高分推荐",
+      "date": "2026-03-06",
+      "file": "2026-03-06-爱的证明.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a6401a9b-1c77-48e6-a47c-e063843f72d1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ba2f7363-fb51-46f3-a67b-940b2e9239a4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E6%96%B0%E5%87%AF%E6%97%8B%E9%97%A8/": {
+      "title": "新凯旋门",
+      "source": "高分推荐",
+      "date": "2026-03-06",
+      "file": "2026-03-06-新凯旋门.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4893a632-f20a-4294-b0f1-add45c6cc807\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0c4d63cd-4a79-4301-be76-8196ec97fa7b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E5%B1%80%E5%A4%96%E4%BA%BA/": {
+      "title": "局外人",
+      "source": "高分推荐",
+      "date": "2026-03-06",
+      "file": "2026-03-06-局外人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"983f6694-5662-473c-bd2b-2356e4461478\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b4c2ce79-b4a2-4436-8462-39c577bb34db\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E5%93%80%E7%89%A2%E5%B1%B1/": {
+      "title": "哀牢山",
+      "source": "热映",
+      "date": "2026-03-06",
+      "file": "2026-03-06-哀牢山.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a286a85b-0ae0-4760-8b82-1c2fa2a2ba81\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c89984ee-b91f-4465-8c25-0cd3031e63b7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-06-%E5%90%8E%E6%9D%A5%E7%9A%84%E6%88%91%E4%BB%AC/": {
+      "title": "后来的我们",
+      "source": "高分推荐",
+      "date": "2026-03-06",
+      "file": "2026-03-06-后来的我们.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ac53474f-24ff-4de3-8604-1602e086571f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-06T14:07:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fd1c76aa-d9b4-413d-bdbb-f38fe42b1104\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-06T14:07:24Z"
     }
   },
-  "updated_at": "2026-03-05T14:36:33Z"
+  "updated_at": "2026-03-06T14:07:32Z"
 }
