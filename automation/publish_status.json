@@ -827,7 +827,30 @@
         }
       },
       "created_at": "2026-03-07T13:51:17Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-07-%E5%A4%A9%E7%A9%BA%E4%BE%9D%E6%97%A7/": {
+      "title": "天空依旧",
+      "source": "热映",
+      "date": "2026-03-07",
+      "file": "2026-03-07-天空依旧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-07T19:00:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5236caa5-7271-4d4e-abd6-554b966d1943\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-07T19:00:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"760e543d-81bc-4c9c-aacf-111a76c990e6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-07T19:00:32Z"
     }
   },
-  "updated_at": "2026-03-07T13:51:19Z"
+  "updated_at": "2026-03-07T19:00:34Z"
 }
