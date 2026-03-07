@@ -781,7 +781,30 @@
         }
       },
       "created_at": "2026-03-06T14:07:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-07-%E9%9D%92%E4%BA%91%E5%A1%94%E4%B8%89%E5%A7%90%E5%A6%B9/": {
+      "title": "青云塔三姐妹",
+      "source": "热映",
+      "date": "2026-03-07",
+      "file": "2026-03-07-青云塔三姐妹.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-07T04:47:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ab99f05f-b961-4dfd-9f04-8079f7bde71c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-07T04:47:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"86314c32-3148-4fd2-a09e-2288e5a15029\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-07T04:47:38Z"
     }
   },
-  "updated_at": "2026-03-06T14:07:32Z"
+  "updated_at": "2026-03-07T04:47:40Z"
 }
