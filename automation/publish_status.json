@@ -850,7 +850,53 @@
         }
       },
       "created_at": "2026-03-07T19:00:32Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-10-%E7%BB%BF%E6%B6%B2%E6%83%8A%E9%AD%82/": {
+      "title": "绿液惊魂",
+      "source": "即将上映",
+      "date": "2026-03-10",
+      "file": "2026-03-10-绿液惊魂.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-10T07:58:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"35e65bda-cc67-4592-816d-b877e2c7587d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-10T07:58:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2571609a-2ed7-418e-b6b4-bf86bdf8f234\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-10T07:58:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-10-%E5%85%AB%E5%AD%90%E5%8F%82%E5%86%9B/": {
+      "title": "八子参军",
+      "source": "即将上映",
+      "date": "2026-03-10",
+      "file": "2026-03-10-八子参军.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-10T07:58:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6ad911cf-8c93-48ef-bf52-29cf5a15f89f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-10T07:58:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"beed695a-da20-45ed-a5ae-1ec9a5e022fc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-10T07:58:04Z"
     }
   },
-  "updated_at": "2026-03-07T19:00:34Z"
+  "updated_at": "2026-03-10T07:58:07Z"
 }
