@@ -965,7 +965,30 @@
         }
       },
       "created_at": "2026-03-12T19:55:50Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-13-%E8%A7%92%E5%A4%B4-%E5%A4%A7%E6%A1%A5%E5%A4%B4/": {
+      "title": "角头：大桥头",
+      "source": "即将上映",
+      "date": "2026-03-13",
+      "file": "2026-03-13-角头-大桥头.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-13T08:02:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"684ea93b-06a0-4817-8435-48a9688deb2c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-13T08:02:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4c92b020-8b4b-4123-9934-21345e1108a4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-13T08:02:42Z"
     }
   },
-  "updated_at": "2026-03-12T19:55:54Z"
+  "updated_at": "2026-03-13T08:02:44Z"
 }
