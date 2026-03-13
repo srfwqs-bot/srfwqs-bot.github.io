@@ -1034,7 +1034,30 @@
         }
       },
       "created_at": "2026-03-13T14:30:59Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-13-%E5%99%A8%E5%AD%90/": {
+      "title": "器子",
+      "source": "即将上映",
+      "date": "2026-03-13",
+      "file": "2026-03-13-器子.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-13T19:49:11Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"03f1655c-8b9f-4769-b1ae-f0ffb1a04c87\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-13T19:49:12Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0d95b31e-2488-4ec3-8364-0e4987f40c31\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-13T19:49:10Z"
     }
   },
-  "updated_at": "2026-03-13T14:31:02Z"
+  "updated_at": "2026-03-13T19:49:12Z"
 }
