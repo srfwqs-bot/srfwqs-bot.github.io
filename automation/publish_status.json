@@ -1057,7 +1057,53 @@
         }
       },
       "created_at": "2026-03-13T19:49:10Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-16-%E8%9C%82%E8%9C%9C%E7%9A%84%E9%92%88/": {
+      "title": "蜂蜜的针",
+      "source": "即将上映",
+      "date": "2026-03-16",
+      "file": "2026-03-16-蜂蜜的针.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-16T15:46:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7ee441a5-1cb1-4040-a47f-cc08fa54cd6e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-16T15:46:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7ef09071-562c-44dd-b23c-5e0f10a39c98\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-16T15:46:33Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-16-%E5%AF%86%E6%8E%A2/": {
+      "title": "密探",
+      "source": "即将上映",
+      "date": "2026-03-16",
+      "file": "2026-03-16-密探.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-16T15:46:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c8eac7ef-949e-4fd3-b06b-55326290374f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-16T15:46:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4a1dafa9-1bae-4bf1-89c9-4f65dd814895\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-16T15:46:33Z"
     }
   },
-  "updated_at": "2026-03-13T19:49:12Z"
+  "updated_at": "2026-03-16T15:46:37Z"
 }
