@@ -1310,7 +1310,214 @@
         }
       },
       "created_at": "2026-03-19T19:56:48Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E9%A9%AC%E6%8B%89%E5%8A%A0%E8%A1%97%E5%A4%95%E9%98%B3%E7%BA%A2/": {
+      "title": "马拉加街夕阳红",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-马拉加街夕阳红.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c9d2b48d-9169-480d-8ae9-d5edd9f6a967\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"952626c3-7cee-413d-91ee-366acf97b91e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E9%A3%8E%E6%9D%A5%E4%B9%8B%E6%89%80/": {
+      "title": "风来之所",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-风来之所.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"390f65f0-e5d7-4ecd-adf2-d6900d969cf3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"15d66cc5-f440-4265-a838-a5ce41281229\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E9%98%BF%E7%89%B9%E7%BD%97%E7%9A%AE%E4%BA%9A/": {
+      "title": "阿特罗皮亚",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-阿特罗皮亚.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a5134559-d0a4-4d51-9ec2-042e3aaa05b6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1a47bcf0-50e0-4491-a058-17f172f968e2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E8%B7%AF%E6%98%93%E6%96%AF-%E6%B3%B0%E9%B2%81-%E8%A7%A3%E6%9E%84%E7%94%B7%E6%80%A7%E5%9C%88/": {
+      "title": "路易斯·泰鲁：解构男性圈",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-路易斯-泰鲁-解构男性圈.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b2c68f11-e1c5-4828-8494-8aaa4e6db522\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0ccdcd1a-3bf8-4825-813e-b695a37c9d17\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E7%9C%9F%E4%BA%BA%E5%BF%AB%E6%89%932/": {
+      "title": "真人快打2",
+      "source": "即将上映",
+      "date": "2026-03-20",
+      "file": "2026-03-20-真人快打2.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b2598101-8770-4646-be36-df7fe490bd86\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2041031a-79f5-4f26-b37e-12d1d846c8c8\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E6%B5%B4%E8%A1%80%E9%BB%91%E5%B8%AE-%E4%B8%8D%E6%9C%BD%E4%BC%A0%E5%A5%87/": {
+      "title": "浴血黑帮：不朽传奇",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-浴血黑帮-不朽传奇.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"88a642e8-6d17-4075-85c6-14fe55322b6f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0387f8bb-9ee5-4d3f-80bd-2582fb05acc3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E6%9F%94%E6%83%85%E6%8C%9A%E6%88%91/": {
+      "title": "柔情挚我",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-柔情挚我.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d8ac9d6e-dcc3-44c6-8495-f25b6a07695e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c0656ad0-ff0b-4b2d-b348-b9f074419067\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E6%84%9A%E8%80%85%E7%9A%84%E8%BA%AB%E4%BB%BD/": {
+      "title": "愚者的身份",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-愚者的身份.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ae72643c-3398-42a9-8b9f-3130aeb052c6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fb8c1093-dd75-4a6f-a9bd-cf7412a83598\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-20-%E5%8F%8D%E5%AF%B9%E6%99%AE%E4%BA%AC%E7%9A%84%E6%97%A0%E5%90%8D%E5%85%88%E7%94%9F/": {
+      "title": "反对普京的无名先生",
+      "source": "高分推荐",
+      "date": "2026-03-20",
+      "file": "2026-03-20-反对普京的无名先生.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9805cb29-f544-438e-b4ac-6f4e4ea0955e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-20T19:51:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"66455880-0ea9-45f5-8d9b-5a4d9813bd5e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-20T19:51:19Z"
     }
   },
-  "updated_at": "2026-03-19T19:56:52Z"
+  "updated_at": "2026-03-20T19:51:33Z"
 }
