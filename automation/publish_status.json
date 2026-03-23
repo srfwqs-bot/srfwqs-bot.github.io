@@ -1747,7 +1747,30 @@
         }
       },
       "created_at": "2026-03-21T04:56:36Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-23-%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2/": {
+      "title": "穿普拉达的女王2",
+      "source": "即将上映",
+      "date": "2026-03-23",
+      "file": "2026-03-23-穿普拉达的女王2.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-23T15:40:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bf7c0bd8-a8b0-4e30-943a-51f3d1f229a0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-23T15:40:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"61977022-f8d7-4b86-b676-eb32a8ff932d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-23T15:40:38Z"
     }
   },
-  "updated_at": "2026-03-21T04:56:50Z"
+  "updated_at": "2026-03-23T15:40:40Z"
 }
