@@ -1770,7 +1770,30 @@
         }
       },
       "created_at": "2026-03-23T15:40:38Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-24-%E8%8E%AB%E5%A5%88%E7%9A%84%E7%9D%A1%E8%8E%B2-%E6%B0%B4%E6%B3%A2%E4%B8%8E%E5%85%89%E5%BD%B1%E7%9A%84%E9%AD%94%E5%8A%9B/": {
+      "title": "莫奈的睡莲：水波与光影的魔力",
+      "source": "热映",
+      "date": "2026-03-24",
+      "file": "2026-03-24-莫奈的睡莲-水波与光影的魔力.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-24T05:17:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f85ec25a-7e91-45dc-93ed-b8aa50f72a0e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-24T05:17:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6356646c-1e85-4d12-98dd-8938d12b0b45\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-24T05:17:51Z"
     }
   },
-  "updated_at": "2026-03-23T15:40:40Z"
+  "updated_at": "2026-03-24T05:17:53Z"
 }
