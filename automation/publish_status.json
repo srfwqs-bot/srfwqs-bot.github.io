@@ -1885,7 +1885,76 @@
         }
       },
       "created_at": "2026-03-27T07:13:03Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-27-%E8%BF%88%E5%85%8B%E5%B0%94-%E6%9D%B0%E5%85%8B%E9%80%8A-%E5%B7%A8%E6%98%9F%E4%B9%8B%E8%B7%AF/": {
+      "title": "迈克尔·杰克逊：巨星之路",
+      "source": "即将上映",
+      "date": "2026-03-27",
+      "file": "2026-03-27-迈克尔-杰克逊-巨星之路.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-27T13:14:04Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"304a8740-ade7-4120-b89f-5b258649b22b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-27T13:14:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b9835bc0-7d82-419b-ac80-388f6526e953\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-27T13:14:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-27-%E8%AF%B7%E6%B1%82%E6%95%91%E6%8F%B4/": {
+      "title": "请求救援",
+      "source": "高分推荐",
+      "date": "2026-03-27",
+      "file": "2026-03-27-请求救援.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-27T13:14:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8a5caa2b-2652-4c85-bd26-df7c39b899a1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-27T13:14:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dcd938c6-47af-4ffd-beff-0c42ebefff8a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-27T13:14:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-27-%E6%8C%AB%E8%B4%A5%E7%9A%84%E4%BA%BA%E7%94%9F%E5%8A%AB%E6%A1%88/": {
+      "title": "挫败的人生劫案",
+      "source": "高分推荐",
+      "date": "2026-03-27",
+      "file": "2026-03-27-挫败的人生劫案.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-27T13:14:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fedef02b-0921-4b73-b17d-9008ac094fb4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-27T13:14:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"499aaec8-5807-4c2c-8491-a99939fe1ed0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-27T13:14:04Z"
     }
   },
-  "updated_at": "2026-03-27T07:13:04Z"
+  "updated_at": "2026-03-27T13:14:08Z"
 }
