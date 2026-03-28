@@ -1977,7 +1977,30 @@
         }
       },
       "created_at": "2026-03-27T19:00:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-28-%E8%B0%81%E4%B8%8D%E8%AF%B4%E4%BF%BA%E5%AE%B6%E4%B9%A1%E5%A5%BD/": {
+      "title": "谁不说俺家乡好",
+      "source": "热映",
+      "date": "2026-03-28",
+      "file": "2026-03-28-谁不说俺家乡好.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-28T18:45:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5024e6fd-114f-45f3-87dd-8412cd851794\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-28T18:45:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"27716f30-bcd0-40cc-a610-f47de4b7d38b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-28T18:45:22Z"
     }
   },
-  "updated_at": "2026-03-27T19:00:17Z"
+  "updated_at": "2026-03-28T18:45:24Z"
 }
