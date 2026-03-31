@@ -2000,7 +2000,53 @@
         }
       },
       "created_at": "2026-03-28T18:45:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-31-%E6%B6%88%E5%A4%B1%E7%9A%84%E4%BA%BA/": {
+      "title": "消失的人",
+      "source": "即将上映",
+      "date": "2026-03-31",
+      "file": "2026-03-31-消失的人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-31T07:20:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f13e30e2-06b2-476d-90e6-614bf13f49fa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-31T07:20:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"90835a96-6754-44d0-b13b-cdc749599a71\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-31T07:20:26Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-03-31-%E5%AF%92%E6%88%981994/": {
+      "title": "寒战1994",
+      "source": "即将上映",
+      "date": "2026-03-31",
+      "file": "2026-03-31-寒战1994.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-31T07:20:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"be68ec94-94a2-4529-be52-509bdc0ec7c5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-03-31T07:20:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"01df36de-20aa-42e1-bd7f-0d9c0aa63712\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-03-31T07:20:26Z"
     }
   },
-  "updated_at": "2026-03-28T18:45:24Z"
+  "updated_at": "2026-03-31T07:20:30Z"
 }
