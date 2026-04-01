@@ -2046,7 +2046,30 @@
         }
       },
       "created_at": "2026-03-31T07:20:26Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-01-%E4%B8%89%E5%BF%83%E4%B8%A4%E6%84%8F/": {
+      "title": "三心两意",
+      "source": "即将上映",
+      "date": "2026-04-01",
+      "file": "2026-04-01-三心两意.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-01T07:27:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4cfd273b-3a34-4ace-b198-8e395b233762\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-01T07:27:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"aae85b50-faf0-4888-a9f2-d175bc50dc0e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-01T07:27:39Z"
     }
   },
-  "updated_at": "2026-03-31T07:20:30Z"
+  "updated_at": "2026-04-01T07:27:40Z"
 }
