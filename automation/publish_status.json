@@ -2069,7 +2069,53 @@
         }
       },
       "created_at": "2026-04-01T07:27:39Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-02-%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833-%E4%B8%8A/": {
+      "title": "流浪地球3(上)",
+      "source": "即将上映",
+      "date": "2026-04-02",
+      "file": "2026-04-02-流浪地球3-上.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-02T19:00:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"26237bb3-e07b-4700-9907-c8afbca44fc6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-02T19:00:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"472366e8-cccd-43e8-8354-3c590dea5e9e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-02T19:00:34Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-02-%E5%A4%A7%E5%9C%A3%E5%B4%9B%E8%B5%B7/": {
+      "title": "大圣崛起",
+      "source": "即将上映",
+      "date": "2026-04-02",
+      "file": "2026-04-02-大圣崛起.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-02T19:00:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"50b829f3-f5f4-4bc8-a3c9-54091cd2d128\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-02T19:00:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7c80b8b8-c171-430c-b5aa-fa70199958ce\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-02T19:00:34Z"
     }
   },
-  "updated_at": "2026-04-01T07:27:40Z"
+  "updated_at": "2026-04-02T19:00:38Z"
 }
