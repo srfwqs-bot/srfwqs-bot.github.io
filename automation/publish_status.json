@@ -2138,7 +2138,99 @@
         }
       },
       "created_at": "2026-04-03T02:35:56Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-03-%E7%99%BD%E5%A4%A9%E6%98%AF%E9%98%BF%E6%B3%A2%E7%BD%97-%E6%99%9A%E4%B8%8A%E6%98%AF%E9%9B%85%E5%85%B8%E5%A8%9C/": {
+      "title": "白天是阿波罗，晚上是雅典娜",
+      "source": "高分推荐",
+      "date": "2026-04-03",
+      "file": "2026-04-03-白天是阿波罗-晚上是雅典娜.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4be11798-f662-4cbb-9229-ed958e8e9eae\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3f07526d-6ed6-443c-b0c5-ff8365185e9b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-03T13:10:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-03-%E7%95%99%E5%AD%98%E7%9A%84%E7%88%B1/": {
+      "title": "留存的爱",
+      "source": "高分推荐",
+      "date": "2026-04-03",
+      "file": "2026-04-03-留存的爱.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"40981720-3b2a-4836-a212-d0442a55e500\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4a374ff0-a1ec-4755-9915-e34002309203\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-03T13:10:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-03-%E6%97%85%E9%80%94%E4%B8%AD%E7%9A%84%E6%97%A5%E5%AD%90/": {
+      "title": "旅途中的日子",
+      "source": "高分推荐",
+      "date": "2026-04-03",
+      "file": "2026-04-03-旅途中的日子.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9983a4aa-75e7-4c50-be37-b993265e0c87\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:09Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a94fd681-2cbc-4a3c-b15a-177eca6df7cb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-03T13:10:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-03-%E6%80%BB%E7%BB%9F%E7%9A%84%E8%9B%8B%E7%B3%95/": {
+      "title": "总统的蛋糕",
+      "source": "高分推荐",
+      "date": "2026-04-03",
+      "file": "2026-04-03-总统的蛋糕.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:10Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1f93da62-18eb-494f-8ec7-fa2a103a2fb6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-03T13:10:10Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"15b3abe2-c6ec-4b01-98f7-281b82891702\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-03T13:10:04Z"
     }
   },
-  "updated_at": "2026-04-03T02:35:57Z"
+  "updated_at": "2026-04-03T13:10:10Z"
 }
