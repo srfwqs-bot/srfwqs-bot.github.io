@@ -2299,7 +2299,30 @@
         }
       },
       "created_at": "2026-04-04T02:27:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-06-%E5%AF%BB%E7%A7%98%E8%87%AA%E7%84%B6-%E7%94%9F%E5%91%BD%E5%AF%86%E7%A0%81/": {
+      "title": "寻秘自然：生命密码",
+      "source": "热映",
+      "date": "2026-04-06",
+      "file": "2026-04-06-寻秘自然-生命密码.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-06T07:49:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e762686e-0018-405d-a9d3-cd2fd418926f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-06T07:49:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"89a28ae7-4955-4f90-8d15-50640779ca39\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-06T07:49:43Z"
     }
   },
-  "updated_at": "2026-04-04T02:27:58Z"
+  "updated_at": "2026-04-06T07:49:44Z"
 }
