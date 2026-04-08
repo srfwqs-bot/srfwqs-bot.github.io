@@ -2345,7 +2345,99 @@
         }
       },
       "created_at": "2026-04-07T07:22:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-08-%E9%94%99%E6%97%B6%E5%91%8A%E7%99%BD/": {
+      "title": "错时告白",
+      "source": "即将上映",
+      "date": "2026-04-08",
+      "file": "2026-04-08-错时告白.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0b26a074-3a5f-436d-be33-bc58eca4cecc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"02ae9ce7-5491-40bf-8039-e61f940c8ea1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-08T07:26:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-08-%E7%87%83%E6%AF%94%E5%A8%83/": {
+      "title": "燃比娃",
+      "source": "即将上映",
+      "date": "2026-04-08",
+      "file": "2026-04-08-燃比娃.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"090b6543-84d9-475c-b267-b100cb633c67\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e397dbd9-c04e-4c48-9b18-ace5d56fae6b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-08T07:26:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-08-%E6%83%85%E6%84%9F%E4%BB%B7%E5%80%BC/": {
+      "title": "情感价值",
+      "source": "即将上映",
+      "date": "2026-04-08",
+      "file": "2026-04-08-情感价值.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"eeb5fbd1-fc28-44ad-b2ea-e2fd80a1f63e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cb562535-2f9a-4661-9d7b-e6138264d11e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-08T07:26:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-08-%E5%AF%92-%E9%9C%B2/": {
+      "title": "寒·露",
+      "source": "即将上映",
+      "date": "2026-04-08",
+      "file": "2026-04-08-寒-露.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f4f395a0-4a64-4c0c-993f-8adfb76e54a1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-08T07:26:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"23e9c832-dee9-4cdb-80c6-28cba337e9ca\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-08T07:26:16Z"
     }
   },
-  "updated_at": "2026-04-07T07:22:24Z"
+  "updated_at": "2026-04-08T07:26:21Z"
 }
