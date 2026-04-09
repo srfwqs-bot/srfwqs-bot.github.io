@@ -2437,7 +2437,30 @@
         }
       },
       "created_at": "2026-04-08T07:26:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-09-10%E9%97%B4%E6%95%A2%E6%AD%BB%E9%98%9F/": {
+      "title": "10间敢死队",
+      "source": "即将上映",
+      "date": "2026-04-09",
+      "file": "2026-04-09-10间敢死队.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-09T07:27:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0932fc19-f496-4baa-a327-200fa0abe572\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-09T07:27:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d4e5b670-d17e-40d4-873a-063f291aea8f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-09T07:27:35Z"
     }
   },
-  "updated_at": "2026-04-08T07:26:21Z"
+  "updated_at": "2026-04-09T07:27:37Z"
 }
