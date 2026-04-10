@@ -2460,7 +2460,99 @@
         }
       },
       "created_at": "2026-04-09T07:27:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-10-%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E4%B8%8E%E5%8F%A4%E5%8F%A4/": {
+      "title": "曼达洛人与古古",
+      "source": "即将上映",
+      "date": "2026-04-10",
+      "file": "2026-04-10-曼达洛人与古古.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"694625f8-0ebb-404a-a504-e57f13d50c03\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ec065c6a-3e76-4f8f-980a-0eea9eb18f56\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-10T07:47:33Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-10-%E5%AF%92%E6%88%982/": {
+      "title": "寒战2",
+      "source": "热映",
+      "date": "2026-04-10",
+      "file": "2026-04-10-寒战2.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cde55ac5-56d1-4b44-8ed6-4b1920842b57\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1f585405-c515-4a52-ab56-33109328a89d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-10T07:47:33Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-10-%E5%AF%92%E6%88%98/": {
+      "title": "寒战",
+      "source": "热映",
+      "date": "2026-04-10",
+      "file": "2026-04-10-寒战.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cec474f8-0d31-40e5-bb9e-464a2bd35d66\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a3aa5aa8-7556-4309-bf37-5817b2382309\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-10T07:47:33Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-10-%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB2/": {
+      "title": "功夫熊猫2",
+      "source": "热映",
+      "date": "2026-04-10",
+      "file": "2026-04-10-功夫熊猫2.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"993a3a82-17d3-48a4-9eaa-e7de81698de3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-10T07:47:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8a119107-fa90-40cb-b5ef-1b5f62e8a72b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-10T07:47:33Z"
     }
   },
-  "updated_at": "2026-04-09T07:27:37Z"
+  "updated_at": "2026-04-10T07:47:38Z"
 }
