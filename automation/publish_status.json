@@ -2598,7 +2598,30 @@
         }
       },
       "created_at": "2026-04-10T13:17:20Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-12-2026%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2%E8%B6%85%E7%8E%B0%E5%9C%BA-%E7%AC%AC%E4%BA%8C%E7%8E%B0%E5%9C%BA-%E5%9B%BD%E5%AE%B6%E5%A4%A7%E5%89%A7%E9%99%A2%E5%88%B6%E4%BD%9C%E5%A8%81%E5%B0%94%E7%AC%AC%E6%AD%8C%E5%89%A7-%E9%98%BF%E4%BE%9D%E8%BE%BE-%E5%BD%B1%E9%99%A2%E7%9B%B4%E6%92%AD%E6%B4%BB%E5%8A%A8/": {
+      "title": "2026国家大剧院超现场（第二现场）——国家大剧院制作威尔第歌剧《阿依达》影院直播活动",
+      "source": "热映",
+      "date": "2026-04-12",
+      "file": "2026-04-12-2026国家大剧院超现场-第二现场-国家大剧院制作威尔第歌剧-阿依达-影院直播活动.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-12T02:50:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"93635a3c-13ba-4cd7-9d60-addbbea897c9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-12T02:50:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bc2bf015-a287-4d48-8f3c-0dbe54b525f6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-12T02:50:19Z"
     }
   },
-  "updated_at": "2026-04-10T13:17:23Z"
+  "updated_at": "2026-04-12T02:50:20Z"
 }
