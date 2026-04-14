@@ -2621,7 +2621,30 @@
         }
       },
       "created_at": "2026-04-12T02:50:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-14-%E7%88%B1%E6%98%AF%E6%84%A4%E6%80%92/": {
+      "title": "爱是愤怒",
+      "source": "即将上映",
+      "date": "2026-04-14",
+      "file": "2026-04-14-爱是愤怒.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-14T02:47:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0135ed89-6a6b-4efc-8a9c-b7f203f8494c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-14T02:47:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5b524cdf-a5a4-4581-a23f-78e6cb566c3f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-14T02:47:51Z"
     }
   },
-  "updated_at": "2026-04-12T02:50:20Z"
+  "updated_at": "2026-04-14T02:47:53Z"
 }
