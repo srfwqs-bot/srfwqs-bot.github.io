@@ -2644,7 +2644,30 @@
         }
       },
       "created_at": "2026-04-14T02:47:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-14-%E5%AF%82%E9%9D%99%E7%9A%84%E6%9C%8B%E5%8F%8B/": {
+      "title": "寂静的朋友",
+      "source": "即将上映",
+      "date": "2026-04-14",
+      "file": "2026-04-14-寂静的朋友.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-14T07:51:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0e9ce4da-964e-4519-9d89-db36e77e23ae\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-14T07:51:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e80c6e72-570b-4377-b6ff-727d96d720e8\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-14T07:51:47Z"
     }
   },
-  "updated_at": "2026-04-14T02:47:53Z"
+  "updated_at": "2026-04-14T07:51:48Z"
 }
