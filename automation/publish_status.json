@@ -2690,7 +2690,53 @@
         }
       },
       "created_at": "2026-04-14T13:48:10Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-15-%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6/": {
+      "title": "给阿嬷的情书",
+      "source": "即将上映",
+      "date": "2026-04-15",
+      "file": "2026-04-15-给阿嬷的情书.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-15T02:45:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"18d38650-78b6-4729-96b7-20edf62b098e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-15T02:45:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8ef0cf3a-66d9-452e-9a62-ba39fff89520\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-15T02:45:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-15-%E4%B8%80%E4%B8%AA%E7%94%B7%E4%BA%BA%E5%92%8C%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%BA%BA/": {
+      "title": "一个男人和一个女人",
+      "source": "即将上映",
+      "date": "2026-04-15",
+      "file": "2026-04-15-一个男人和一个女人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-15T02:45:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3baecb8c-237e-4667-84f9-5ef5a7b8ece9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-15T02:45:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7f3edc11-de74-4f3e-9fef-6907632a80aa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-15T02:45:22Z"
     }
   },
-  "updated_at": "2026-04-14T13:48:12Z"
+  "updated_at": "2026-04-15T02:45:25Z"
 }
