@@ -2943,7 +2943,30 @@
         }
       },
       "created_at": "2026-04-19T18:56:32Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-22-%E5%8B%87%E8%80%85%E6%97%A0%E7%96%86/": {
+      "title": "勇者无疆",
+      "source": "热映",
+      "date": "2026-04-22",
+      "file": "2026-04-22-勇者无疆.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-22T02:49:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b01c49fb-46bd-4a09-a881-6299a2eff563\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-22T02:49:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c48aab88-62bf-424b-beeb-3b285f876888\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-22T02:49:25Z"
     }
   },
-  "updated_at": "2026-04-19T18:56:33Z"
+  "updated_at": "2026-04-22T02:49:27Z"
 }
