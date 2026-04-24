@@ -1,5 +1,32 @@
 [
   {
+    "title": "龙凤呈祥(京剧)",
+    "url": "https://wztj.893810.xyz/posts/2026-04-24-%E9%BE%99%E5%87%A4%E5%91%88%E7%A5%A5-%E4%BA%AC%E5%89%A7/",
+    "source": "热映",
+    "date": "2026-04-24",
+    "file": "2026-04-24-龙凤呈祥-京剧.md",
+    "state": "pending",
+    "queued_at": "2026-04-24T08:09:12Z"
+  },
+  {
+    "title": "赵氏孤儿(京剧)",
+    "url": "https://wztj.893810.xyz/posts/2026-04-24-%E8%B5%B5%E6%B0%8F%E5%AD%A4%E5%84%BF-%E4%BA%AC%E5%89%A7/",
+    "source": "热映",
+    "date": "2026-04-24",
+    "file": "2026-04-24-赵氏孤儿-京剧.md",
+    "state": "pending",
+    "queued_at": "2026-04-24T08:09:12Z"
+  },
+  {
+    "title": "谢瑶环(京剧)",
+    "url": "https://wztj.893810.xyz/posts/2026-04-24-%E8%B0%A2%E7%91%B6%E7%8E%AF-%E4%BA%AC%E5%89%A7/",
+    "source": "热映",
+    "date": "2026-04-24",
+    "file": "2026-04-24-谢瑶环-京剧.md",
+    "state": "pending",
+    "queued_at": "2026-04-24T08:09:12Z"
+  },
+  {
     "title": "绵羊侦探团",
     "url": "https://wztj.893810.xyz/posts/2026-04-24-%E7%BB%B5%E7%BE%8A%E4%BE%A6%E6%8E%A2%E5%9B%A2/",
     "source": "即将上映",
@@ -7,6 +34,24 @@
     "file": "2026-04-24-绵羊侦探团.md",
     "state": "pending",
     "queued_at": "2026-04-24T02:51:52Z"
+  },
+  {
+    "title": "穆桂英挂帅(京剧)",
+    "url": "https://wztj.893810.xyz/posts/2026-04-24-%E7%A9%86%E6%A1%82%E8%8B%B1%E6%8C%82%E5%B8%85-%E4%BA%AC%E5%89%A7/",
+    "source": "热映",
+    "date": "2026-04-24",
+    "file": "2026-04-24-穆桂英挂帅-京剧.md",
+    "state": "pending",
+    "queued_at": "2026-04-24T08:09:12Z"
+  },
+  {
+    "title": "状元媒(京剧)",
+    "url": "https://wztj.893810.xyz/posts/2026-04-24-%E7%8A%B6%E5%85%83%E5%AA%92-%E4%BA%AC%E5%89%A7/",
+    "source": "热映",
+    "date": "2026-04-24",
+    "file": "2026-04-24-状元媒-京剧.md",
+    "state": "pending",
+    "queued_at": "2026-04-24T08:09:12Z"
   },
   {
     "title": "开往悬崖的火车",

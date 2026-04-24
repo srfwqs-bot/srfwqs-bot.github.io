@@ -3035,7 +3035,122 @@
         }
       },
       "created_at": "2026-04-24T02:51:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E9%BE%99%E5%87%A4%E5%91%88%E7%A5%A5-%E4%BA%AC%E5%89%A7/": {
+      "title": "龙凤呈祥(京剧)",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-龙凤呈祥-京剧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fa750def-95de-4562-84ee-4b27379c7c58\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ee402a02-8198-40e3-8f90-f0eccab39758\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T08:09:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E8%B5%B5%E6%B0%8F%E5%AD%A4%E5%84%BF-%E4%BA%AC%E5%89%A7/": {
+      "title": "赵氏孤儿(京剧)",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-赵氏孤儿-京剧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6b598128-cdf9-4559-8319-eebd7fa77132\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f91d7496-883a-4662-93f9-145a1296e543\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T08:09:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E8%B0%A2%E7%91%B6%E7%8E%AF-%E4%BA%AC%E5%89%A7/": {
+      "title": "谢瑶环(京剧)",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-谢瑶环-京剧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"39fc28da-9327-4985-9020-49061dae182e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"50eaeed0-e355-44df-bc0b-ee700431cb15\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T08:09:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E7%A9%86%E6%A1%82%E8%8B%B1%E6%8C%82%E5%B8%85-%E4%BA%AC%E5%89%A7/": {
+      "title": "穆桂英挂帅(京剧)",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-穆桂英挂帅-京剧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"274a3d90-79d4-449c-82f1-25e3d796d46b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e6e60084-09d3-40b0-8d8b-4088509efc36\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T08:09:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E7%8A%B6%E5%85%83%E5%AA%92-%E4%BA%AC%E5%89%A7/": {
+      "title": "状元媒(京剧)",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-状元媒-京剧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5caf18c4-0951-4b5f-8eec-73054730a3fa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T08:09:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2000980a-4453-4d3a-bc84-4375d3f39087\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T08:09:13Z"
     }
   },
-  "updated_at": "2026-04-24T02:51:56Z"
+  "updated_at": "2026-04-24T08:09:20Z"
 }
