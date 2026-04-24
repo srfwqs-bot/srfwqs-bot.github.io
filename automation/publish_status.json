@@ -2966,7 +2966,76 @@
         }
       },
       "created_at": "2026-04-22T02:49:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E7%BB%B5%E7%BE%8A%E4%BE%A6%E6%8E%A2%E5%9B%A2/": {
+      "title": "绵羊侦探团",
+      "source": "即将上映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-绵羊侦探团.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T02:51:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4487dd39-86f9-4c71-b6cc-43a671f9b72b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T02:51:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cabe7b45-47a3-4d86-8a48-03686ddbb61e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T02:51:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E5%BC%80%E5%BE%80%E6%82%AC%E5%B4%96%E7%9A%84%E7%81%AB%E8%BD%A6/": {
+      "title": "开往悬崖的火车",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-开往悬崖的火车.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T02:51:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3146ad1a-73ae-42da-a024-5b9ef048fd96\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T02:51:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"01c7e7f2-3b66-4697-ba4d-93a3bc8868ee\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T02:51:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E5%86%8D%E8%A7%81-%E6%9C%B1%E8%8E%89%E5%A8%85/": {
+      "title": "再见，朱莉娅",
+      "source": "即将上映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-再见-朱莉娅.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T02:51:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"53bf781f-f070-41fc-98c4-b1de3243a719\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T02:51:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0a1eb209-3bde-4293-ad72-1e39887dfd32\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T02:51:53Z"
     }
   },
-  "updated_at": "2026-04-22T02:49:27Z"
+  "updated_at": "2026-04-24T02:51:56Z"
 }
