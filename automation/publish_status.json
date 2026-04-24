@@ -3219,7 +3219,30 @@
         }
       },
       "created_at": "2026-04-24T13:41:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E9%B2%81%E8%A5%BF%E5%84%BF%E5%A5%B3/": {
+      "title": "鲁西儿女",
+      "source": "热映",
+      "date": "2026-04-24",
+      "file": "2026-04-24-鲁西儿女.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T18:56:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a6040f4e-438b-44e1-a87a-ce7fd2dee945\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T18:56:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b10e71dc-a42a-4a08-9992-c90851587326\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T18:56:53Z"
     }
   },
-  "updated_at": "2026-04-24T13:41:47Z"
+  "updated_at": "2026-04-24T18:56:55Z"
 }
