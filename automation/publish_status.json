@@ -3150,7 +3150,76 @@
         }
       },
       "created_at": "2026-04-24T08:09:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94-%E6%88%91%E7%9A%84%E7%BE%8E%E4%BA%BA/": {
+      "title": "蒙特利尔，我的美人",
+      "source": "高分推荐",
+      "date": "2026-04-24",
+      "file": "2026-04-24-蒙特利尔-我的美人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T13:41:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8a1fbe9c-4198-4ae3-ae92-f8b4f0658ea9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T13:41:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cad6e5cc-13a1-46a7-8997-e00a609dc763\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T13:41:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E7%A7%92%E9%80%9F5%E5%8E%98%E7%B1%B3/": {
+      "title": "秒速5厘米",
+      "source": "高分推荐",
+      "date": "2026-04-24",
+      "file": "2026-04-24-秒速5厘米.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T13:41:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e841542d-530e-4066-8c98-c71e10668aa0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T13:41:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"81798b7e-0abf-43f1-b9ae-4587bb64d874\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T13:41:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-24-%E5%83%8F%E6%88%91%E8%BF%99%E6%A0%B7%E7%9A%84%E7%88%B1%E6%83%85/": {
+      "title": "像我这样的爱情",
+      "source": "高分推荐",
+      "date": "2026-04-24",
+      "file": "2026-04-24-像我这样的爱情.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T13:41:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f90587e4-e45b-4d38-b354-970e315d7c3e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-24T13:41:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1133ad4b-51d6-4778-a149-03748cbdb51b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-24T13:41:42Z"
     }
   },
-  "updated_at": "2026-04-24T08:09:20Z"
+  "updated_at": "2026-04-24T13:41:47Z"
 }
