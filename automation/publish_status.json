@@ -3242,7 +3242,53 @@
         }
       },
       "created_at": "2026-04-24T18:56:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-25-%E8%BF%87%E6%98%A5%E5%A4%A9/": {
+      "title": "过春天",
+      "source": "热映",
+      "date": "2026-04-25",
+      "file": "2026-04-25-过春天.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-25T07:22:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4ed91b40-a002-472c-9548-14ce6a84b3ad\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-25T07:22:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f9d49af2-dedc-46b9-9995-c59fa6f80c78\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-25T07:22:15Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-25-%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D/": {
+      "title": "爱情神话",
+      "source": "热映",
+      "date": "2026-04-25",
+      "file": "2026-04-25-爱情神话.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-25T07:22:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b7c5f93b-eaa3-411a-b484-1be43207ae42\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-25T07:22:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1fe40013-6b46-4946-bc5a-34b3e8570948\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-25T07:22:15Z"
     }
   },
-  "updated_at": "2026-04-24T18:56:55Z"
+  "updated_at": "2026-04-25T07:22:18Z"
 }
