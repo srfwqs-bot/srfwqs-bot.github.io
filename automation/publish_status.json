@@ -3311,7 +3311,30 @@
         }
       },
       "created_at": "2026-04-27T08:31:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-27-%E4%B8%87%E6%A1%90%E4%B9%A6/": {
+      "title": "万桐书",
+      "source": "热映",
+      "date": "2026-04-27",
+      "file": "2026-04-27-万桐书.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-27T14:00:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"96b6ec23-8fbd-421f-b2aa-fdf5ba32eaa0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-27T14:00:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"67ced970-e5c7-42ea-bd6a-39cd289abb0a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-27T14:00:24Z"
     }
   },
-  "updated_at": "2026-04-27T08:31:24Z"
+  "updated_at": "2026-04-27T14:00:26Z"
 }
