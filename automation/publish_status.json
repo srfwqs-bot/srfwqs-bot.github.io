@@ -3357,7 +3357,53 @@
         }
       },
       "created_at": "2026-04-28T14:14:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-29-%E8%AE%B0%E5%BF%86%E7%A2%8E%E7%89%87/": {
+      "title": "记忆碎片",
+      "source": "即将上映",
+      "date": "2026-04-29",
+      "file": "2026-04-29-记忆碎片.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-29T19:40:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9a86ad7c-290e-4d60-bb2b-e984ec5c5cc0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-29T19:40:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e384345a-3489-4933-b7fb-8cbe67752818\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-29T19:40:44Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-04-29-%E6%80%96%E5%81%B6%E6%83%8A%E6%83%85/": {
+      "title": "怖偶惊情",
+      "source": "热映",
+      "date": "2026-04-29",
+      "file": "2026-04-29-怖偶惊情.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-29T19:40:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c36c771d-4e6a-4825-91bb-265141cbce97\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-04-29T19:40:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d5c2e4bc-c9fc-4cb4-b45c-62ecea93df3c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-04-29T19:40:44Z"
     }
   },
-  "updated_at": "2026-04-28T14:14:27Z"
+  "updated_at": "2026-04-29T19:40:47Z"
 }
