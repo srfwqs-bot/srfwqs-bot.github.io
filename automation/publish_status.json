@@ -3518,7 +3518,122 @@
         }
       },
       "created_at": "2026-05-01T03:38:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E7%BE%8E%E5%91%B3%E5%80%92%E6%95%B0/": {
+      "title": "美味倒数",
+      "source": "高分推荐",
+      "date": "2026-05-01",
+      "file": "2026-05-01-美味倒数.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9ce49912-c935-4745-99cc-ee7aba20262c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0ac4062f-5bcc-4fa0-bba3-108c9335c2a2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T13:24:28Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E6%A1%91%E6%A0%BC%E8%B1%AA%E6%A3%AE%E7%9A%84%E6%B8%B4%E6%9C%9B/": {
+      "title": "桑格豪森的渴望",
+      "source": "高分推荐",
+      "date": "2026-05-01",
+      "file": "2026-05-01-桑格豪森的渴望.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"85c13e68-3ea9-46e3-8864-40cc34eb6968\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"46e65f70-1c1d-4375-ae64-fd781f17c768\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T13:24:28Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E6%9D%80%E7%9A%84%E5%B0%B1%E6%98%AF%E4%BD%A0/": {
+      "title": "杀的就是你",
+      "source": "高分推荐",
+      "date": "2026-05-01",
+      "file": "2026-05-01-杀的就是你.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fcfbf9ff-565d-4ed4-afb5-ea3cd94d2078\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"144b4a23-45cb-4448-8ba9-516a25020ae2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T13:24:28Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E4%B8%96%E7%95%8C%E7%9A%84%E4%B8%BB%E4%BA%BA/": {
+      "title": "世界的主人",
+      "source": "高分推荐",
+      "date": "2026-05-01",
+      "file": "2026-05-01-世界的主人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"123f7152-3cde-437d-ba16-78681c17cf6e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9b634f90-70ed-4943-9fde-62fd3a969cfe\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T13:24:28Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E4%B8%89%E5%A3%B0%E5%86%8D%E8%A7%81/": {
+      "title": "三声再见",
+      "source": "高分推荐",
+      "date": "2026-05-01",
+      "file": "2026-05-01-三声再见.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3bf7660d-1002-4c13-b62e-14ac38f6e18b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T13:24:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1249fc9a-5dc5-4c28-a11c-82cee093fa5e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T13:24:28Z"
     }
   },
-  "updated_at": "2026-05-01T03:38:31Z"
+  "updated_at": "2026-05-01T13:24:36Z"
 }
