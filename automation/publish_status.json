@@ -3449,7 +3449,76 @@
         }
       },
       "created_at": "2026-04-30T08:25:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E7%BB%9D%E5%AF%86%E4%BB%BB%E5%8A%A1/": {
+      "title": "绝密任务",
+      "source": "即将上映",
+      "date": "2026-05-01",
+      "file": "2026-05-01-绝密任务.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T03:38:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"72acd502-6a28-45aa-b96a-64c20a05b640\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T03:38:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e77f717a-588c-4ef8-9862-6ac9fb554c46\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T03:38:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%985/": {
+      "title": "玩具总动员5",
+      "source": "即将上映",
+      "date": "2026-05-01",
+      "file": "2026-05-01-玩具总动员5.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T03:38:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cc1b084c-5fc0-4ce5-ba67-9be58640b8b0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T03:38:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b59e2b30-f4ab-40e5-830f-e75fbe8ea1f7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T03:38:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-01-%E5%9B%9B%E6%B8%A1/": {
+      "title": "四渡",
+      "source": "即将上映",
+      "date": "2026-05-01",
+      "file": "2026-05-01-四渡.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T03:38:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"39495e55-168f-4720-a4bb-09cfe8cc3ba4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-01T03:38:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3b0832d4-c484-4e60-a366-4f4758fe94fa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-01T03:38:25Z"
     }
   },
-  "updated_at": "2026-04-30T08:25:37Z"
+  "updated_at": "2026-05-01T03:38:31Z"
 }
