@@ -3725,7 +3725,53 @@
         }
       },
       "created_at": "2026-05-07T14:18:29Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E9%80%A2%E7%94%9F-%E7%9B%B4%E9%9D%A2%E7%99%8C%E7%97%87/": {
+      "title": "逢生：直面癌症",
+      "source": "热映",
+      "date": "2026-05-08",
+      "file": "2026-05-08-逢生-直面癌症.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T03:23:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e2da74d3-b87f-4721-aaf8-d15cb77594f6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T03:23:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"07946bba-62fa-484e-8aae-a9707176adbf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T03:23:29Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98-%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E4%B8%8E%E5%8F%A4%E5%8F%A4/": {
+      "title": "星球大战：曼达洛人与古古",
+      "source": "热映",
+      "date": "2026-05-08",
+      "file": "2026-05-08-星球大战-曼达洛人与古古.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T03:23:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"237fd45c-3aec-4fa9-88d8-d7414c5ee11e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T03:23:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2f9856ce-1807-4731-b3ab-f4e1911ffe74\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T03:23:29Z"
     }
   },
-  "updated_at": "2026-05-07T14:18:33Z"
+  "updated_at": "2026-05-08T03:23:32Z"
 }
