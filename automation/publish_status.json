@@ -3771,7 +3771,122 @@
         }
       },
       "created_at": "2026-05-08T03:23:29Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E9%92%9F%E9%A6%97/": {
+      "title": "钟馗",
+      "source": "即将上映",
+      "date": "2026-05-08",
+      "file": "2026-05-08-钟馗.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b608c7b8-1834-46dd-837d-e61fbb1f1346\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"445c1663-9953-4af8-9474-b26118fd7be0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T13:55:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E7%88%B1%E6%83%85%E6%8A%93%E9%A9%AC/": {
+      "title": "爱情抓马",
+      "source": "高分推荐",
+      "date": "2026-05-08",
+      "file": "2026-05-08-爱情抓马.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"305a5675-08cc-4cca-a05a-1a131bd4ec10\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"50e95acf-440a-4382-95e9-dbbfad010d0c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T13:55:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E6%AF%8D%E9%B8%A1/": {
+      "title": "母鸡",
+      "source": "高分推荐",
+      "date": "2026-05-08",
+      "file": "2026-05-08-母鸡.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"99b96e48-e986-4218-ba8c-4157fbf49b19\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"eee1b378-9f0a-45d2-97f2-eae674fdd113\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T13:55:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E5%A5%87%E5%B9%BB%E5%8F%98%E8%BA%AB%E5%A4%A7%E5%86%92%E9%99%A9/": {
+      "title": "奇幻变身大冒险",
+      "source": "高分推荐",
+      "date": "2026-05-08",
+      "file": "2026-05-08-奇幻变身大冒险.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ec3a5e15-d172-4ee6-b096-4fc15851a771\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9eeaad1b-211c-493a-8f02-b5de6164f649\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T13:55:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-08-%E4%B8%8E%E7%8E%8B%E7%94%9F%E6%B4%BB%E7%9A%84%E7%94%B7%E4%BA%BA/": {
+      "title": "与王生活的男人",
+      "source": "高分推荐",
+      "date": "2026-05-08",
+      "file": "2026-05-08-与王生活的男人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:55:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8d4065c2-ee21-45bf-bc8d-d8b6e97c9e6f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-08T13:56:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ae679b1b-c4be-45bf-bba9-7eeb9848ad08\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-08T13:55:53Z"
     }
   },
-  "updated_at": "2026-05-08T03:23:32Z"
+  "updated_at": "2026-05-08T13:56:00Z"
 }

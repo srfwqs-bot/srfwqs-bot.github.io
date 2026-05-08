@@ -1,5 +1,14 @@
 [
   {
+    "title": "钟馗",
+    "url": "https://wztj.893810.xyz/posts/2026-05-08-%E9%92%9F%E9%A6%97/",
+    "source": "即将上映",
+    "date": "2026-05-08",
+    "file": "2026-05-08-钟馗.md",
+    "state": "pending",
+    "queued_at": "2026-05-08T13:55:53Z"
+  },
+  {
     "title": "逢生：直面癌症",
     "url": "https://wztj.893810.xyz/posts/2026-05-08-%E9%80%A2%E7%94%9F-%E7%9B%B4%E9%9D%A2%E7%99%8C%E7%97%87/",
     "source": "热映",
@@ -9,6 +18,24 @@
     "queued_at": "2026-05-08T03:23:29Z"
   },
   {
+    "title": "爱情抓马",
+    "url": "https://wztj.893810.xyz/posts/2026-05-08-%E7%88%B1%E6%83%85%E6%8A%93%E9%A9%AC/",
+    "source": "高分推荐",
+    "date": "2026-05-08",
+    "file": "2026-05-08-爱情抓马.md",
+    "state": "pending",
+    "queued_at": "2026-05-08T13:55:53Z"
+  },
+  {
+    "title": "母鸡",
+    "url": "https://wztj.893810.xyz/posts/2026-05-08-%E6%AF%8D%E9%B8%A1/",
+    "source": "高分推荐",
+    "date": "2026-05-08",
+    "file": "2026-05-08-母鸡.md",
+    "state": "pending",
+    "queued_at": "2026-05-08T13:55:53Z"
+  },
+  {
     "title": "星球大战：曼达洛人与古古",
     "url": "https://wztj.893810.xyz/posts/2026-05-08-%E6%98%9F%E7%90%83%E5%A4%A7%E6%88%98-%E6%9B%BC%E8%BE%BE%E6%B4%9B%E4%BA%BA%E4%B8%8E%E5%8F%A4%E5%8F%A4/",
     "source": "热映",
@@ -16,6 +43,24 @@
     "file": "2026-05-08-星球大战-曼达洛人与古古.md",
     "state": "pending",
     "queued_at": "2026-05-08T03:23:29Z"
+  },
+  {
+    "title": "奇幻变身大冒险",
+    "url": "https://wztj.893810.xyz/posts/2026-05-08-%E5%A5%87%E5%B9%BB%E5%8F%98%E8%BA%AB%E5%A4%A7%E5%86%92%E9%99%A9/",
+    "source": "高分推荐",
+    "date": "2026-05-08",
+    "file": "2026-05-08-奇幻变身大冒险.md",
+    "state": "pending",
+    "queued_at": "2026-05-08T13:55:53Z"
+  },
+  {
+    "title": "与王生活的男人",
+    "url": "https://wztj.893810.xyz/posts/2026-05-08-%E4%B8%8E%E7%8E%8B%E7%94%9F%E6%B4%BB%E7%9A%84%E7%94%B7%E4%BA%BA/",
+    "source": "高分推荐",
+    "date": "2026-05-08",
+    "file": "2026-05-08-与王生活的男人.md",
+    "state": "pending",
+    "queued_at": "2026-05-08T13:55:53Z"
   },
   {
     "title": "维米尔·旷世大展",
