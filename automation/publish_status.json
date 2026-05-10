@@ -3909,7 +3909,53 @@
         }
       },
       "created_at": "2026-05-09T03:21:31Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-10-%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88/": {
+      "title": "监狱来的妈妈",
+      "source": "即将上映",
+      "date": "2026-05-10",
+      "file": "2026-05-10-监狱来的妈妈.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-10T08:11:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"300f1a75-4d7b-4f53-8352-83b132648158\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-10T08:11:02Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"180b1675-bb44-42a6-acc8-61528b32f096\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-10T08:11:00Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-10-%E6%88%91%E5%9C%A8%E8%8B%8F%E5%B7%9E%E5%AD%A6%E9%9D%9E%E9%81%97/": {
+      "title": "我在苏州学非遗",
+      "source": "热映",
+      "date": "2026-05-10",
+      "file": "2026-05-10-我在苏州学非遗.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-10T08:11:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"55468f9c-ab10-4e6f-aa3d-ed68c851f392\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-10T08:11:04Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"172273b9-140f-458f-898d-4bcb81d44e76\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-10T08:11:00Z"
     }
   },
-  "updated_at": "2026-05-09T03:21:32Z"
+  "updated_at": "2026-05-10T08:11:04Z"
 }
