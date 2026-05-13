@@ -4001,7 +4001,53 @@
         }
       },
       "created_at": "2026-05-11T09:44:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-13-%E7%88%B1%E6%83%85%E5%9F%8E%E4%BA%8B/": {
+      "title": "爱情城事",
+      "source": "即将上映",
+      "date": "2026-05-13",
+      "file": "2026-05-13-爱情城事.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-13T03:39:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fbe339c3-12bb-4cb8-8404-edfd0f8b6c23\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-13T03:39:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d9804fe2-1255-41d2-8185-a995786b2e16\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-13T03:39:18Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-13-%E4%B8%8D%E6%83%B3%E5%A4%B1%E5%8E%BB%E4%BD%A0/": {
+      "title": "不想失去你",
+      "source": "即将上映",
+      "date": "2026-05-13",
+      "file": "2026-05-13-不想失去你.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-13T03:39:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e7fb4831-bae5-4b84-b98d-5791f28f2303\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-13T03:39:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"95681495-02be-4a52-9947-6e758c6f8f8d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-13T03:39:18Z"
     }
   },
-  "updated_at": "2026-05-11T09:44:15Z"
+  "updated_at": "2026-05-13T03:39:22Z"
 }
