@@ -4070,7 +4070,99 @@
         }
       },
       "created_at": "2026-05-13T19:58:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-14-%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B83/": {
+      "title": "神偷奶爸3",
+      "source": "热映",
+      "date": "2026-05-14",
+      "file": "2026-05-14-神偷奶爸3.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ceb2a105-6045-4c7d-ad35-a8c102c762f6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7fc488a9-4df3-4044-8b8f-fce4a35466bd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-14T19:49:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-14-%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B82/": {
+      "title": "神偷奶爸2",
+      "source": "热映",
+      "date": "2026-05-14",
+      "file": "2026-05-14-神偷奶爸2.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d69ac5a4-d348-4274-8c47-98788cbaadb0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"65f2cf9b-6d40-4394-997e-766deb750556\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-14T19:49:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-14-%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%A4%A7%E7%9C%BC%E8%90%8C-%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B8%E5%89%8D%E4%BC%A0/": {
+      "title": "小黄人大眼萌：神偷奶爸前传",
+      "source": "热映",
+      "date": "2026-05-14",
+      "file": "2026-05-14-小黄人大眼萌-神偷奶爸前传.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c0e4ceeb-b859-41f6-822f-46927d836564\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"24ab585e-7e54-4881-a2b8-2aeabfdd0c77\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-14T19:49:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-14-%E5%87%8C%E6%99%A8%E4%B8%A4%E7%82%B9%E5%8D%8A4/": {
+      "title": "凌晨两点半4",
+      "source": "热映",
+      "date": "2026-05-14",
+      "file": "2026-05-14-凌晨两点半4.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6835493d-b579-4b2d-8f94-d926023f6a51\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-14T19:49:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"81143250-c88f-4350-9778-eba3d0ac0b34\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-14T19:49:23Z"
     }
   },
-  "updated_at": "2026-05-13T19:58:26Z"
+  "updated_at": "2026-05-14T19:49:29Z"
 }
