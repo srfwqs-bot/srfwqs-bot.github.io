@@ -4162,7 +4162,30 @@
         }
       },
       "created_at": "2026-05-14T19:49:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-15-%E5%8A%A0%E8%8F%B2%E7%8C%AB%E5%AE%B6%E6%97%8F/": {
+      "title": "加菲猫家族",
+      "source": "即将上映",
+      "date": "2026-05-15",
+      "file": "2026-05-15-加菲猫家族.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T03:41:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9d0f1ccc-9e21-43ff-8656-3d297d36346b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T03:41:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5f266d6d-9659-4db3-959e-0641ec7b1948\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-15T03:41:16Z"
     }
   },
-  "updated_at": "2026-05-14T19:49:29Z"
+  "updated_at": "2026-05-15T03:41:18Z"
 }
