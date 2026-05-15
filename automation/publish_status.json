@@ -4185,7 +4185,122 @@
         }
       },
       "created_at": "2026-05-15T03:41:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-15-%E6%9C%80%E5%90%8E%E7%9A%84kpi/": {
+      "title": "最后的KPI",
+      "source": "高分推荐",
+      "date": "2026-05-15",
+      "file": "2026-05-15-最后的kpi.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e3909cc1-40a5-439a-ac46-1d8397ac5657\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9c63169b-3743-4f08-b253-583c6c230bf4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-15T08:52:17Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-15-%E6%8A%8A%E5%93%A5%E5%93%A5%E5%B8%A6%E8%B5%B0/": {
+      "title": "把哥哥带走",
+      "source": "高分推荐",
+      "date": "2026-05-15",
+      "file": "2026-05-15-把哥哥带走.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e702d61f-3384-4f93-ba1b-7652f3295a5d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f88bf15f-7049-47ae-8663-3757eb8871a4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-15T08:52:17Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-15-%E5%B9%B3%E5%9C%BA%E4%B9%8B%E6%9C%88/": {
+      "title": "平场之月",
+      "source": "高分推荐",
+      "date": "2026-05-15",
+      "file": "2026-05-15-平场之月.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"37ad77f5-2650-44b0-ade0-5db187a6ff5a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bfdce266-fd89-4b65-a2c0-f91e09b53a95\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-15T08:52:17Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-15-%E4%B9%92%E4%B9%93%E7%94%B7%E5%AD%A9/": {
+      "title": "乒乓男孩",
+      "source": "即将上映",
+      "date": "2026-05-15",
+      "file": "2026-05-15-乒乓男孩.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0b30970f-5809-48fd-8159-a1e6515196f1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"db18753c-2ed5-48bd-bee2-63a6c73b0e19\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-15T08:52:17Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-15-%E4%B8%87%E4%BA%8B%E9%A1%BA%E5%88%A9/": {
+      "title": "万事顺利",
+      "source": "高分推荐",
+      "date": "2026-05-15",
+      "file": "2026-05-15-万事顺利.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"76988c78-43d6-4480-a247-b0830d27b36c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-15T08:52:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"16d6e5e0-f35c-4249-a0f6-233303fafde0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-15T08:52:17Z"
     }
   },
-  "updated_at": "2026-05-15T03:41:18Z"
+  "updated_at": "2026-05-15T08:52:25Z"
 }
