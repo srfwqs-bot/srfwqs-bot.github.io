@@ -4346,7 +4346,30 @@
         }
       },
       "created_at": "2026-05-16T19:08:05Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-18-%E5%B0%8F%E9%A9%AC%E5%AE%9D%E8%8E%89-%E6%96%B0%E4%B8%96%E4%BB%A3/": {
+      "title": "小马宝莉：新世代",
+      "source": "即将上映",
+      "date": "2026-05-18",
+      "file": "2026-05-18-小马宝莉-新世代.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-18T03:55:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"329f91ae-e97a-443d-a33d-626697f5c2ee\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-18T03:55:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c51cef6d-781e-459d-bf13-91236ba613e2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-18T03:55:07Z"
     }
   },
-  "updated_at": "2026-05-16T19:08:07Z"
+  "updated_at": "2026-05-18T03:55:08Z"
 }
