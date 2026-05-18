@@ -4369,7 +4369,30 @@
         }
       },
       "created_at": "2026-05-18T03:55:07Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-18-%E4%B8%AD%E5%9B%BD%E5%8A%A8%E7%94%BB100%E5%B9%B4/": {
+      "title": "中国动画100年",
+      "source": "即将上映",
+      "date": "2026-05-18",
+      "file": "2026-05-18-中国动画100年.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-18T10:10:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6224fa7c-b3c0-4a6c-b3d5-035db56725d6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-18T10:10:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e93f0624-1fb4-4325-8b9c-d183d620f00f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-18T10:10:04Z"
     }
   },
-  "updated_at": "2026-05-18T03:55:08Z"
+  "updated_at": "2026-05-18T10:10:06Z"
 }
