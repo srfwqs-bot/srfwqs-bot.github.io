@@ -4392,7 +4392,30 @@
         }
       },
       "created_at": "2026-05-18T10:10:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-18-%E5%A3%B0-%E7%94%9F%E4%B8%8D%E6%81%AF/": {
+      "title": "“声”生不息",
+      "source": "热映",
+      "date": "2026-05-18",
+      "file": "2026-05-18-声-生不息.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-18T15:37:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5c6f7f42-3855-46f3-ba39-0090b1f0df79\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-18T15:37:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9feb0a4a-ddd3-4ce3-9fd3-da7fddbe9b6e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-18T15:37:51Z"
     }
   },
-  "updated_at": "2026-05-18T10:10:06Z"
+  "updated_at": "2026-05-18T15:37:53Z"
 }
