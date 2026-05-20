@@ -4461,7 +4461,30 @@
         }
       },
       "created_at": "2026-05-20T03:49:31Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-20-%E5%8D%88%E5%A4%9C%E6%80%A8%E7%81%B5/": {
+      "title": "午夜怨灵",
+      "source": "热映",
+      "date": "2026-05-20",
+      "file": "2026-05-20-午夜怨灵.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-20T15:27:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0bebfe51-1b29-4064-91ad-fe2c3efd3737\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-20T15:27:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0974bdeb-bbf0-4530-9203-cff81a34e048\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-20T15:26:59Z"
     }
   },
-  "updated_at": "2026-05-20T03:49:33Z"
+  "updated_at": "2026-05-20T15:27:01Z"
 }
