@@ -4507,7 +4507,99 @@
         }
       },
       "created_at": "2026-05-21T09:46:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-21-%E8%B5%B0%E9%A9%AC%E8%A7%82%E8%8A%B1/": {
+      "title": "走马观花",
+      "source": "即将上映",
+      "date": "2026-05-21",
+      "file": "2026-05-21-走马观花.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:41Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"070dab75-c647-40a6-bff9-ea7ad38f3c53\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:42Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c0b7b090-7612-4383-87e7-f718fa7f7b13\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-21T19:56:40Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-21-%E6%88%91%E7%9A%84%E7%88%B1%E4%BA%BA/": {
+      "title": "我的爱人",
+      "source": "即将上映",
+      "date": "2026-05-21",
+      "file": "2026-05-21-我的爱人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"aeff4d66-12f9-4ecd-bb79-7e282e3d44aa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4e20c8f9-1860-4177-a6fd-4bed3872dfb5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-21T19:56:40Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-21-%E5%8A%A0%E6%B2%B9%E5%90%A7-%E5%A8%9C%E4%BE%9D%E6%8B%89/": {
+      "title": "加油吧！娜依拉",
+      "source": "即将上映",
+      "date": "2026-05-21",
+      "file": "2026-05-21-加油吧-娜依拉.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bcd1a6b1-f401-4a0e-9a7a-6279aec298b7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6a485f74-47ea-4d8e-af94-710b4a56d8de\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-21T19:56:40Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-21-%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F/": {
+      "title": "偷偷藏不住",
+      "source": "即将上映",
+      "date": "2026-05-21",
+      "file": "2026-05-21-偷偷藏不住.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dfa202b9-0253-486d-8f8d-36d1a14ba9f0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T19:56:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"54ec271e-98e8-4f1e-b0c2-f67bc38e055a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-21T19:56:40Z"
     }
   },
-  "updated_at": "2026-05-21T09:46:26Z"
+  "updated_at": "2026-05-21T19:56:47Z"
 }
