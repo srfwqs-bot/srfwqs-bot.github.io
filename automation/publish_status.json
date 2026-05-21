@@ -4484,7 +4484,30 @@
         }
       },
       "created_at": "2026-05-20T15:26:59Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-21-%E5%8D%B1%E9%99%A9%E5%8A%A8%E7%89%A9/": {
+      "title": "危险动物",
+      "source": "即将上映",
+      "date": "2026-05-21",
+      "file": "2026-05-21-危险动物.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T09:46:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c3791a62-b50c-4505-8070-fc58449fd9af\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-21T09:46:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"916c3d2d-72cd-4cd0-b34e-3c31638b544a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-21T09:46:24Z"
     }
   },
-  "updated_at": "2026-05-20T15:27:01Z"
+  "updated_at": "2026-05-21T09:46:26Z"
 }
