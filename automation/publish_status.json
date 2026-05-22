@@ -4599,7 +4599,53 @@
         }
       },
       "created_at": "2026-05-21T19:56:40Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-22-%E5%B9%B8%E8%BF%90%E6%9C%89%E5%85%AB%E5%8F%AA%E8%A7%A6%E6%89%8B/": {
+      "title": "幸运有八只触手",
+      "source": "高分推荐",
+      "date": "2026-05-22",
+      "file": "2026-05-22-幸运有八只触手.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-22T09:31:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ef3bacab-a151-4a11-9718-52e8749680cf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-22T09:31:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"52afa243-dd40-47bf-bd56-ae110fae9d83\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-22T09:31:14Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-22-%E5%88%A9%E6%91%A9%E6%97%A5%E9%98%B3%E5%8F%B0/": {
+      "title": "利摩日阳台",
+      "source": "高分推荐",
+      "date": "2026-05-22",
+      "file": "2026-05-22-利摩日阳台.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-22T09:31:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"67fefadc-7111-45a8-a4c0-be8611dc5493\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-22T09:31:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"007e0e7b-a7f9-48de-a681-e82cfefcc3d5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-22T09:31:14Z"
     }
   },
-  "updated_at": "2026-05-21T19:56:47Z"
+  "updated_at": "2026-05-22T09:31:17Z"
 }
