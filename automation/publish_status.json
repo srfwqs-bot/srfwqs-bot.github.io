@@ -4645,7 +4645,352 @@
         }
       },
       "created_at": "2026-05-22T09:31:14Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E9%92%A2%E7%9A%84%E7%90%B4/": {
+      "title": "钢的琴",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-钢的琴.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8c06788b-f2d3-4e38-82b9-3199c9f24781\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a5e2111b-997a-4eed-9d02-d81e7f51802f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E8%93%9D%E7%99%BD%E7%BA%A2%E4%B8%89%E9%83%A8%E6%9B%B2%E4%B9%8B%E7%BA%A2/": {
+      "title": "蓝白红三部曲之红",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-蓝白红三部曲之红.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4c595aeb-d1bd-4750-bd86-ad545b6b519d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e64beb1f-9df8-48fb-a3fa-17b387701512\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E8%83%AD%E8%84%82%E6%89%A3/": {
+      "title": "胭脂扣",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-胭脂扣.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"08c43758-0a30-4915-b337-acbfbf62eb21\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"73e5816f-0807-411c-a0da-c542e8f8c776\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AB%A5%E8%AF%9D/": {
+      "title": "秋天的童话",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-秋天的童话.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9d436779-5684-488a-b042-2ce54ab7c084\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"136a4cff-f688-4f95-950d-cd30e3239d21\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E7%A5%96%E4%B8%8E%E5%8D%A0/": {
+      "title": "祖与占",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-祖与占.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"62467f59-e1b5-4d01-9263-d6d9196da40d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:50Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d250b915-be41-4ec9-97ed-e7284d57b093\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E7%A2%A7%E6%B5%B7%E8%93%9D%E5%A4%A9/": {
+      "title": "碧海蓝天",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-碧海蓝天.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:51Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4cb1a030-af54-45fd-ae6b-6974b7280135\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:51Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"172e1595-24ff-41eb-a275-0c3cdb972e84\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E7%8B%AC%E8%87%AA%E5%9C%A8%E5%A4%9C%E6%99%9A%E7%9A%84%E6%B5%B7%E8%BE%B9/": {
+      "title": "独自在夜晚的海边",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-独自在夜晚的海边.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9d0e765f-70cf-4f6a-ae6a-011f20cae9bd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"65d58ba8-4c72-4d4c-9b9f-43ad36fdfd1f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E7%81%AB%E5%B1%B1%E8%BE%B9%E7%BC%98%E4%B9%8B%E6%81%8B/": {
+      "title": "火山边缘之恋",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-火山边缘之恋.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6185a3f7-5da2-4616-b559-b5b65ad95a96\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0607d93d-c1bf-43fe-a24e-a006ca6908f1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E6%AF%95%E4%B8%9A%E7%94%9F/": {
+      "title": "毕业生",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-毕业生.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"905792ef-052e-4d57-b337-c0f6c717bb3a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"45fb83cd-2a21-47d4-90d7-0db03a1489cc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E6%99%92%E5%90%8E%E5%81%87%E6%97%A5/": {
+      "title": "晒后假日",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-晒后假日.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f796faea-5d0c-4594-83a2-3995c9ff4315\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e66f5f90-cade-4039-a867-33d2d6bee084\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E6%8E%A2%E6%88%88%E8%AF%BE/": {
+      "title": "探戈课",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-探戈课.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"47bc0488-cb16-48fa-b9d2-9a3183ae5fcf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:23:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"65391149-6e15-4da5-9d42-3f85e31a81cd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E6%88%8F%E4%B9%8B%E5%91%B3/": {
+      "title": "戏之味",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-戏之味.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7c96b292-9855-465e-a7c4-348c2d4a3679\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"401f2d80-026c-4907-aef3-c26c87c3f8eb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E5%BA%90%E5%B1%B1%E6%81%8B/": {
+      "title": "庐山恋",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-庐山恋.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2f997244-6de1-41b9-878c-603644a2b3e1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:02Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"28379aec-0edf-43ab-a82d-ac6e551d2de2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E5%9D%8F%E8%A1%80/": {
+      "title": "坏血",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-坏血.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"efe424b5-5c37-4b97-b7f4-9cde3f7ee8c6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:04Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"eb7702c8-ce1b-4139-9fd1-000c17ef92ea\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-23-%E5%8E%BB%E5%B9%B4%E5%9C%A8%E9%A9%AC%E9%87%8C%E6%98%82%E5%B7%B4%E5%BE%B7/": {
+      "title": "去年在马里昂巴德",
+      "source": "热映",
+      "date": "2026-05-23",
+      "file": "2026-05-23-去年在马里昂巴德.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"41d14f23-2eb5-4f18-a8c2-c67b9b0f8256\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-23T08:24:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"70df3bb1-9232-4bb6-b3d2-0bca93801e7e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-23T08:23:42Z"
     }
   },
-  "updated_at": "2026-05-22T09:31:17Z"
+  "updated_at": "2026-05-23T08:24:06Z"
 }
