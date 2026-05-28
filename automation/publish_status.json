@@ -5082,7 +5082,30 @@
         }
       },
       "created_at": "2026-05-27T15:50:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-28-%E6%8F%AD%E7%A7%98%E6%97%A5/": {
+      "title": "揭秘日",
+      "source": "即将上映",
+      "date": "2026-05-28",
+      "file": "2026-05-28-揭秘日.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-28T16:05:13Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d2000bb9-7843-48df-9c6d-3bef80ce20a3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-28T16:05:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c7fba334-91e0-4f65-b7c7-7f9e57baa6bf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-28T16:05:12Z"
     }
   },
-  "updated_at": "2026-05-27T15:50:59Z"
+  "updated_at": "2026-05-28T16:05:14Z"
 }
