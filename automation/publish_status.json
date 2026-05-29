@@ -5266,7 +5266,76 @@
         }
       },
       "created_at": "2026-05-29T09:58:02Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-29-%E7%88%B8%E7%88%B8/": {
+      "title": "爸爸",
+      "source": "即将上映",
+      "date": "2026-05-29",
+      "file": "2026-05-29-爸爸.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-29T20:28:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ad7eb3ac-b031-460e-a7de-b9eecbd53cc7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-29T20:28:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b955680b-8eea-4c61-8998-965a811a55a2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-29T20:28:54Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-29-%E6%88%91%E7%9C%8B%E8%A7%81%E4%B8%A4%E6%9C%B5%E4%B8%80%E6%A0%B7%E7%9A%84%E4%BA%91/": {
+      "title": "我看见两朵一样的云",
+      "source": "即将上映",
+      "date": "2026-05-29",
+      "file": "2026-05-29-我看见两朵一样的云.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-29T20:28:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b0702fab-4032-4d6a-993d-050a1d105b40\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-29T20:28:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"571eaf48-a6b8-4339-b081-cb9601c293fc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-29T20:28:54Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-29-%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%91%B3/": {
+      "title": "二十四味",
+      "source": "即将上映",
+      "date": "2026-05-29",
+      "file": "2026-05-29-二十四味.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-29T20:28:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dcd74fad-d8f4-41f3-ab40-7d59455956ec\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-29T20:28:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"780d2606-5937-4107-93d6-0e5e6ed654d6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-29T20:28:54Z"
     }
   },
-  "updated_at": "2026-05-29T09:58:11Z"
+  "updated_at": "2026-05-29T20:28:59Z"
 }
