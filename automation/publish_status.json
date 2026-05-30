@@ -5335,7 +5335,76 @@
         }
       },
       "created_at": "2026-05-29T20:28:54Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-30-%E7%BE%8A%E8%83%8C%E4%B8%8A%E7%9A%84dj/": {
+      "title": "羊背上的DJ",
+      "source": "热映",
+      "date": "2026-05-30",
+      "file": "2026-05-30-羊背上的dj.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-30T13:44:12Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8aabc0de-b6f0-49ca-aaf0-218a600ea880\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-30T13:44:13Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"850e6198-f61c-40d1-8e41-83eb90eb7ed7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-30T13:44:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-30-%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%8F%AB%E4%BB%96%E9%9B%B7%E6%9D%B0/": {
+      "title": "每个人都叫他雷杰",
+      "source": "热映",
+      "date": "2026-05-30",
+      "file": "2026-05-30-每个人都叫他雷杰.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-30T13:44:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"337f0c0e-ced5-4d9f-a08e-efc39999fe7f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-30T13:44:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cc65450f-29f0-4002-8d81-b6a5eff27eb9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-30T13:44:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-05-30-%E4%B9%94%E6%81%A9-%E7%93%A6%E5%B0%94%E8%BE%BE%E5%A4%A7%E6%88%98%E9%93%B6%E6%B2%B3%E7%B3%BB/": {
+      "title": "乔恩·瓦尔达大战银河系",
+      "source": "热映",
+      "date": "2026-05-30",
+      "file": "2026-05-30-乔恩-瓦尔达大战银河系.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-30T13:44:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ef450189-cf31-475c-836f-7094f2276466\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-05-30T13:44:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"34992680-ba3f-4c0c-ae6e-3248afa7085f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-05-30T13:44:12Z"
     }
   },
-  "updated_at": "2026-05-29T20:28:59Z"
+  "updated_at": "2026-05-30T13:44:16Z"
 }
