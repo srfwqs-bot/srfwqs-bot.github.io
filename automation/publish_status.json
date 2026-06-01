@@ -5473,7 +5473,30 @@
         }
       },
       "created_at": "2026-05-31T19:20:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-01-%E7%89%B9%E7%AB%8B%E7%8B%AC%E8%A1%8C/": {
+      "title": "特立独行",
+      "source": "即将上映",
+      "date": "2026-06-01",
+      "file": "2026-06-01-特立独行.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-01T04:18:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"48d112cd-1ad9-4446-a6b8-386ce3a52b6b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-01T04:19:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"06de0edc-8d87-4482-85ee-6c5ab1caca88\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-01T04:18:58Z"
     }
   },
-  "updated_at": "2026-05-31T19:20:50Z"
+  "updated_at": "2026-06-01T04:19:00Z"
 }
