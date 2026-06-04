@@ -5519,7 +5519,191 @@
         }
       },
       "created_at": "2026-06-03T11:03:36Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E9%BA%A6%E5%85%8B%E7%99%BD/": {
+      "title": "麦克白",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-麦克白.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8d323f8b-3787-4b12-a542-7299d28019b2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3249af61-81bf-4026-84da-97d6411d9525\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E9%AD%94%E7%AC%9B/": {
+      "title": "魔笛",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-魔笛.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1eac20d4-1766-4347-900f-5a58e8e56b9a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6ff62c43-09ec-4491-b8f0-41d4f9514d95\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E9%9F%B3%E9%AD%82%E6%8E%A0%E5%BD%B1/": {
+      "title": "音魂掠影",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-音魂掠影.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e18fd071-d7fe-4899-8aca-41207d7e7f6c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"70797c8a-1674-47ed-946d-1075b8027fa2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E9%9F%B3%E4%B9%90%E5%89%A7-%E5%9F%BA%E7%9D%A3%E5%B1%B1%E4%BC%AF%E7%88%B5/": {
+      "title": "音乐剧-基督山伯爵",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-音乐剧-基督山伯爵.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0aba0721-753e-4751-82ef-9c66d67706f6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1ab98d3f-e3a2-4b03-871d-da7d2df14c66\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E7%BD%97%E6%9D%B0%E6%96%AF%E4%B8%8E%E6%B1%89%E9%BB%98%E6%96%AF%E5%9D%A680%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E9%9F%B3%E4%B9%90%E4%BC%9A/": {
+      "title": "罗杰斯与汉默斯坦80周年纪念音乐会",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-罗杰斯与汉默斯坦80周年纪念音乐会.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cc3425c3-4113-4c68-83af-1d3e837032c5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4ffe10ff-80b0-4c98-86ca-fecfd69c8e9b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E7%BD%97%E5%AF%86%E6%AC%A7%E4%B8%8E%E6%9C%B1%E4%B8%BD%E5%8F%B6/": {
+      "title": "罗密欧与朱丽叶",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-罗密欧与朱丽叶.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f5a77a17-6f27-47e8-aa6d-daf56303b6f7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"187d3002-4f9b-47a6-8483-697383a2a042\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E5%B8%95%E7%93%A6%E7%BD%97%E8%92%82/": {
+      "title": "帕瓦罗蒂",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-帕瓦罗蒂.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2a99223f-1ca8-4a2f-9e84-95a8ad309474\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b3b53774-aa1a-4d5d-b335-3c51181ecd21\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-04-%E5%85%B3%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%A5%B3%E5%84%BF/": {
+      "title": "关不住的女儿",
+      "source": "热映",
+      "date": "2026-06-04",
+      "file": "2026-06-04-关不住的女儿.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cdea68c6-5071-419e-953e-f89fea00c3f9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-04T04:17:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"aa84cb8d-e853-47d1-aa60-b871ffa1ddd4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-04T04:17:19Z"
     }
   },
-  "updated_at": "2026-06-03T11:03:38Z"
+  "updated_at": "2026-06-04T04:17:28Z"
 }
