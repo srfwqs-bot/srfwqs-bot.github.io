@@ -5703,7 +5703,99 @@
         }
       },
       "created_at": "2026-06-04T04:17:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E6%B3%95%E5%A4%96%E4%B9%8B%E5%BE%92/": {
+      "title": "法外之徒",
+      "source": "热映",
+      "date": "2026-06-05",
+      "file": "2026-06-05-法外之徒.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6856ab24-e9f4-4427-b31f-b2392568d363\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d26102fa-aef6-41e3-91a4-c4dc40a9c808\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T04:01:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E5%BF%83%E7%8A%AC%E7%9B%B8%E9%9A%8F/": {
+      "title": "心犬相随",
+      "source": "即将上映",
+      "date": "2026-06-05",
+      "file": "2026-06-05-心犬相随.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"50f58cf4-8e81-46e8-b64f-737302c53a09\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8aeeed68-e5ec-4c4b-b7a0-1c78da04b988\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T04:01:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E5%BC%80%E4%B8%AA%E7%8E%A9%E7%AC%91/": {
+      "title": "开个玩笑",
+      "source": "即将上映",
+      "date": "2026-06-05",
+      "file": "2026-06-05-开个玩笑.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2b8197bf-b020-48d4-892d-b6c8dd3ff1ef\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4cb662e7-727b-4549-b537-85b1b2af6366\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T04:01:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E5%8D%88%E5%A4%9C%E8%BD%A6%E5%BA%93/": {
+      "title": "午夜车库",
+      "source": "热映",
+      "date": "2026-06-05",
+      "file": "2026-06-05-午夜车库.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:41Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5c68a213-e90b-40e7-afc4-dbcb216945ad\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T04:01:42Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"69022090-3bfa-4474-843a-65fd85f082e5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T04:01:35Z"
     }
   },
-  "updated_at": "2026-06-04T04:17:28Z"
+  "updated_at": "2026-06-05T04:01:42Z"
 }
