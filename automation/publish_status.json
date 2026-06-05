@@ -5795,7 +5795,145 @@
         }
       },
       "created_at": "2026-06-05T04:01:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E7%A0%B4%E7%9F%B3%E4%B9%8B%E5%88%83/": {
+      "title": "破石之刃",
+      "source": "高分推荐",
+      "date": "2026-06-05",
+      "file": "2026-06-05-破石之刃.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:55:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"88913ebb-7d9c-467c-a277-c351b3222ee5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:55:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6bff7bec-7053-4012-b299-0ba1be08ac8b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T09:55:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E6%B0%B4%E4%B8%8E%E8%8C%B4%E9%A6%99/": {
+      "title": "水与茴香",
+      "source": "高分推荐",
+      "date": "2026-06-05",
+      "file": "2026-06-05-水与茴香.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:55:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"eb95711d-3a3a-4398-96f4-8c9d4506a63b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:55:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5d9a90b3-ea7c-454c-89b5-a65d1b1d7e34\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T09:55:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E6%98%8E%E4%BA%AE%E7%9A%84%E6%97%A5%E5%AD%90/": {
+      "title": "明亮的日子",
+      "source": "高分推荐",
+      "date": "2026-06-05",
+      "file": "2026-06-05-明亮的日子.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:55:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bfe94719-7f28-4000-a6e7-28398f5a2d30\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:55:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"85d8ede5-3053-4cfb-88a1-2386bc770bee\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T09:55:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E6%89%A7%E7%AC%94/": {
+      "title": "执笔",
+      "source": "高分推荐",
+      "date": "2026-06-05",
+      "file": "2026-06-05-执笔.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:56:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4e04b875-3698-4eed-9828-0cb59e5409bb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:56:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fde2d971-18e6-41e5-9b36-e5a403e25125\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T09:55:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E6%88%91%E4%BD%8F%E5%9C%A8%E5%87%A1%E5%B0%94%E8%B5%9B%E7%9A%84%E6%97%A5%E5%AD%90/": {
+      "title": "我住在凡尔赛的日子",
+      "source": "高分推荐",
+      "date": "2026-06-05",
+      "file": "2026-06-05-我住在凡尔赛的日子.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:56:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"47ed05af-9d00-458d-8b5c-366cd894c002\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:56:02Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8718f37a-08fc-4a3a-9bb1-292be4d00204\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T09:55:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-05-%E5%85%B3%E7%B4%A2%E5%B2%AD/": {
+      "title": "关索岭",
+      "source": "即将上映",
+      "date": "2026-06-05",
+      "file": "2026-06-05-关索岭.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:56:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d25429d2-4900-4756-a619-a5f48d53e93f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-05T09:56:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"07fb7b6c-0aa4-472d-9262-263b7f994cb9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-05T09:55:55Z"
     }
   },
-  "updated_at": "2026-06-05T04:01:42Z"
+  "updated_at": "2026-06-05T09:56:03Z"
 }
