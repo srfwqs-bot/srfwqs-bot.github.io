@@ -5979,7 +5979,30 @@
         }
       },
       "created_at": "2026-06-07T13:58:28Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-08-%E5%B0%8F%E6%B0%94%E9%AC%BC/": {
+      "title": "小气鬼",
+      "source": "即将上映",
+      "date": "2026-06-08",
+      "file": "2026-06-08-小气鬼.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-08T04:14:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b6f18dca-8dae-498b-9cfc-c06875f6363e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-08T04:14:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c7ef3e8d-2059-459b-bada-8570f6379fdf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-08T04:14:34Z"
     }
   },
-  "updated_at": "2026-06-07T13:58:30Z"
+  "updated_at": "2026-06-08T04:14:36Z"
 }
