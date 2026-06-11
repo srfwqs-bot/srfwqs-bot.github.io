@@ -6071,7 +6071,30 @@
         }
       },
       "created_at": "2026-06-11T04:10:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-11-%E9%A9%AC%E4%B8%8A%E5%91%8A%E7%99%BD/": {
+      "title": "马上告白",
+      "source": "热映",
+      "date": "2026-06-11",
+      "file": "2026-06-11-马上告白.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-11T20:24:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7038d728-fd62-4006-aaa0-8e4d81b5a5ec\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-11T20:24:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0b34868f-52be-416e-b12a-d51db51e3b37\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-11T20:24:56Z"
     }
   },
-  "updated_at": "2026-06-11T04:10:59Z"
+  "updated_at": "2026-06-11T20:24:58Z"
 }
