@@ -6186,7 +6186,30 @@
         }
       },
       "created_at": "2026-06-17T04:20:08Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-17-%E7%BC%89%E9%AD%82/": {
+      "title": "缉魂",
+      "source": "热映",
+      "date": "2026-06-17",
+      "file": "2026-06-17-缉魂.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-17T15:37:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3cc4c103-3b25-4d70-bd96-95fa2d53519b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-17T15:37:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f0342b47-f4f1-4f74-8ac4-05dd4a970be1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-17T15:37:56Z"
     }
   },
-  "updated_at": "2026-06-17T04:20:10Z"
+  "updated_at": "2026-06-17T15:37:57Z"
 }
