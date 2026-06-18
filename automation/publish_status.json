@@ -6209,7 +6209,76 @@
         }
       },
       "created_at": "2026-06-17T15:37:56Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-18-%E9%AD%94%E6%96%B9%E5%B0%8F%E5%A7%90/": {
+      "title": "魔方小姐",
+      "source": "即将上映",
+      "date": "2026-06-18",
+      "file": "2026-06-18-魔方小姐.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-18T20:28:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"695d0542-bf1e-495a-806e-60c4deaff240\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-18T20:28:09Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f75c37c6-5f8e-4930-8850-d5e4819f38f3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-18T20:28:07Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-18-%E6%B5%B7%E6%B4%8B%E5%A5%87%E7%BC%98-%E5%90%AF%E8%88%AA/": {
+      "title": "海洋奇缘：启航",
+      "source": "即将上映",
+      "date": "2026-06-18",
+      "file": "2026-06-18-海洋奇缘-启航.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-18T20:28:09Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a3e17946-a1e0-4eb2-b846-2c200bcf83d0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-18T20:28:10Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"35791c46-533d-4d7d-8e88-d7f4093cda64\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-18T20:28:07Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-18-%E6%9E%97%E5%AE%B6%E5%AE%8537%E5%8F%B7/": {
+      "title": "林家宅37号",
+      "source": "即将上映",
+      "date": "2026-06-18",
+      "file": "2026-06-18-林家宅37号.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-18T20:28:11Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8f02b25e-7f6a-4695-b8e4-07d4565ecd6e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-18T20:28:12Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b1f62255-5931-4d46-b809-d82daaa768fc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-18T20:28:07Z"
     }
   },
-  "updated_at": "2026-06-17T15:37:57Z"
+  "updated_at": "2026-06-18T20:28:12Z"
 }
