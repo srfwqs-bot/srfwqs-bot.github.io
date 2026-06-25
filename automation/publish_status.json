@@ -6439,7 +6439,30 @@
         }
       },
       "created_at": "2026-06-24T14:36:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-25-%E6%88%91%E4%BB%AC%E7%9A%84%E5%90%8D%E5%AD%97/": {
+      "title": "我们的名字",
+      "source": "即将上映",
+      "date": "2026-06-25",
+      "file": "2026-06-25-我们的名字.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-25T09:25:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9176b0d4-2446-464a-a657-d1bd5773c4fd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-25T09:25:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2f678fe5-2837-4b5b-8736-f2e127af507c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-25T09:25:42Z"
     }
   },
-  "updated_at": "2026-06-24T14:36:15Z"
+  "updated_at": "2026-06-25T09:25:43Z"
 }
