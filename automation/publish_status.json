@@ -6508,7 +6508,30 @@
         }
       },
       "created_at": "2026-06-25T20:03:43Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-26-%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98/": {
+      "title": "澎湖海战",
+      "source": "即将上映",
+      "date": "2026-06-26",
+      "file": "2026-06-26-澎湖海战.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-26T03:56:10Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"facf53f6-c522-4f6c-88e0-9959a96be64b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-26T03:56:11Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2ed75705-4bf6-499d-98c7-fea7f315f156\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-26T03:56:09Z"
     }
   },
-  "updated_at": "2026-06-25T20:03:47Z"
+  "updated_at": "2026-06-26T03:56:11Z"
 }
