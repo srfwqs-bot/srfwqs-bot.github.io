@@ -6784,7 +6784,30 @@
         }
       },
       "created_at": "2026-06-29T20:00:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-06-30-%E7%97%B4%E8%BF%B7/": {
+      "title": "痴迷",
+      "source": "即将上映",
+      "date": "2026-06-30",
+      "file": "2026-06-30-痴迷.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-30T03:52:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b7dd82b6-2007-4536-ae2f-e1abd81664dd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-06-30T03:52:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e249ff1b-992a-4430-b33d-b39c4952d957\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-06-30T03:52:48Z"
     }
   },
-  "updated_at": "2026-06-29T20:01:01Z"
+  "updated_at": "2026-06-30T03:52:49Z"
 }
