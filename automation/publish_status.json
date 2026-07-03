@@ -7014,7 +7014,30 @@
         }
       },
       "created_at": "2026-07-03T14:10:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-03-%E5%85%A8%E5%9F%8E%E8%BF%BD%E7%BC%89/": {
+      "title": "全城追缉",
+      "source": "即将上映",
+      "date": "2026-07-03",
+      "file": "2026-07-03-全城追缉.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T19:25:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c29f53c2-601f-45e5-8722-2f2bf8fe61f9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T19:25:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9af032e6-1980-4475-a477-670a3bd02ec1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-03T19:25:38Z"
     }
   },
-  "updated_at": "2026-07-03T14:10:38Z"
+  "updated_at": "2026-07-03T19:25:40Z"
 }
