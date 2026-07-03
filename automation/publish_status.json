@@ -6899,7 +6899,76 @@
         }
       },
       "created_at": "2026-07-02T09:16:06Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-03-%E7%9C%9F%E7%88%B1%E7%95%99%E5%A3%B0/": {
+      "title": "真爱留声",
+      "source": "高分推荐",
+      "date": "2026-07-03",
+      "file": "2026-07-03-真爱留声.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T09:21:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ed10fd98-56a5-41ed-9c24-01a66042ffed\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T09:21:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cf80af53-670b-419b-b8e9-f4bfd7bf4c85\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-03T09:21:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-03-%E5%AF%BB%E6%89%BE%E8%89%BE%E7%B1%B3%E4%B8%BD/": {
+      "title": "寻找艾米丽",
+      "source": "高分推荐",
+      "date": "2026-07-03",
+      "file": "2026-07-03-寻找艾米丽.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T09:21:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1ee19ab7-dcae-433b-a851-5ae712646a45\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T09:21:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ceb18b1f-c3e7-4bdf-9cfa-b5a885cb56d8\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-03T09:21:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-03-%E5%A5%B3%E5%AD%A9%E4%B8%8D%E5%B9%B3%E5%87%A1/": {
+      "title": "女孩不平凡",
+      "source": "高分推荐",
+      "date": "2026-07-03",
+      "file": "2026-07-03-女孩不平凡.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T09:21:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7d39566e-fe44-45c9-afd0-e37667a770e6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T09:21:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7bcd8424-0309-4432-b15d-a8a120235d36\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-03T09:21:23Z"
     }
   },
-  "updated_at": "2026-07-02T09:16:08Z"
+  "updated_at": "2026-07-03T09:21:27Z"
 }
