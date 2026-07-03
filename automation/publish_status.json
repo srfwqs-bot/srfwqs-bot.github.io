@@ -6968,7 +6968,53 @@
         }
       },
       "created_at": "2026-07-03T09:21:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-03-%E9%A3%8E%E5%A3%B0/": {
+      "title": "风声",
+      "source": "热映",
+      "date": "2026-07-03",
+      "file": "2026-07-03-风声.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T14:10:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dbb5c6f9-f136-4177-9695-fba49b514145\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T14:10:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f97be04b-34ae-4f11-a254-6b98f99649d0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-03T14:10:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-03-%E7%99%BD%E8%9B%87-%E7%BC%98%E8%B5%B7/": {
+      "title": "白蛇：缘起",
+      "source": "热映",
+      "date": "2026-07-03",
+      "file": "2026-07-03-白蛇-缘起.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T14:10:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"169b6ba3-4017-43f5-ae24-1ad1090706cb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-03T14:10:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7559e129-753a-4b69-afe7-2e282af90cdd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-03T14:10:35Z"
     }
   },
-  "updated_at": "2026-07-03T09:21:27Z"
+  "updated_at": "2026-07-03T14:10:38Z"
 }
