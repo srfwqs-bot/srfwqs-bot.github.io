@@ -7037,7 +7037,53 @@
         }
       },
       "created_at": "2026-07-03T19:25:38Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-05-%E7%9B%AE%E4%B8%AD%E6%97%A0%E4%BA%BA2/": {
+      "title": "目中无人2",
+      "source": "热映",
+      "date": "2026-07-05",
+      "file": "2026-07-05-目中无人2.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-05T13:43:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b193217d-d502-4677-8036-7aa920975f58\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-05T13:43:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"12148de0-148b-4f9c-86bb-c864b5bf0ae1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-05T13:43:55Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-05-%E6%96%B0%E7%A5%9E%E6%A6%9C-%E5%93%AA%E5%90%92%E9%87%8D%E7%94%9F/": {
+      "title": "新神榜：哪吒重生",
+      "source": "热映",
+      "date": "2026-07-05",
+      "file": "2026-07-05-新神榜-哪吒重生.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-05T13:43:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"227f9dbe-4229-4dba-8753-d6a81ef22b68\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-05T13:43:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e3f50816-91bb-4997-bc3c-b7634a39cc7e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-05T13:43:55Z"
     }
   },
-  "updated_at": "2026-07-03T19:25:40Z"
+  "updated_at": "2026-07-05T13:43:58Z"
 }
