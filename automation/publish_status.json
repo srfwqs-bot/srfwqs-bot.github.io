@@ -7198,7 +7198,53 @@
         }
       },
       "created_at": "2026-07-10T09:38:56Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-10-%E6%89%8B%E6%8D%A7%E7%B9%81%E6%98%9F/": {
+      "title": "手捧繁星",
+      "source": "即将上映",
+      "date": "2026-07-10",
+      "file": "2026-07-10-手捧繁星.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-10T19:35:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"54d83c12-b723-48db-999c-4627873ee2db\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-10T19:36:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0dcb6db3-fcdc-41e6-98dc-0d15cf545583\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-10T19:35:58Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-10-%E5%AF%86%E6%A1%A3/": {
+      "title": "密档",
+      "source": "即将上映",
+      "date": "2026-07-10",
+      "file": "2026-07-10-密档.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-10T19:36:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bd0fa9f0-6c9f-4622-905e-476bf1198821\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-10T19:36:02Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9a86f470-1e7e-4c8c-ab41-7a21d0f8df58\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-10T19:35:58Z"
     }
   },
-  "updated_at": "2026-07-10T09:39:04Z"
+  "updated_at": "2026-07-10T19:36:02Z"
 }
