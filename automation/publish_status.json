@@ -7244,7 +7244,30 @@
         }
       },
       "created_at": "2026-07-10T19:35:58Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-15-%E8%B0%9C%E5%B2%9B/": {
+      "title": "谜岛",
+      "source": "热映",
+      "date": "2026-07-15",
+      "file": "2026-07-15-谜岛.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-15T02:37:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"009b3535-22cc-40ed-8522-7a68664c9bb6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-15T02:37:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f97d47eb-85cd-465f-80ed-7bf58034f5e6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-15T02:37:31Z"
     }
   },
-  "updated_at": "2026-07-10T19:36:02Z"
+  "updated_at": "2026-07-15T02:37:33Z"
 }
