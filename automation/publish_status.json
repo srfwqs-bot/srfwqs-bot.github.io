@@ -7520,7 +7520,122 @@
         }
       },
       "created_at": "2026-07-23T02:54:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-23-%E8%93%9D%E9%B2%B8-%E5%BA%9E%E7%84%B6%E5%A4%A7%E7%89%A9%E5%BD%92%E6%9D%A5/": {
+      "title": "蓝鲸：庞然大物归来",
+      "source": "热映",
+      "date": "2026-07-23",
+      "file": "2026-07-23-蓝鲸-庞然大物归来.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"be620751-96c1-48de-af80-68603c702362\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2fd6b3cf-d004-411f-b09d-f99f5f6313dc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-23T19:21:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-23-%E7%BA%A2%E5%AD%A9%E5%84%BF%E7%81%AB%E7%84%B0%E5%B1%B1%E4%B9%8B%E7%8E%8B/": {
+      "title": "红孩儿火焰山之王",
+      "source": "热映",
+      "date": "2026-07-23",
+      "file": "2026-07-23-红孩儿火焰山之王.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"56ac4f0d-13dd-4165-8388-f09639adf7eb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f20a0cdf-6ef4-4e2f-85d5-7b2bd23a18da\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-23T19:21:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-23-%E6%BF%80%E6%83%85%E5%A5%8B%E6%96%97%E7%9A%84%E6%88%91%E4%BB%AC/": {
+      "title": "激情奋斗的我们",
+      "source": "热映",
+      "date": "2026-07-23",
+      "file": "2026-07-23-激情奋斗的我们.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"68761b88-2ed1-4529-8990-9103f5186b1c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2e5173e5-28e0-4bb2-aee5-89ce47468ed1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-23T19:21:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-23-%E6%82%9F%E7%A9%BA%E5%A4%A7%E5%9C%A3/": {
+      "title": "悟空大圣",
+      "source": "热映",
+      "date": "2026-07-23",
+      "file": "2026-07-23-悟空大圣.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0addfe5d-d38b-4671-b0b1-0925025d7f6b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"32a9f3fe-8e84-4659-a168-5f6c7ef49a47\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-23T19:21:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-07-23-%E5%A1%9E%E4%BC%A6%E7%9B%96%E6%8F%90%E5%A4%A7%E8%8D%89%E5%8E%9F/": {
+      "title": "塞伦盖提大草原",
+      "source": "热映",
+      "date": "2026-07-23",
+      "file": "2026-07-23-塞伦盖提大草原.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f7f91e34-e261-435e-a58a-aa8c8cddf0c7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-07-23T19:21:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9b8e4a28-fdd2-4038-9117-d09290e29c1b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-07-23T19:21:19Z"
     }
   },
-  "updated_at": "2026-07-23T02:54:12Z"
+  "updated_at": "2026-07-23T19:21:27Z"
 }
