@@ -8624,7 +8624,30 @@
         }
       },
       "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86/": {
+      "title": "欢迎来龙餐馆",
+      "source": "即将上映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-欢迎来龙餐馆.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T14:12:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0082eeac-0607-4fb0-8546-fde26f72ff70\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T14:12:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5039e43b-6c66-48ba-bf0f-8dfacbcaebc1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T14:12:13Z"
     }
   },
-  "updated_at": "2026-08-05T08:40:08Z"
+  "updated_at": "2026-08-05T14:12:15Z"
 }
