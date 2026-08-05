@@ -8417,7 +8417,214 @@
         }
       },
       "created_at": "2026-08-03T09:52:06Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E9%AA%86%E9%A9%BC%E7%A5%A5%E5%AD%90/": {
+      "title": "骆驼祥子",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-骆驼祥子.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"165a8bc8-c4c0-4455-a6c5-b3326a96089c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9fc27113-7357-4192-a4bc-3c4978524afa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E9%9D%92%E6%98%A5%E4%B9%8B%E6%AD%8C/": {
+      "title": "青春之歌",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-青春之歌.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"17ae6b12-337c-4a3d-91fa-d7fecb299a9d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"41d6ef51-8f8d-43e5-91d8-14abecf1d9b6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E8%B5%A2%E5%AE%B6/": {
+      "title": "赢家",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-赢家.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dfa6bca7-8166-4e7f-9876-c7da9f9e985a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"568de641-5426-4a8a-9d1d-0250d79f964e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E8%9D%B6%E5%8F%98/": {
+      "title": "蝶变",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-蝶变.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9ca2783f-9e70-41ab-8380-e9d7b253f7a4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6f64fd7c-aee0-4138-9828-145d091c2462\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E7%BA%A2%E9%AB%98%E7%B2%B1/": {
+      "title": "红高粱",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-红高粱.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:39:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5f459f26-f004-416a-8cbd-2d0373d384aa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f9afd231-05a0-461d-964f-1504c753da1a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E7%89%9B%E6%9D%A5/": {
+      "title": "牛来",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-牛来.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"05039b68-f2cd-41c3-a5de-7c27e284dd8c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:02Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1bf6bf98-d7b5-4139-84a4-da1f5e7409a5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E6%B9%98%E5%A5%B3%E8%90%A7%E8%90%A7/": {
+      "title": "湘女萧萧",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-湘女萧萧.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c36cac34-ab42-443f-9d02-69f04db0e820\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6843cc38-e201-4794-8687-d3cd87cf3bbb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E5%8D%97%E5%9B%BD%E5%86%8D%E8%A7%81-%E5%8D%97%E5%9B%BD/": {
+      "title": "南国再见，南国",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-南国再见-南国.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"69a12357-09ec-4f20-8bb2-06bd9c884b9b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"86463b73-aa77-43e0-b2a3-b1c9e8892c28\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-05-%E5%85%AB%E4%B8%A4%E9%87%91/": {
+      "title": "八两金",
+      "source": "热映",
+      "date": "2026-08-05",
+      "file": "2026-08-05-八两金.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b7159d48-37e6-41e7-bec6-c2b7b2ff0ea4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-05T08:40:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"128efd54-ed77-4ffa-b864-24d1ef5866e1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-05T08:39:51Z"
     }
   },
-  "updated_at": "2026-08-03T09:52:38Z"
+  "updated_at": "2026-08-05T08:40:08Z"
 }
