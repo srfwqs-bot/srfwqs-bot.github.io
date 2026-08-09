@@ -8831,7 +8831,30 @@
         }
       },
       "created_at": "2026-08-07T18:59:46Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-09-%E6%9C%80%E5%B0%8F%E7%9A%84%E5%A4%A7%E7%89%87/": {
+      "title": "最小的大片",
+      "source": "即将上映",
+      "date": "2026-08-09",
+      "file": "2026-08-09-最小的大片.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-09T01:51:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3933038a-b397-4c7d-99f8-a53c097f2b5b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-09T01:51:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"08a6eed0-ea04-467a-b37b-d84c92dde98d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-09T01:51:48Z"
     }
   },
-  "updated_at": "2026-08-07T18:59:48Z"
+  "updated_at": "2026-08-09T01:51:49Z"
 }
