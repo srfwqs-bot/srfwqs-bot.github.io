@@ -8854,7 +8854,30 @@
         }
       },
       "created_at": "2026-08-09T01:51:48Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-10-%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4-%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98/": {
+      "title": "复仇者联盟4：终局之战",
+      "source": "即将上映",
+      "date": "2026-08-10",
+      "file": "2026-08-10-复仇者联盟4-终局之战.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-10T07:45:04Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8ad07db8-0332-45d4-b080-e8512cfa588d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-10T07:45:04Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"34f944d9-08d4-48b5-aa24-bdc29df28e68\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-10T07:45:02Z"
     }
   },
-  "updated_at": "2026-08-09T01:51:49Z"
+  "updated_at": "2026-08-10T07:45:04Z"
 }
