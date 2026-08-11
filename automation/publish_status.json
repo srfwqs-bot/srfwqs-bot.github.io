@@ -8877,7 +8877,53 @@
         }
       },
       "created_at": "2026-08-10T07:45:02Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-11-%E6%B5%AA%E8%8A%B1%E5%84%BF/": {
+      "title": "浪花儿",
+      "source": "即将上映",
+      "date": "2026-08-11",
+      "file": "2026-08-11-浪花儿.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-11T13:09:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5cf5e9fe-7c2e-4937-a0c5-de443581fa29\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-11T13:09:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5a60b26a-b4cd-4fb4-ac46-046ad7da2dd7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-11T13:09:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-11-%E6%88%91%E7%9A%84%E8%BA%AB%E5%90%8E%E6%98%AF%E7%A5%96%E5%9B%BD/": {
+      "title": "我的身后是祖国",
+      "source": "热映",
+      "date": "2026-08-11",
+      "file": "2026-08-11-我的身后是祖国.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-11T13:09:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2c05f76d-5189-4d28-a233-d9739d68afdb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-11T13:09:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2259efdb-c22e-470a-b00d-0c0fa042cf67\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-11T13:09:04Z"
     }
   },
-  "updated_at": "2026-08-10T07:45:04Z"
+  "updated_at": "2026-08-11T13:09:07Z"
 }
