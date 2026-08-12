@@ -8946,7 +8946,30 @@
         }
       },
       "created_at": "2026-08-12T13:12:43Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-12-%E5%96%9C%E6%AC%A2%E9%AB%98%E5%85%B4%E7%88%B1/": {
+      "title": "喜欢高兴爱",
+      "source": "即将上映",
+      "date": "2026-08-12",
+      "file": "2026-08-12-喜欢高兴爱.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-12T19:03:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4c856e38-ea2e-4d42-824c-19db362ab7fc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-12T19:03:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c5883cdd-1e0e-43c8-aa09-5430ad0e4ece\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-12T19:03:06Z"
     }
   },
-  "updated_at": "2026-08-12T13:12:44Z"
+  "updated_at": "2026-08-12T19:03:08Z"
 }
