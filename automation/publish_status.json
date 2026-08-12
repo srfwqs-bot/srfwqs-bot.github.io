@@ -8923,7 +8923,30 @@
         }
       },
       "created_at": "2026-08-11T13:09:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-12-%E7%87%83%E7%83%A7%E5%90%A7-%E7%88%B8%E7%88%B8/": {
+      "title": "燃烧吧！爸爸",
+      "source": "即将上映",
+      "date": "2026-08-12",
+      "file": "2026-08-12-燃烧吧-爸爸.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-12T13:12:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b04c5185-bf8a-4684-9868-baab356bb40c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-12T13:12:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"32b6f309-f92f-4ed0-8250-36fafafe8a20\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-12T13:12:43Z"
     }
   },
-  "updated_at": "2026-08-11T13:09:07Z"
+  "updated_at": "2026-08-12T13:12:44Z"
 }
