@@ -9107,7 +9107,191 @@
         }
       },
       "created_at": "2026-08-14T13:10:07Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E7%BA%A2%E5%9C%88/": {
+      "title": "红圈",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-红圈.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a43d69c8-bd00-404d-bd94-176fbfa5eb29\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d67653c5-25d1-49e5-a3d7-c0d1522eb7a7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E7%AB%A5%E6%A2%A6%E5%A4%B1%E9%AD%82%E5%A4%9C/": {
+      "title": "童梦失魂夜",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-童梦失魂夜.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"12e0f923-d9b0-4ff0-b469-6146eff5a35c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a586abfd-881d-441c-88b5-edfd4757934d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E7%91%9F%E5%A0%A1%E7%9A%84%E9%9B%A8%E4%BC%9E/": {
+      "title": "瑟堡的雨伞",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-瑟堡的雨伞.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a281abe9-0d3f-4151-9ff3-70c6fa5b01f6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"aff41a5f-5e94-4479-88f3-2d369979975c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E6%9F%B3%E5%AA%9A%E8%8A%B1%E5%A8%87/": {
+      "title": "柳媚花娇",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-柳媚花娇.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dc724e35-2f7b-4c31-9d92-3e6a0afcc4bc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"04f520af-347a-46f8-811b-a22815f7f5fc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E6%95%B0%E5%88%B0%E4%B8%89/": {
+      "title": "数到三",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-数到三.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e8a0c5c7-69ee-43f0-aa34-1eb6ada6c53d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5f49da40-7b9f-4b20-b56f-2e3f928cc8e2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E5%A4%A9%E4%BD%BF%E7%88%B1%E7%BE%8E%E4%B8%BD/": {
+      "title": "天使爱美丽",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-天使爱美丽.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3b69551b-a8fc-46a7-93b7-3355d3e54442\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b8752b52-a9a6-4a79-b94c-313aa6843261\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E5%A4%A7%E7%A7%A6%E6%96%87%E5%85%AC/": {
+      "title": "大秦文公",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-大秦文公.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"de66c2d8-4848-4b03-b6db-2a696990413f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"52aa3194-e99e-40b0-b6c7-fc4a819d449c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-17-%E5%85%AB%E5%8D%A6%E6%A5%BC/": {
+      "title": "八卦楼",
+      "source": "热映",
+      "date": "2026-08-17",
+      "file": "2026-08-17-八卦楼.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0575c53b-f647-4616-9107-2a76906fe4f0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-17T06:59:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d9340047-25c9-4cdc-afc8-a75d841d5a78\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-17T06:59:13Z"
     }
   },
-  "updated_at": "2026-08-14T13:10:16Z"
+  "updated_at": "2026-08-17T06:59:24Z"
 }
