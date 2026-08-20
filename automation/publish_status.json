@@ -9314,7 +9314,53 @@
         }
       },
       "created_at": "2026-08-20T06:48:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-20-%E5%B9%B3%E5%AE%89%E7%9A%84%E5%A5%B3%E5%84%BF/": {
+      "title": "平安的女儿",
+      "source": "热映",
+      "date": "2026-08-20",
+      "file": "2026-08-20-平安的女儿.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-20T12:52:42Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"db292fe3-b331-4004-9d15-6c823fe1f95d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-20T12:52:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f4527660-7cd9-430e-b08e-ada02440e7e3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-20T12:52:41Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-20-%E5%A5%94%E8%B7%91%E7%9A%84%E7%9F%B3%E5%A4%B4/": {
+      "title": "奔跑的石头",
+      "source": "热映",
+      "date": "2026-08-20",
+      "file": "2026-08-20-奔跑的石头.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-20T12:52:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"81034d40-9089-47de-8b85-28a271d1a4a6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-20T12:52:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5f64a01c-e236-4be0-b0c4-b2b1a48809c6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-20T12:52:41Z"
     }
   },
-  "updated_at": "2026-08-20T06:48:59Z"
+  "updated_at": "2026-08-20T12:52:44Z"
 }
