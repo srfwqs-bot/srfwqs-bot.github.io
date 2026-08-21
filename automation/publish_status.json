@@ -9360,7 +9360,53 @@
         }
       },
       "created_at": "2026-08-20T12:52:41Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-21-%E8%8D%A3%E5%85%89%E4%B8%8E%E6%9A%97%E5%BD%B1/": {
+      "title": "荣光与暗影",
+      "source": "高分推荐",
+      "date": "2026-08-21",
+      "file": "2026-08-21-荣光与暗影.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-21T12:52:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3fefb9a6-c0c1-4cce-94fd-5c75860a1e2d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-21T12:52:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bf62a983-8c00-4d55-85bb-cb1ab8fe681e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-21T12:52:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-21-%E5%A5%B6%E5%A5%B6%E8%BA%AB%E5%90%8E%E4%BA%8B/": {
+      "title": "奶奶身后事",
+      "source": "高分推荐",
+      "date": "2026-08-21",
+      "file": "2026-08-21-奶奶身后事.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-21T12:52:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"854d51a5-e45d-466d-9a4a-ee1c6a8719e2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-21T12:52:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"72116ee5-be5f-4310-ae21-f3d3f07b46c5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-21T12:52:19Z"
     }
   },
-  "updated_at": "2026-08-20T12:52:44Z"
+  "updated_at": "2026-08-21T12:52:23Z"
 }
