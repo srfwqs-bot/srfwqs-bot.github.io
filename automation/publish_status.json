@@ -9406,7 +9406,53 @@
         }
       },
       "created_at": "2026-08-21T12:52:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-22-%E7%88%B8%E7%88%B8%E5%92%AA%E5%91%80/": {
+      "title": "爸爸咪呀",
+      "source": "热映",
+      "date": "2026-08-22",
+      "file": "2026-08-22-爸爸咪呀.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-22T18:32:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a60beba7-d54b-494b-9d44-46639d93aedf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-22T18:32:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a4ef1dbf-d5a8-438d-9243-196ffc6ad6cf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-22T18:32:47Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-22-%E6%98%8F%E5%A4%B4%E8%BD%AC%E5%90%91/": {
+      "title": "昏头转向",
+      "source": "热映",
+      "date": "2026-08-22",
+      "file": "2026-08-22-昏头转向.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-22T18:32:50Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"500e4225-d459-48b0-81f9-33450cbdf6b0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-22T18:32:51Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cb7370f8-d1af-4882-97af-2b8a92146a51\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-22T18:32:47Z"
     }
   },
-  "updated_at": "2026-08-21T12:52:23Z"
+  "updated_at": "2026-08-22T18:32:51Z"
 }
