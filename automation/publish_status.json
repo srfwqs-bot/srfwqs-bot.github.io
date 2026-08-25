@@ -9452,7 +9452,76 @@
         }
       },
       "created_at": "2026-08-22T18:32:47Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-25-%E9%93%81%E8%BE%BE%E5%A6%AE%E7%9A%84%E5%8F%B7/": {
+      "title": "铁达妮的号",
+      "source": "即将上映",
+      "date": "2026-08-25",
+      "file": "2026-08-25-铁达妮的号.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T06:51:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cf1456d6-36b1-41a7-8415-eb1b621708dd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T06:51:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"79baf65b-3129-4137-b2e3-30d34d377db3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-25T06:51:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-25-%E7%9B%AE%E4%B8%8D%E8%BD%AC%E7%9D%9B/": {
+      "title": "目不转睛",
+      "source": "即将上映",
+      "date": "2026-08-25",
+      "file": "2026-08-25-目不转睛.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T06:51:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2f3c1a5a-36c2-467b-9aa8-5aae1a914a3f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T06:51:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"42fa22d7-6ab3-41d2-bdf0-63ba42aa5eaf\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-25T06:51:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-25-%E6%A2%81%E7%A5%9D-%E5%8C%96%E8%9D%B6/": {
+      "title": "梁祝·化蝶",
+      "source": "即将上映",
+      "date": "2026-08-25",
+      "file": "2026-08-25-梁祝-化蝶.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T06:51:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1912ee44-db0c-4664-a968-050a2bbc2c4a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T06:51:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6bb66953-df54-4d6a-8453-c0264e830745\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-25T06:51:23Z"
     }
   },
-  "updated_at": "2026-08-22T18:32:51Z"
+  "updated_at": "2026-08-25T06:51:28Z"
 }
