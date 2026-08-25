@@ -9521,7 +9521,30 @@
         }
       },
       "created_at": "2026-08-25T06:51:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-25-%E6%9C%AB%E4%B8%96%E8%A1%8C%E8%80%85/": {
+      "title": "末世行者",
+      "source": "即将上映",
+      "date": "2026-08-25",
+      "file": "2026-08-25-末世行者.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T12:50:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"729aa6af-7a7e-4a73-8759-980a45aec365\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-25T12:50:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7fd4b82c-b547-49d6-896c-feb4be33fd95\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-25T12:50:24Z"
     }
   },
-  "updated_at": "2026-08-25T06:51:28Z"
+  "updated_at": "2026-08-25T12:50:26Z"
 }
