@@ -9613,7 +9613,53 @@
         }
       },
       "created_at": "2026-08-26T19:48:58Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-27-%E6%AD%BB%E4%BA%A1%E7%A6%81%E5%8C%BA%E5%AE%9E%E5%BD%95/": {
+      "title": "死亡禁区实录",
+      "source": "即将上映",
+      "date": "2026-08-27",
+      "file": "2026-08-27-死亡禁区实录.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-27T08:08:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"121e81e1-8373-478c-913d-75b47068c8ba\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-27T08:08:08Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"3dcd9f2a-022b-4601-af28-cb3b6d9eef96\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-27T08:08:06Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-27-%E5%8F%A4%E6%9D%91%E8%BF%B7%E5%AE%85/": {
+      "title": "古村迷宅",
+      "source": "热映",
+      "date": "2026-08-27",
+      "file": "2026-08-27-古村迷宅.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-27T08:08:09Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"42fed5dd-867b-4991-a49f-88657220956f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-27T08:08:10Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"70d07b5a-6dd5-4f4f-b468-ac0853b4f514\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-27T08:08:06Z"
     }
   },
-  "updated_at": "2026-08-26T19:49:00Z"
+  "updated_at": "2026-08-27T08:08:10Z"
 }
