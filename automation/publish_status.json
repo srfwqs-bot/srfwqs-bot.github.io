@@ -9659,7 +9659,53 @@
         }
       },
       "created_at": "2026-08-27T08:08:06Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-28-%E5%A5%B3%E4%BB%86%E6%97%A5%E8%AE%B0/": {
+      "title": "女仆日记",
+      "source": "高分推荐",
+      "date": "2026-08-28",
+      "file": "2026-08-28-女仆日记.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-28T21:49:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"01e99d81-a927-46b9-94f1-713f090511fe\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-28T21:49:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e3482f2e-5b30-4e5f-a36a-a35a14f513c6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-28T21:49:37Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-08-28-%E4%BC%AA%E9%92%9E%E4%B9%8B%E7%8E%8B/": {
+      "title": "伪钞之王",
+      "source": "高分推荐",
+      "date": "2026-08-28",
+      "file": "2026-08-28-伪钞之王.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-28T21:49:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f3b5588c-b6b1-461c-8f85-67dc289d8bb8\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-08-28T21:49:41Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f4f10147-5aa2-43a8-8ac4-c5e13971f07d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-08-28T21:49:37Z"
     }
   },
-  "updated_at": "2026-08-27T08:08:10Z"
+  "updated_at": "2026-08-28T21:49:41Z"
 }
