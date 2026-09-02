@@ -9751,7 +9751,30 @@
         }
       },
       "created_at": "2026-09-01T11:18:08Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-02-%E6%AD%A3%E4%B9%89%E5%BF%85%E8%83%9C/": {
+      "title": "正义必胜",
+      "source": "即将上映",
+      "date": "2026-09-02",
+      "file": "2026-09-02-正义必胜.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-02T03:28:36Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8a32bd9c-05dd-48de-919c-69575318e5d9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-02T03:28:37Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f9733d8f-a65b-411d-b27b-4853b3afe3c9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-02T03:28:35Z"
     }
   },
-  "updated_at": "2026-09-01T11:18:12Z"
+  "updated_at": "2026-09-02T03:28:37Z"
 }
