@@ -9774,7 +9774,53 @@
         }
       },
       "created_at": "2026-09-02T03:28:35Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-03-%E9%87%8E%E5%85%BD%E4%B9%8B%E5%BF%83/": {
+      "title": "野兽之心",
+      "source": "即将上映",
+      "date": "2026-09-03",
+      "file": "2026-09-03-野兽之心.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-03T03:30:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6485489e-ad85-4b9f-9847-f8ee6342b21c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-03T03:30:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"88743352-c085-494a-8832-3fdafa85197c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-03T03:30:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-03-%E4%B8%80%E8%B7%AF%E8%B6%85%E5%B9%B3%E5%AE%89/": {
+      "title": "一路超平安",
+      "source": "即将上映",
+      "date": "2026-09-03",
+      "file": "2026-09-03-一路超平安.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-03T03:30:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"efa91913-71de-4d57-b0c4-c63102c94741\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-03T03:30:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e93115d6-e11b-4c9f-976d-c3e01d9a33ea\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-03T03:30:51Z"
     }
   },
-  "updated_at": "2026-09-02T03:28:37Z"
+  "updated_at": "2026-09-03T03:30:54Z"
 }
