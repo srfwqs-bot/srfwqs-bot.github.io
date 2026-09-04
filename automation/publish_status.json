@@ -9820,7 +9820,99 @@
         }
       },
       "created_at": "2026-09-03T03:30:51Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-04-%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E4%BB%AC%E7%9A%84%E5%88%9D%E6%81%8B/": {
+      "title": "那些年我们的初恋",
+      "source": "即将上映",
+      "date": "2026-09-04",
+      "file": "2026-09-04-那些年我们的初恋.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"97c675ef-3dc1-4498-a9a9-2c3f6ff565b3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"56bd9ae9-ba18-493c-8e8f-943d6f1e3945\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-04T10:52:14Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-04-%E7%BA%A2%E8%A1%A3%E6%96%B0%E5%A8%98/": {
+      "title": "红衣新娘",
+      "source": "即将上映",
+      "date": "2026-09-04",
+      "file": "2026-09-04-红衣新娘.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5a22a8ea-4a57-4b02-98cf-3b6b2eefee45\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"939632fe-6264-440f-9555-a440c1db4d3b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-04T10:52:14Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-04-%E6%AD%8C%E5%A3%B0%E7%BC%98%E4%BD%95%E6%85%A2%E5%8D%8A%E6%8B%8D/": {
+      "title": "歌声缘何慢半拍",
+      "source": "即将上映",
+      "date": "2026-09-04",
+      "file": "2026-09-04-歌声缘何慢半拍.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f3777c7c-fb58-4cab-b6bc-385eff60af40\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"61a70c92-99b5-4f5f-b8b1-f16c2a91811c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-04T10:52:14Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-04-%E6%98%8E%E6%9C%88%E7%85%A7%E4%BB%96%E4%B9%A1/": {
+      "title": "明月照他乡",
+      "source": "即将上映",
+      "date": "2026-09-04",
+      "file": "2026-09-04-明月照他乡.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"efd7c739-7eab-4a6c-b815-e85a1fd43ba4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-04T10:52:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"62478558-dd67-40f6-b8ee-c9d88c176f5c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-04T10:52:14Z"
     }
   },
-  "updated_at": "2026-09-03T03:30:54Z"
+  "updated_at": "2026-09-04T10:52:22Z"
 }
