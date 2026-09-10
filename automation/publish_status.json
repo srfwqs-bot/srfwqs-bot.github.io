@@ -9981,7 +9981,30 @@
         }
       },
       "created_at": "2026-09-09T10:55:28Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-10-%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87-%E5%AE%8C%E7%BE%8E%E5%81%87%E6%9C%9F/": {
+      "title": "小猪佩奇·完美假期",
+      "source": "即将上映",
+      "date": "2026-09-10",
+      "file": "2026-09-10-小猪佩奇-完美假期.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-10T10:53:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1f39025d-0dc7-4856-a0dd-f80eb3a29c15\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-10T10:53:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"036bb34c-4cc5-4e7f-9f3b-6af80fbbbdd2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-10T10:53:15Z"
     }
   },
-  "updated_at": "2026-09-09T10:55:30Z"
+  "updated_at": "2026-09-10T10:53:17Z"
 }
