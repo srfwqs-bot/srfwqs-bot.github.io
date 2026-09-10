@@ -10004,7 +10004,30 @@
         }
       },
       "created_at": "2026-09-10T10:53:15Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-10-%E6%88%91%E4%BB%AC%E5%A5%BD%E5%83%8F%E5%9C%A8%E5%93%AA%E8%A7%81%E8%BF%87/": {
+      "title": "我们好像在哪见过",
+      "source": "热映",
+      "date": "2026-09-10",
+      "file": "2026-09-10-我们好像在哪见过.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-10T20:33:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e81cadb2-4c37-462b-bb4d-c6538d0115aa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-10T20:33:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"733f0e64-cdf6-4c42-88b6-2699caa270ba\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-10T20:32:59Z"
     }
   },
-  "updated_at": "2026-09-10T10:53:17Z"
+  "updated_at": "2026-09-10T20:33:01Z"
 }
