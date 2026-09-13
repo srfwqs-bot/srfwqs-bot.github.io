@@ -10188,7 +10188,30 @@
         }
       },
       "created_at": "2026-09-11T16:06:21Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-13-%E8%80%81%E5%B8%88%E6%82%A8%E8%BE%9B%E8%8B%A6%E4%BA%86/": {
+      "title": "老师您辛苦了",
+      "source": "热映",
+      "date": "2026-09-13",
+      "file": "2026-09-13-老师您辛苦了.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-13T20:28:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"46af0ecc-f32a-4138-afc8-b81a03441274\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-13T20:28:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a25b4f70-c7bf-4458-a90f-c11cb37411f4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-13T20:28:20Z"
     }
   },
-  "updated_at": "2026-09-11T16:06:36Z"
+  "updated_at": "2026-09-13T20:28:22Z"
 }
