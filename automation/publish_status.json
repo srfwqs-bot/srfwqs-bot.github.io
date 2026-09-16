@@ -10234,7 +10234,99 @@
         }
       },
       "created_at": "2026-09-14T12:07:45Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-16-%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9/": {
+      "title": "神探之痕迹‎",
+      "source": "即将上映",
+      "date": "2026-09-16",
+      "file": "2026-09-16-神探之痕迹.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"38b7c9cd-c04a-4153-b512-63abb0db01bb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7d6675de-ea3e-4e7c-bfff-323005de9b1e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-16T21:00:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-16-%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/": {
+      "title": "生日快乐",
+      "source": "即将上映",
+      "date": "2026-09-16",
+      "file": "2026-09-16-生日快乐.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a4c21e29-8630-45fe-85d7-c2a5d9ac3d1c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"695ea65f-ea8b-4f9c-8ab7-78c89b005975\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-16T21:00:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-16-%E6%9C%80%E5%90%8E-%E4%B8%80%E6%A0%B9%E7%A8%BB%E8%8D%89%E6%89%98%E8%B5%B7%E4%BA%86%E4%B8%8B%E5%B7%B4/": {
+      "title": "最后，一根稻草托起了下巴",
+      "source": "即将上映",
+      "date": "2026-09-16",
+      "file": "2026-09-16-最后-一根稻草托起了下巴.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"87a6d0a9-95e1-484c-9878-f394c3d70cfa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5a1643e4-64f4-4a51-8591-dc8e13553afd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-16T21:00:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-16-%E4%B8%8A%E6%B5%B7%E5%A5%B3%E5%84%BF/": {
+      "title": "上海女儿",
+      "source": "即将上映",
+      "date": "2026-09-16",
+      "file": "2026-09-16-上海女儿.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2421b57b-345b-488c-833b-6c81b6a7866d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-16T21:00:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"64da0d2d-f583-4526-bfda-338eb8c4f574\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-16T21:00:24Z"
     }
   },
-  "updated_at": "2026-09-14T12:07:47Z"
+  "updated_at": "2026-09-16T21:00:31Z"
 }
