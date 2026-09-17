@@ -10395,7 +10395,30 @@
         }
       },
       "created_at": "2026-09-17T03:58:41Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-17-%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87/": {
+      "title": "什么意思夫妇",
+      "source": "即将上映",
+      "date": "2026-09-17",
+      "file": "2026-09-17-什么意思夫妇.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T16:29:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b1ab7932-56c9-4a94-ad67-ada1c9467ae5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T16:29:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"38a4383e-6323-471b-aa75-d7f3a2811083\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-17T16:29:54Z"
     }
   },
-  "updated_at": "2026-09-17T03:58:47Z"
+  "updated_at": "2026-09-17T16:29:56Z"
 }
