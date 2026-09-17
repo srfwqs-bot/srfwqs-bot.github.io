@@ -10326,7 +10326,76 @@
         }
       },
       "created_at": "2026-09-16T21:00:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-17-%E6%B0%B4%E4%B8%9C%E6%B8%B8/": {
+      "title": "水东游",
+      "source": "热映",
+      "date": "2026-09-17",
+      "file": "2026-09-17-水东游.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T03:58:42Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ab52324a-97bd-438c-96db-878efe47f850\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T03:58:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5fa2b2bb-d69c-4292-aebf-158f1af81157\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-17T03:58:41Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-17-%E6%88%91%E5%90%91%E5%9B%BD%E6%97%97%E6%95%AC%E7%A4%BC/": {
+      "title": "我向国旗敬礼",
+      "source": "热映",
+      "date": "2026-09-17",
+      "file": "2026-09-17-我向国旗敬礼.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T03:58:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"eb14d24f-a981-469c-ba3f-a0463bef367c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T03:58:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f1374407-fb7f-4213-b87d-4dbc3e092a6f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-17T03:58:41Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-17-%E4%B8%BB%E5%9C%BA/": {
+      "title": "主场",
+      "source": "热映",
+      "date": "2026-09-17",
+      "file": "2026-09-17-主场.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T03:58:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2a995f5b-f236-4b9a-af63-74d5fcce8ed0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-17T03:58:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4922f6e1-dff1-4793-865a-efa3a5543cfb\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-17T03:58:41Z"
     }
   },
-  "updated_at": "2026-09-16T21:00:31Z"
+  "updated_at": "2026-09-17T03:58:47Z"
 }
