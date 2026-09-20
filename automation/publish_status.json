@@ -10579,7 +10579,99 @@
         }
       },
       "created_at": "2026-09-20T03:57:25Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-20-%E9%87%8C%E5%85%8B%E5%B0%94/": {
+      "title": "里克尔",
+      "source": "热映",
+      "date": "2026-09-20",
+      "file": "2026-09-20-里克尔.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:53Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0cfc44d3-c7e7-450a-aa38-5e4c7d62b178\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fcee9237-7ea8-4f4e-b80b-4e601da43105\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-20T10:53:52Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-20-%E6%96%97%E8%BD%AC%E6%98%9F%E7%A7%BB%E5%A4%A9%E5%9C%B0%E9%97%B4/": {
+      "title": "斗转星移天地间",
+      "source": "热映",
+      "date": "2026-09-20",
+      "file": "2026-09-20-斗转星移天地间.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9d99c7da-ac0d-472f-8468-ebd05ecc6b89\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9bdea3b4-79d0-4c2c-925a-0c4a0406be49\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-20T10:53:52Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-20-%E6%83%8A%E9%AD%82%E8%BF%B7%E5%BD%B1/": {
+      "title": "惊魂迷影",
+      "source": "热映",
+      "date": "2026-09-20",
+      "file": "2026-09-20-惊魂迷影.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1308ab05-9a3e-4b54-becd-91f820e24ea2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"660994be-57e6-4421-b361-3f214bffcbfa\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-20T10:53:52Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-20-%E5%97%A8%E7%9A%AE%E5%93%A5/": {
+      "title": "嗨皮哥",
+      "source": "热映",
+      "date": "2026-09-20",
+      "file": "2026-09-20-嗨皮哥.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:53:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a263778d-2db6-4f62-9e96-7cf5a228e443\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-20T10:54:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5a45ceb1-0cbe-4a0f-8565-a8cc4cd5b720\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-20T10:53:52Z"
     }
   },
-  "updated_at": "2026-09-20T03:57:27Z"
+  "updated_at": "2026-09-20T10:54:00Z"
 }
