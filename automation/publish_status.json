@@ -10671,7 +10671,53 @@
         }
       },
       "created_at": "2026-09-20T10:53:52Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-21-%E6%95%A6%E7%85%8C%E4%B9%8B%E6%88%98/": {
+      "title": "敦煌之战",
+      "source": "即将上映",
+      "date": "2026-09-21",
+      "file": "2026-09-21-敦煌之战.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-21T12:17:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"313b19fb-c6a0-4c9f-b55f-60a3831a564c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-21T12:17:05Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e7ce8827-2f93-4f1c-b8fa-426e30525a56\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-21T12:17:03Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-21-%E4%BE%A6%E6%88%98/": {
+      "title": "侦战",
+      "source": "即将上映",
+      "date": "2026-09-21",
+      "file": "2026-09-21-侦战.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-21T12:17:06Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0ff38a08-7589-4a90-9f1a-143e2a90b81a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-21T12:17:07Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"693952fb-c2b1-4e13-bd8f-708a1187632c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-21T12:17:03Z"
     }
   },
-  "updated_at": "2026-09-20T10:54:00Z"
+  "updated_at": "2026-09-21T12:17:07Z"
 }
