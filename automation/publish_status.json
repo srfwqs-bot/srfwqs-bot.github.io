@@ -10740,7 +10740,53 @@
         }
       },
       "created_at": "2026-09-23T03:50:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-24-%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA-%E7%88%86%E5%8F%91%E5%A4%9C/": {
+      "title": "生化危机：爆发夜",
+      "source": "即将上映",
+      "date": "2026-09-24",
+      "file": "2026-09-24-生化危机-爆发夜.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-24T11:19:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8458ed29-4d40-4547-87f3-c07e11ef8952\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-24T11:19:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"002384dc-650b-4b37-bb26-2fafdc1b12e1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-24T11:19:30Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-24-%E6%96%B0%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%92%8C%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8%E4%B9%8B%E5%A4%A9%E7%9C%BC%E7%B3%BB%E5%88%97-%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AC%AC%E4%B8%83%E5%A4%A9/": {
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "source": "即将上映",
+      "date": "2026-09-24",
+      "file": "2026-09-24-新大头儿子和小头爸爸之天眼系列-失控的第七天.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-24T11:19:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"25aa52c0-fa49-49ed-83a6-f2a3c00e2246\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-24T11:19:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"969c0511-fd12-49c8-bc4a-2574a74eb93c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-24T11:19:30Z"
     }
   },
-  "updated_at": "2026-09-23T03:50:14Z"
+  "updated_at": "2026-09-24T11:19:34Z"
 }
