@@ -10924,7 +10924,76 @@
         }
       },
       "created_at": "2026-09-25T11:24:00Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-27-%E8%9D%89%E8%A1%A3/": {
+      "title": "蝉衣",
+      "source": "热映",
+      "date": "2026-09-27",
+      "file": "2026-09-27-蝉衣.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-27T04:16:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"009d44d8-0609-4434-837e-3ecd5a127ce5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-27T04:16:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9d019121-6a04-4a0c-a5ec-ae1daa5b3597\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-27T04:16:46Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-27-%E6%95%A6%E7%85%8C%E8%8B%B1%E9%9B%84/": {
+      "title": "敦煌英雄",
+      "source": "热映",
+      "date": "2026-09-27",
+      "file": "2026-09-27-敦煌英雄.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-27T04:16:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1d9f4a45-cb83-4bcf-89db-994d0136917d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-27T04:16:50Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b7b6ee7b-20e4-4831-a263-b623fef0e738\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-27T04:16:46Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-27-%E4%B8%89%E6%98%9F%E5%A0%86-%E6%9C%AA%E6%9D%A5%E5%BE%80%E4%BA%8B/": {
+      "title": "三星堆：未来往事",
+      "source": "即将上映",
+      "date": "2026-09-27",
+      "file": "2026-09-27-三星堆-未来往事.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-27T04:16:51Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"908e5b65-6db5-46c2-9a0c-03cddf16b9a0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-27T04:16:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"29351bc8-3398-4517-9e7d-adb218f4cf45\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-27T04:16:46Z"
     }
   },
-  "updated_at": "2026-09-25T11:24:11Z"
+  "updated_at": "2026-09-27T04:16:52Z"
 }
