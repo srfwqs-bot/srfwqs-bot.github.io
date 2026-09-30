@@ -11016,7 +11016,30 @@
         }
       },
       "created_at": "2026-09-28T23:01:52Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-09-30-%E7%96%BE%E9%80%9F%E8%BF%BD%E6%9D%80/": {
+      "title": "疾速追杀",
+      "source": "即将上映",
+      "date": "2026-09-30",
+      "file": "2026-09-30-疾速追杀.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-30T21:58:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d0301e95-13b4-4e31-af0c-5cadf955bdce\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-09-30T21:58:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7b4d1472-a3e3-46b1-8e73-55c1c6600f7d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-09-30T21:58:26Z"
     }
   },
-  "updated_at": "2026-09-28T23:01:54Z"
+  "updated_at": "2026-09-30T21:58:28Z"
 }
