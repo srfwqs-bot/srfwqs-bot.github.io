@@ -11039,7 +11039,76 @@
         }
       },
       "created_at": "2026-09-30T21:58:26Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-02-500%E8%8B%B1%E9%87%8C/": {
+      "title": "500英里",
+      "source": "高分推荐",
+      "date": "2026-10-02",
+      "file": "2026-10-02-500英里.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-02T12:04:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e47b3e62-73d6-439f-9e2e-5144e18c25ed\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-02T12:04:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a9523b8a-df22-4851-b5e6-a58c91a8df66\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-02T12:04:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-02-%E9%9A%90%E8%BF%B9%E4%B9%8B%E4%B9%A6-%E9%87%8D%E5%86%99%E8%87%AA%E6%88%91/": {
+      "title": "隐迹之书：重写自我",
+      "source": "高分推荐",
+      "date": "2026-10-02",
+      "file": "2026-10-02-隐迹之书-重写自我.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-02T12:04:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e0faa3a1-db1e-4d95-82bf-819c63a80354\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-02T12:04:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"00cd14cd-6b0c-4514-af0c-82bde268e7ed\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-02T12:04:24Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-02-%E5%9D%82%E6%9C%AC%E6%97%A5%E5%B8%B8-%E7%9C%9F%E4%BA%BA%E7%89%88/": {
+      "title": "坂本日常 真人版",
+      "source": "高分推荐",
+      "date": "2026-10-02",
+      "file": "2026-10-02-坂本日常-真人版.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-02T12:04:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"42b3152f-e866-441f-9c0d-b68009acf26f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-02T12:04:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"43fb56c6-8545-4596-9cd3-ed49a74831dc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-02T12:04:24Z"
     }
   },
-  "updated_at": "2026-09-30T21:58:28Z"
+  "updated_at": "2026-10-02T12:04:31Z"
 }
