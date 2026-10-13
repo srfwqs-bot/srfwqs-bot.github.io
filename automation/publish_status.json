@@ -11292,7 +11292,53 @@
         }
       },
       "created_at": "2026-10-12T04:56:10Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-13-%E6%B2%B3%E7%9A%84%E5%A5%B3%E5%84%BF/": {
+      "title": "河的女儿",
+      "source": "即将上映",
+      "date": "2026-10-13",
+      "file": "2026-10-13-河的女儿.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-13T13:46:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9bb9c1fb-489a-4d9d-9331-f2b251b1edcc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-13T13:46:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ede4a450-d94e-423d-af05-df6a9cbeb3d9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-13T13:46:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-13-%E6%B0%91%E5%AE%BF%E6%83%8A%E9%AD%82/": {
+      "title": "民宿惊魂",
+      "source": "即将上映",
+      "date": "2026-10-13",
+      "file": "2026-10-13-民宿惊魂.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-13T13:46:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"45075fba-f187-4395-a7a0-4a2461e53737\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-13T13:46:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f9b72219-50bf-4f76-bfee-c731c462e010\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-13T13:46:53Z"
     }
   },
-  "updated_at": "2026-10-12T04:56:11Z"
+  "updated_at": "2026-10-13T13:46:58Z"
 }
