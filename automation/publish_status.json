@@ -11338,7 +11338,76 @@
         }
       },
       "created_at": "2026-10-13T13:46:53Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-15-%E8%90%BD%E5%87%A1%E5%B0%98/": {
+      "title": "落凡尘",
+      "source": "热映",
+      "date": "2026-10-15",
+      "file": "2026-10-15-落凡尘.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-15T03:44:13Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"24545401-54dd-430d-b419-f6f22ee13c73\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-15T03:44:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6f7fa26f-f5ce-42e5-8cfb-37b8f3fd58e5\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-15T03:44:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-15-%E5%A4%A9%E5%B7%A5%E8%8B%8F%E4%BD%9C/": {
+      "title": "天工苏作",
+      "source": "热映",
+      "date": "2026-10-15",
+      "file": "2026-10-15-天工苏作.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-15T03:44:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"52075125-9f28-411e-8869-7282d1a1c6a9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-15T03:44:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5a2c792c-b121-4fd6-a170-f5272bab38ae\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-15T03:44:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-15-%E5%96%82%E5%96%82%E5%96%82-%E8%B6%B3%E7%90%83%E9%98%9F/": {
+      "title": "喂喂喂，足球队",
+      "source": "热映",
+      "date": "2026-10-15",
+      "file": "2026-10-15-喂喂喂-足球队.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-15T03:44:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4e098adb-8010-451e-8d91-1d4359a20099\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-15T03:44:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"781f6ba6-74f0-40ca-85a5-3af6c632238f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-15T03:44:12Z"
     }
   },
-  "updated_at": "2026-10-13T13:46:58Z"
+  "updated_at": "2026-10-15T03:44:17Z"
 }
