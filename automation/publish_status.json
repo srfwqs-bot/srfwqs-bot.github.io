@@ -11407,7 +11407,53 @@
         }
       },
       "created_at": "2026-10-15T03:44:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-16-%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%962-%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5/": {
+      "title": "笑傲江湖2：东方不败",
+      "source": "即将上映",
+      "date": "2026-10-16",
+      "file": "2026-10-16-笑傲江湖2-东方不败.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T03:39:38Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"50becb60-74d6-41db-bec7-231cbdab6bfe\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T03:39:39Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"434402d2-9479-4b7d-a919-a269f7d68aa6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-16T03:39:37Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-16-%E6%84%A4%E6%80%92%E7%9A%84%E8%80%81%E8%99%8E/": {
+      "title": "愤怒的老虎",
+      "source": "即将上映",
+      "date": "2026-10-16",
+      "file": "2026-10-16-愤怒的老虎.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T03:39:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9cae2374-e720-4e19-bc55-d6806ca86e0b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T03:39:41Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"af49ebed-29d5-4500-85d4-b7c4f27aa0c0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-16T03:39:37Z"
     }
   },
-  "updated_at": "2026-10-15T03:44:17Z"
+  "updated_at": "2026-10-16T03:39:41Z"
 }
