@@ -11453,7 +11453,76 @@
         }
       },
       "created_at": "2026-10-16T03:39:37Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-16-%E9%80%83%E5%87%BA%E5%B8%83%E8%BF%AA%E7%A7%80/": {
+      "title": "逃出布迪秀",
+      "source": "高分推荐",
+      "date": "2026-10-16",
+      "file": "2026-10-16-逃出布迪秀.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T16:16:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"40d81c3b-3813-412c-badb-64a574352150\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T16:16:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c63c40f9-aeef-4848-9207-503841130c75\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-16T16:16:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-16-%E5%B7%B4%E9%BB%8E%E7%BB%BD%E6%94%BE%E7%9A%84%E6%98%9F%E8%BE%B0/": {
+      "title": "巴黎绽放的星辰",
+      "source": "高分推荐",
+      "date": "2026-10-16",
+      "file": "2026-10-16-巴黎绽放的星辰.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T16:16:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a71b8e12-0d89-42a8-8771-b56b3fcac5f3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T16:16:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5dc8a063-b9f7-46e6-be7c-c86ac9271319\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-16T16:16:13Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-16-%E4%B8%87%E4%BA%BA%E4%B9%8B%E4%B8%8A-%E5%86%AC%E6%94%80%E4%B9%94%E6%88%88%E9%87%8C%E5%B3%B0/": {
+      "title": "万人之上：冬攀乔戈里峰",
+      "source": "高分推荐",
+      "date": "2026-10-16",
+      "file": "2026-10-16-万人之上-冬攀乔戈里峰.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T16:16:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"87e7e973-9e94-4a0f-a012-30763f950ca6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-16T16:16:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4005a3ff-d3b4-4fd1-a58a-81de79b03fa7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-16T16:16:13Z"
     }
   },
-  "updated_at": "2026-10-16T03:39:41Z"
+  "updated_at": "2026-10-16T16:16:20Z"
 }
