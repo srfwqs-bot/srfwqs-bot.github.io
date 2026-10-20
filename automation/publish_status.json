@@ -11614,7 +11614,30 @@
         }
       },
       "created_at": "2026-10-20T03:57:09Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-20-%E5%8B%87%E6%95%A2%E5%A5%B3%E5%AD%A9%E5%90%88%E5%94%B1%E5%9B%A2/": {
+      "title": "勇敢女孩合唱团",
+      "source": "热映",
+      "date": "2026-10-20",
+      "file": "2026-10-20-勇敢女孩合唱团.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-20T21:21:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f2c5f8d1-350d-4645-b876-f3816b26ea36\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-20T21:21:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8924015e-6834-452a-8fd1-bade65790ed1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-20T21:21:54Z"
     }
   },
-  "updated_at": "2026-10-20T03:57:11Z"
+  "updated_at": "2026-10-20T21:21:56Z"
 }
