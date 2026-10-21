@@ -11637,7 +11637,30 @@
         }
       },
       "created_at": "2026-10-20T21:21:54Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-21-%E6%B2%99%E4%B8%983/": {
+      "title": "沙丘3",
+      "source": "即将上映",
+      "date": "2026-10-21",
+      "file": "2026-10-21-沙丘3.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-21T03:46:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"78a453b3-ede3-4b32-b7d5-a42431fb54d6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-21T03:46:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4904e905-5899-4a99-9f97-14b3f2ef7220\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-21T03:46:23Z"
     }
   },
-  "updated_at": "2026-10-20T21:21:56Z"
+  "updated_at": "2026-10-21T03:46:25Z"
 }
