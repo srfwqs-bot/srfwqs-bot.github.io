@@ -11660,7 +11660,30 @@
         }
       },
       "created_at": "2026-10-21T03:46:23Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E7%8F%A0%E7%A9%86%E6%9C%97%E7%8E%9B-%E4%BA%91%E4%B8%AD%E5%BD%BC%E5%B2%B8/": {
+      "title": "珠穆朗玛：云中彼岸",
+      "source": "即将上映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-珠穆朗玛-云中彼岸.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T03:45:41Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9b148f99-fa60-4b99-a254-73b360d6709d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T03:45:42Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"775bb313-f82c-4b7f-bf94-cc8737e770b0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T03:45:40Z"
     }
   },
-  "updated_at": "2026-10-21T03:46:25Z"
+  "updated_at": "2026-10-22T03:45:42Z"
 }
