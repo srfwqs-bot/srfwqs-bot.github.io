@@ -11706,7 +11706,191 @@
         }
       },
       "created_at": "2026-10-22T11:21:18Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E9%98%BF%E5%A7%86%E9%B2%81%E5%A7%86/": {
+      "title": "阿姆鲁姆",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-阿姆鲁姆.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:50Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"109e5a89-f83e-490f-a079-57c8d55b6170\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:51Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"67a620af-22c3-4939-81e2-1fc4748ece55\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E9%80%90%E6%B5%AA%E4%B9%8B%E6%96%87%E5%9C%A3%E5%B8%B8/": {
+      "title": "逐浪之文圣常",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-逐浪之文圣常.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:52Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"768dafde-c7af-4115-9c73-f8bf02a76da3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:54Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f4b41080-a6bd-41a8-949e-8e654e9aeafe\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E8%90%BD%E5%8F%B6%E7%90%83/": {
+      "title": "落叶球",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-落叶球.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:55Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2fd047cb-a806-48bf-9335-60637c04d2e7\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fb1c1bbe-9032-406d-ac09-3430aba85e82\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E6%AE%8B%E5%AD%98%E7%9A%84%E6%84%9F%E6%80%A7/": {
+      "title": "残存的感性",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-残存的感性.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:56Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0fd545d8-f3df-4249-b304-0a0ce8af9cb3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:57Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"741a16ad-3502-48da-879f-ea5c12d073e2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E6%88%91%E7%90%86%E8%A7%A3%E6%82%A8%E7%9A%84%E4%B8%8D%E6%BB%A1/": {
+      "title": "我理解您的不满",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-我理解您的不满.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f30143fa-6afd-464f-940c-2ac792e5ff78\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:50:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"749cc3f6-d9ea-4a9c-9b80-687c6a20c115\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E5%BD%93%E7%8C%AA%E4%BC%9A%E9%A3%9E/": {
+      "title": "当猪会飞",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-当猪会飞.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:51:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"796d94b3-27fa-4091-972a-eabaeedf7ef0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:51:01Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ff64be15-03e6-48da-9bf5-84a44706e2bc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E5%A5%B9%E4%BB%AC%E7%9A%84%E7%8B%82%E6%83%B3%E6%9B%B2/": {
+      "title": "她们的狂想曲",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-她们的狂想曲.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:51:02Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f03293ce-7dc4-4755-aac8-0915ae9f9499\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:51:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2c4c3547-6d59-4034-9989-9380e2475689\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E5%8D%A1%E6%8B%89%E7%9A%84%E5%AE%A1%E5%88%A4/": {
+      "title": "卡拉的审判",
+      "source": "热映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-卡拉的审判.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:51:03Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1bf006d7-7e17-4880-a4e8-927214248a25\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T16:51:04Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"fb30c896-3d82-4e12-bfa9-d42124839890\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T16:50:49Z"
     }
   },
-  "updated_at": "2026-10-22T11:21:20Z"
+  "updated_at": "2026-10-22T16:51:04Z"
 }
