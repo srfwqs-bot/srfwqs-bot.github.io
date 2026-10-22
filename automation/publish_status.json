@@ -11683,7 +11683,30 @@
         }
       },
       "created_at": "2026-10-22T03:45:40Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-22-%E9%98%B4%E9%98%B3%E8%B7%AF%E6%83%8A%E9%AD%82/": {
+      "title": "阴阳路惊魂",
+      "source": "即将上映",
+      "date": "2026-10-22",
+      "file": "2026-10-22-阴阳路惊魂.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T11:21:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e43d734a-6101-4da9-b52e-a7da9255e6fd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-22T11:21:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"29c79e22-b669-4e50-8337-1b081e716f9d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-22T11:21:18Z"
     }
   },
-  "updated_at": "2026-10-22T03:45:42Z"
+  "updated_at": "2026-10-22T11:21:20Z"
 }
