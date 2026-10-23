@@ -11936,7 +11936,122 @@
         }
       },
       "created_at": "2026-10-23T03:49:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-23-%E7%9C%A9%E6%99%95/": {
+      "title": "眩晕",
+      "source": "高分推荐",
+      "date": "2026-10-23",
+      "file": "2026-10-23-眩晕.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:43Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"243a207a-b4e9-4fd3-a618-aa69951119de\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:44Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bfbde05e-9797-4692-b303-4cb943e76a5a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-23T11:12:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-23-%E7%99%BB%E5%B3%B0%E4%BC%A0%E5%A5%87-%E4%B8%B9%E5%A2%9E%E8%AF%BA%E7%9B%96/": {
+      "title": "登峰传奇：丹增诺盖",
+      "source": "高分推荐",
+      "date": "2026-10-23",
+      "file": "2026-10-23-登峰传奇-丹增诺盖.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:45Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4bdc1217-e868-48d8-9e5a-4c3140de4d9f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:46Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5517c270-c01a-4bbf-87f1-4bd2575ccecd\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-23T11:12:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-23-%E6%9D%AF%E9%9B%AA-%E4%B8%80%E6%88%98%E6%88%90%E5%90%8D/": {
+      "title": "杯雪·一战成名",
+      "source": "高分推荐",
+      "date": "2026-10-23",
+      "file": "2026-10-23-杯雪-一战成名.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"58c0b530-a27a-4924-bfc4-eb57d96c72ea\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a7828f79-9a85-4dd5-b09a-2ce3f1e0e330\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-23T11:12:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-23-%E5%BF%83%E9%9A%99/": {
+      "title": "心隙",
+      "source": "热映",
+      "date": "2026-10-23",
+      "file": "2026-10-23-心隙.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"88292ec6-bba5-4973-b866-14ec0af31c80\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5cc7c480-464d-44e7-90d6-789481aea716\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-23T11:12:42Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-23-%E5%AE%B3%E7%BE%A4%E4%B9%8B%E9%A9%AC/": {
+      "title": "害群之马",
+      "source": "高分推荐",
+      "date": "2026-10-23",
+      "file": "2026-10-23-害群之马.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:50Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"52073be7-1728-4358-8a2c-fbfc90119852\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-23T11:12:51Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ab4f5adc-c58f-444e-8d53-b94aeba69fe3\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-23T11:12:42Z"
     }
   },
-  "updated_at": "2026-10-23T03:50:00Z"
+  "updated_at": "2026-10-23T11:12:51Z"
 }
