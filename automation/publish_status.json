@@ -12074,7 +12074,260 @@
         }
       },
       "created_at": "2026-10-24T20:24:43Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E9%83%BD%E7%81%B5%E4%B9%8B%E9%A9%AC/": {
+      "title": "都灵之马",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-都灵之马.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:12Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e7c5488f-f9e1-49f1-9722-f56fab459656\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:13Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"56eadc62-4d3e-4455-a4ed-bb94bcf20d13\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E8%A1%80%E8%BF%B7%E5%AE%AB/": {
+      "title": "血迷宫",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-血迷宫.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"218d47f8-2201-4e55-adad-408fbe4bf19f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"867ec758-1abc-4bbd-b1fd-80ec98dabac9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E8%84%B8%E5%BA%9E-%E6%9D%91%E5%BA%84/": {
+      "title": "脸庞，村庄",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-脸庞-村庄.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"23eaa748-9339-4ad0-8751-501343933796\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2a80e72e-7d90-4f0d-bbfa-1cb810c336ca\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E7%8B%97%E9%95%87/": {
+      "title": "狗镇",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-狗镇.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0fe95d21-68ea-4635-8b20-c15317291b16\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"45a4d94a-1fd6-42ab-864c-69c728527872\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E7%89%BA%E7%89%B2/": {
+      "title": "牺牲",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-牺牲.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4ea14d07-02a0-4829-ab57-5aecf4b3ba9e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d38d5011-0607-4c9d-a229-214574f2a5de\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E6%8E%A5%E8%BF%91%E7%BB%88%E7%82%B9/": {
+      "title": "接近终点",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-接近终点.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e0cd603b-8e15-481b-92c7-d81f25e3a8ce\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:20Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"17d38a4d-6cfc-41a8-b593-b602bf552e5b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E5%AD%90%E5%BC%B9%E6%A8%AA%E9%A3%9E%E7%99%BE%E8%80%81%E6%B1%87/": {
+      "title": "子弹横飞百老汇",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-子弹横飞百老汇.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4668de9e-342f-429c-b67f-8cc585d451ef\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6fdf117e-744e-44b6-ba5b-0f2d19bd59dc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E5%A4%AA%E5%A4%AA%E4%B8%87%E5%B2%81/": {
+      "title": "太太万岁",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-太太万岁.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"40e0817b-f333-43f6-a004-8a81d3171a20\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0ce2e32a-60b3-48e4-8228-5ef63a1b8227\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E5%9C%A8%E9%82%A3%E6%B2%B3%E7%95%94%E9%9D%92%E8%8D%89%E9%9D%92/": {
+      "title": "在那河畔青草青",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-在那河畔青草青.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"c12f9e3d-057c-4144-813b-bbfdcbdde96b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"2518679f-68b3-4b3e-acf8-2253876a1c8e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E5%88%97%E5%AE%81%E6%A0%BC%E5%8B%92%E7%89%9B%E4%BB%94%E5%BE%81%E7%BE%8E%E8%AE%B0/": {
+      "title": "列宁格勒牛仔征美记",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-列宁格勒牛仔征美记.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"dc084ca5-51d4-487a-b33c-1a40c32675b1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a5c65662-fd5a-4856-a7fc-5d108c575996\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-26-%E4%BD%95%E5%A4%84%E6%98%AF%E6%88%91%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%AE%B6/": {
+      "title": "何处是我朋友的家",
+      "source": "热映",
+      "date": "2026-10-26",
+      "file": "2026-10-26-何处是我朋友的家.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"6ff8225c-2a21-4293-8e8a-5469c43254f2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-26T12:29:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"9a3e62ce-de9f-4c44-9017-a5114733b484\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-26T12:29:11Z"
     }
   },
-  "updated_at": "2026-10-24T20:24:45Z"
+  "updated_at": "2026-10-26T12:29:27Z"
 }
