@@ -1,5 +1,14 @@
 [
   {
+    "title": "黑球",
+    "url": "https://wztj.893810.xyz/posts/2026-10-30-%E9%BB%91%E7%90%83/",
+    "source": "高分推荐",
+    "date": "2026-10-30",
+    "file": "2026-10-30-黑球.md",
+    "state": "pending",
+    "queued_at": "2026-10-30T12:20:29Z"
+  },
+  {
     "title": "魔法秘境",
     "url": "https://wztj.893810.xyz/posts/2026-10-30-%E9%AD%94%E6%B3%95%E7%A7%98%E5%A2%83/",
     "source": "即将上映",
@@ -16,6 +25,33 @@
     "file": "2026-10-30-霹雳英雄-素还真.md",
     "state": "pending",
     "queued_at": "2026-10-30T04:51:47Z"
+  },
+  {
+    "title": "茫然女王",
+    "url": "https://wztj.893810.xyz/posts/2026-10-30-%E8%8C%AB%E7%84%B6%E5%A5%B3%E7%8E%8B/",
+    "source": "高分推荐",
+    "date": "2026-10-30",
+    "file": "2026-10-30-茫然女王.md",
+    "state": "pending",
+    "queued_at": "2026-10-30T12:20:29Z"
+  },
+  {
+    "title": "突如其来",
+    "url": "https://wztj.893810.xyz/posts/2026-10-30-%E7%AA%81%E5%A6%82%E5%85%B6%E6%9D%A5/",
+    "source": "高分推荐",
+    "date": "2026-10-30",
+    "file": "2026-10-30-突如其来.md",
+    "state": "pending",
+    "queued_at": "2026-10-30T12:20:29Z"
+  },
+  {
+    "title": "忘却之岛",
+    "url": "https://wztj.893810.xyz/posts/2026-10-30-%E5%BF%98%E5%8D%B4%E4%B9%8B%E5%B2%9B/",
+    "source": "高分推荐",
+    "date": "2026-10-30",
+    "file": "2026-10-30-忘却之岛.md",
+    "state": "pending",
+    "queued_at": "2026-10-30T12:20:29Z"
   },
   {
     "title": "那家伙的一生",
