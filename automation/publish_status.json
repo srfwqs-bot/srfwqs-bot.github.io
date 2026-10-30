@@ -12442,7 +12442,53 @@
         }
       },
       "created_at": "2026-10-29T12:29:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-30-%E9%AD%94%E6%B3%95%E7%A7%98%E5%A2%83/": {
+      "title": "魔法秘境",
+      "source": "即将上映",
+      "date": "2026-10-30",
+      "file": "2026-10-30-魔法秘境.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-30T04:51:47Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f24d69b7-a09f-4c9d-9d8a-f2effd9416f2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-30T04:51:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"cd1a129e-9cd9-45ba-a41d-fdf4224e84d6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-30T04:51:47Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-10-30-%E9%9C%B9%E9%9B%B3%E8%8B%B1%E9%9B%84-%E7%B4%A0%E8%BF%98%E7%9C%9F/": {
+      "title": "霹雳英雄：素还真",
+      "source": "即将上映",
+      "date": "2026-10-30",
+      "file": "2026-10-30-霹雳英雄-素还真.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-30T04:51:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d3b299e7-905f-4870-95e8-d914bee626c2\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-10-30T04:51:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"351a8eb8-d036-4613-b955-8788cd358d27\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-10-30T04:51:47Z"
     }
   },
-  "updated_at": "2026-10-29T12:29:06Z"
+  "updated_at": "2026-10-30T04:51:49Z"
 }
