@@ -12971,7 +12971,76 @@
         }
       },
       "created_at": "2026-11-10T14:30:00Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-10-%E8%BF%BD%E5%85%89%E8%80%85/": {
+      "title": "追光者",
+      "source": "热映",
+      "date": "2026-11-10",
+      "file": "2026-11-10-追光者.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-10T22:57:13Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b85ca839-6e74-4160-8157-2c71e1124f26\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-10T22:57:14Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"90606abd-a3de-4fdc-80b6-5eadbf8bc9f6\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-10T22:57:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-10-%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3%E7%9A%84%E4%BD%A0/": {
+      "title": "无可替代的你",
+      "source": "热映",
+      "date": "2026-11-10",
+      "file": "2026-11-10-无可替代的你.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-10T22:57:15Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"7ea33aee-e9fe-4fa8-b773-fccd578d3655\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-10T22:57:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b4b8324b-b4fd-4545-a1b8-070d65fa8fee\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-10T22:57:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-10-%E5%90%89%E4%BA%BA%E8%87%AA%E6%9C%89%E5%A4%A9%E7%9B%B8/": {
+      "title": "吉人自有天相",
+      "source": "热映",
+      "date": "2026-11-10",
+      "file": "2026-11-10-吉人自有天相.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-10T22:57:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"17d6fe77-1ed5-46be-89eb-5c4c55b59d7b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-10T22:57:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"bd3d1442-6f43-4548-9b53-96357cd8cc53\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-10T22:57:12Z"
     }
   },
-  "updated_at": "2026-11-10T14:30:03Z"
+  "updated_at": "2026-11-10T22:57:18Z"
 }
