@@ -13040,7 +13040,30 @@
         }
       },
       "created_at": "2026-11-10T22:57:12Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-11-%E9%A1%BE%E7%82%8E%E6%AD%A6/": {
+      "title": "顾炎武",
+      "source": "即将上映",
+      "date": "2026-11-11",
+      "file": "2026-11-11-顾炎武.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-11T13:44:48Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"05ae565a-589d-49c5-9717-e7d9f38f16c4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-11T13:44:49Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"08d3caeb-e85e-42f2-ae8c-2b9df806b04d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-11T13:44:47Z"
     }
   },
-  "updated_at": "2026-11-10T22:57:18Z"
+  "updated_at": "2026-11-11T13:44:49Z"
 }
