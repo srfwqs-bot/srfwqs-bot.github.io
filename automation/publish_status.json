@@ -13362,7 +13362,30 @@
         }
       },
       "created_at": "2026-11-16T15:08:32Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-17-%E6%B3%A5%E9%9D%A2%E4%BA%BA/": {
+      "title": "泥面人",
+      "source": "热映",
+      "date": "2026-11-17",
+      "file": "2026-11-17-泥面人.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-17T15:41:21Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"b0284f04-b75a-4e89-905c-d5765d6342c1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-17T15:41:22Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1968bcbb-d354-44cb-bbc7-d183e72022d4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-17T15:41:19Z"
     }
   },
-  "updated_at": "2026-11-16T15:08:36Z"
+  "updated_at": "2026-11-17T15:41:22Z"
 }
