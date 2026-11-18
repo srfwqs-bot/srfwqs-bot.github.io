@@ -13385,7 +13385,30 @@
         }
       },
       "created_at": "2026-11-17T15:41:19Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-18-%E5%BE%AA%E7%8E%AF%E8%A1%97%E5%8C%BA/": {
+      "title": "循环街区",
+      "source": "即将上映",
+      "date": "2026-11-18",
+      "file": "2026-11-18-循环街区.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-18T15:17:40Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"4250fda5-c501-4bbd-80a8-6c17e60c1fd4\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-18T15:17:41Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"df4738db-4f03-4be6-8959-3770f41834cc\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-18T15:17:38Z"
     }
   },
-  "updated_at": "2026-11-17T15:41:22Z"
+  "updated_at": "2026-11-18T15:17:41Z"
 }
