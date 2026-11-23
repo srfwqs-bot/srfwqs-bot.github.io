@@ -13569,7 +13569,53 @@
         }
       },
       "created_at": "2026-11-21T18:50:06Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-23-%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B9%8B%E7%9C%9F%E5%81%87%E7%BE%8E%E7%8C%B4%E7%8E%8B/": {
+      "title": "西游记之真假美猴王",
+      "source": "即将上映",
+      "date": "2026-11-23",
+      "file": "2026-11-23-西游记之真假美猴王.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-23T06:22:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"8197cc37-6b75-45e4-bbdc-ab6e01b52f3e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-23T06:22:58Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0fe33f0d-9514-4efb-8588-95e96137e7d8\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-23T06:22:57Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-23-%E4%B9%8C%E9%BE%99%E9%95%87/": {
+      "title": "乌龙镇",
+      "source": "即将上映",
+      "date": "2026-11-23",
+      "file": "2026-11-23-乌龙镇.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-23T06:22:59Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"ffafe292-9f42-46da-85ec-0db20365c23c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-23T06:23:00Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f1f556dd-3148-4767-be5b-ebeea977201d\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-23T06:22:57Z"
     }
   },
-  "updated_at": "2026-11-21T18:50:11Z"
+  "updated_at": "2026-11-23T06:23:00Z"
 }
