@@ -13776,7 +13776,53 @@
         }
       },
       "created_at": "2026-11-26T21:04:04Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E5%86%B3%E8%83%9C%E8%85%8A%E5%AD%90%E5%8F%A3/": {
+      "title": "决胜腊子口",
+      "source": "热映",
+      "date": "2026-11-27",
+      "file": "2026-11-27-决胜腊子口.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T07:17:16Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"72a91056-4589-4ee2-891c-2d224353147b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T07:17:17Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"69da1447-c860-4134-878a-2fcac25bfd81\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T07:17:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E4%BD%9F%E4%BD%9F%E7%9A%84%E5%BC%82%E6%83%B3%E4%B8%96%E7%95%8C/": {
+      "title": "佟佟的异想世界",
+      "source": "热映",
+      "date": "2026-11-27",
+      "file": "2026-11-27-佟佟的异想世界.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T07:17:18Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5f2f3d75-bb92-493a-ab03-090b46f0b9a9\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T07:17:19Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"71209691-2f23-4c86-9471-ebbb75255971\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T07:17:16Z"
     }
   },
-  "updated_at": "2026-11-26T21:04:06Z"
+  "updated_at": "2026-11-27T07:17:19Z"
 }
