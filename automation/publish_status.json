@@ -13822,7 +13822,214 @@
         }
       },
       "created_at": "2026-11-27T07:17:16Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E8%9A%8A%E5%AD%90%E6%9D%AF-%E6%9C%80%E5%90%8E%E4%B8%80%E5%BD%B9/": {
+      "title": "蚊子杯：最后一役",
+      "source": "高分推荐",
+      "date": "2026-11-27",
+      "file": "2026-11-27-蚊子杯-最后一役.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:23Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f0b174a9-626c-4b3a-b07b-8efe9502a7ce\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:24Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"549c6eba-f7c0-4776-99ba-79d450054968\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E8%8A%B1%E8%B0%A2%E8%8A%B1%E5%8F%88%E5%BC%80/": {
+      "title": "花谢花又开",
+      "source": "即将上映",
+      "date": "2026-11-27",
+      "file": "2026-11-27-花谢花又开.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a52e2d80-423d-4340-a314-84437e038e91\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:25Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a8cbb0bb-2ad1-4764-8180-127e6d4b803e\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E7%AB%A5%E8%AF%9D%E7%BB%A7%E5%A7%90%E5%A6%B9/": {
+      "title": "童话继姐妹",
+      "source": "高分推荐",
+      "date": "2026-11-27",
+      "file": "2026-11-27-童话继姐妹.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:26Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"979c3050-5e22-4a1f-b883-6dff457b2918\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"42bc194b-6834-4ac7-bb83-d1bfc194c079\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E7%9B%AE%E5%87%BB%E8%80%85%E7%BA%A6%E7%91%9F%E8%8A%AC/": {
+      "title": "目击者约瑟芬",
+      "source": "即将上映",
+      "date": "2026-11-27",
+      "file": "2026-11-27-目击者约瑟芬.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:27Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a9af31bd-5673-4835-953c-001660016322\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:28Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"5ecd2213-a43b-4824-b081-0f4e12683c64\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E5%B3%A1%E6%B9%BE/": {
+      "title": "峡湾",
+      "source": "高分推荐",
+      "date": "2026-11-27",
+      "file": "2026-11-27-峡湾.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:29Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"52a60bb3-7329-4609-93bc-edd15ab7615b\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"feab3781-4610-4f22-ba19-143c9c4d62d0\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E5%A4%9A%E8%90%9D%E8%A5%BF/": {
+      "title": "多萝西",
+      "source": "高分推荐",
+      "date": "2026-11-27",
+      "file": "2026-11-27-多萝西.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:30Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"d60fcaa9-c898-41b6-aff3-2d07a3c2f212\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:31Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"709bf87e-7eba-4fb4-b41d-b5112fbc787a\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E5%90%91%E5%BE%80%E7%9A%84%E5%86%92%E9%99%A9/": {
+      "title": "向往的冒险",
+      "source": "高分推荐",
+      "date": "2026-11-27",
+      "file": "2026-11-27-向往的冒险.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:32Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"a364867a-6a25-4858-90e1-9ecc84d5183c\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"e221df38-c7c9-4d94-9376-4893cc4376c1\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E4%BD%99%E7%94%9F%E6%9C%89%E4%BD%A0/": {
+      "title": "余生有你",
+      "source": "即将上映",
+      "date": "2026-11-27",
+      "file": "2026-11-27-余生有你.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:33Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"f013a506-455d-4b4f-9500-e9011c91fa15\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:34Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"0edf3f30-3be7-4cab-8d40-0164518c1244\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
+    },
+    "https://wztj.893810.xyz/posts/2026-11-27-%E4%B8%80%E5%88%87%E5%A6%82%E4%BD%A0%E6%89%80%E8%A7%81/": {
+      "title": "一切如你所见",
+      "source": "高分推荐",
+      "date": "2026-11-27",
+      "file": "2026-11-27-一切如你所见.md",
+      "platforms": {
+        "baijiahao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"baijiahao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"1e36fb07-c9f7-4c11-899b-80347cc8c96f\",\"status\":\"queued\"}}",
+          "http_code": 200
+        },
+        "toutiao": {
+          "status": "success",
+          "last_attempt_at": "2026-11-27T20:49:35Z",
+          "attempts": 1,
+          "message": "{\"ok\":true,\"platform\":\"toutiao\",\"accepted\":true,\"bridge\":{\"ok\":true,\"accepted\":true,\"task_id\":\"25200e92-970f-4e79-8608-8a91ac855274\",\"status\":\"queued\"}}",
+          "http_code": 200
+        }
+      },
+      "created_at": "2026-11-27T20:49:22Z"
     }
   },
-  "updated_at": "2026-11-27T07:17:19Z"
+  "updated_at": "2026-11-27T20:49:35Z"
 }
